@@ -332,6 +332,7 @@ item.seat.name=Сиденье
 item.seat.desc=Сядьте и расслабьтесь.
 item.repeater.name=Повторитель
 item.repeater.desc=Задерживает редстоун сигнал.
+item.map.blank.name=Пустая карта
 item.map.name=Карта
 item.map.desc=Зарисуйте свои земли!
 item.leaves.name=Листва
@@ -388,6 +389,14 @@ item.lantern.firefly.blue.name=Фонарь с синими светлячкам
 item.lantern.firefly.blue.desc=Стеклянная банка с роем синих светлячков.
 item.lantern.firefly.red.name=Фонарь с красными светлячками
 item.lantern.firefly.red.desc=Стеклянная банка с роем красных светлячков.
+item.jar.butterfly.blue.name=Синяя бабочка в банке
+item.jar.butterfly.blue.desc=Стеклянная банка с синей бабочкой внутри.
+item.jar.butterfly.orange.name=Оранжевая бабочка в банке
+item.jar.butterfly.orange.desc=Стеклянная банка с оранжевой бабочкой внутри.
+item.jar.butterfly.pink.name=Розовая бабочка в банке
+item.jar.butterfly.pink.desc=Стеклянная банка с розовой бабочкой внутри.
+item.jar.butterfly.silver.name=Серебряная бабочка в банке
+item.jar.butterfly.silver.desc=Стеклянная банка с серебряной бабочкой внутри.
 
 item.basket.name=Корзина
 item.basket.desc=Плетёная ёмкость для хранения предметов.
@@ -414,3 +423,19 @@ item.food.pumpkin_pie.desc=Торт - это пирог!
 
 item.door.glass.tinted.name=Дверь из тонированного стекла
 item.door.glass.tinted.desc=Неплоха для эстетики, неплоха для уединения
+
+item.paintbrush.name=Кисть
+item.paintbrush.desc=Окунув в краситель, позволяет красить блоки.
+
+item.statue.stone.name=Каменная статуя
+item.statue.stone.desc=Декоративная статуя из камня для вашей экипировки.
+item.statue.basalt.name=Базальтовая статуя
+item.statue.basalt.desc=Декоративная статуя из базальта для вашей экипировки.
+item.statue.limestone.name=Известняковая статуя
+item.statue.limestone.desc=Декоративная статуя из известняка для вашей экипировки.
+item.statue.granite.name=Гранитная статуя
+item.statue.granite.desc=Декоративная статуя из гранита для вашей экипировки.
+item.statue.marble.name=Мраморная статуя
+item.statue.marble.desc=Декоративная статуя из мрамора для вашей экипировки.
+item.statue.pigman.name=Статуя свиночеловека
+item.statue.pigman.desc=Древняя мраморная статуя из давно забытого места.

@@ -93,6 +93,9 @@ gui.create_world.pages.game_rules.title=Игровые правила
 gui.dispenser.label.dispenser=Раздатчик
 gui.dispenser.label.inventory=Инвентарь
 
+gui.activator.label.activator=Активатор
+gui.activator.label.inventory=Инвентарь
+
 gui.downloading_terrain.label.title=Загузка ландшафта
 
 gui.edit_flag.label.inventory=Инвентарь
@@ -184,6 +187,9 @@ gui.options.page.general.category.gameplay=Игровой процесс
 gui.options.page.general.category.user_interface=Интерфейс
 gui.options.page.general.category.miscellaneous=Прочее
 
+gui.options.page.player.title=Игрок
+gui.options.page.player.category.player=Игрок
+
 gui.options.page.audio.title=Аудио
 gui.options.page.audio.category.audio=Аудио
 gui.options.page.audio.category.debug=Отладка
@@ -207,6 +213,9 @@ gui.options.page.controls.category.hotbar=Хотбар
 gui.options.page.controls.category.view=Камера
 gui.options.page.controls.category.miscellaneous=Прочее
 
+gui.options.page.accessibility.title=Доступность
+gui.options.page.accessibility.category.accessibility=Доступность
+
 gui.options.page.texture_packs.title=Наборы текстур
 gui.options.page.texture_packs.category.textures=Текстуры
 gui.options.page.texture_packs.category.texture_packs.available=Доступные наборы текстур
@@ -214,8 +223,8 @@ gui.options.page.texture_packs.category.texture_packs.selected=Выбранны�
 gui.options.page.texture_packs.button.open_folder=Открыть папку
 gui.options.page.texture_packs.button.apply=Применить наборы текстур
 gui.options.page.texture_packs.label.no_packs=Не найдено наборов текстур :(
-gui.options.page.texture_packs.label.outdated_pack.1=Устаревший набор!
-gui.options.page.texture_packs.label.outdated_pack.2=Набор не может быть загружен в данной версии.
+gui.options.page.texture_packs.label.outdated_pack.1=Устаревший!
+gui.options.page.texture_packs.label.outdated_pack.2=Набор не создан для данной версии BTA!
 
 gui.options.page.language_packs.title=Наборы языков
 gui.options.page.language_packs.category.language_packs=Наборы языков

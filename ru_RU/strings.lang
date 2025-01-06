@@ -1,5 +1,5 @@
 dimension.overworld.name=Верхний мир
-dimension.hell.name=Незер
+dimension.nether.name=Незер
 dimension.paradise.name=Поднебесье
 
 season.overworld.spring.name=Весна
@@ -20,6 +20,7 @@ weather.overworld.snow.name=Снег
 weather.overworld.winter.snow.name=Снег
 weather.overworld.storm.name=Гроза
 weather.overworld.fog.name=Туман
+weather.overworld.rain.blood.name=Кровавый дождь
 
 gamemode.survival.name=Выживание
 gamemode.creative.name=Творчество
@@ -136,6 +137,19 @@ sign.image.craft=Крафт
 sign.image.afk=AFK
 sign.image.brb=Скоро вернусь
 
+record.13=13
+record.cat=Cat
+record.blocks=Blocks
+record.chirp=Chirp
+record.far=Far
+record.mall=Mall
+record.mellohi=Mellohi
+record.stal=Stal
+record.strad=Strad
+record.ward=Ward
+record.wait=Wait
+record.dog=Dog
+
 flag.full=У вас слишком много флагов на карте
 flag.overwrite=Нельзя перезаписать существующий шаблон
 flag.copied=Шаблон флага скопирован
@@ -143,3 +157,33 @@ flag.copied=Шаблон флага скопирован
 wand.wrongmode=Для применения необходимо быть в режиме творчества!
 
 save.data.missing.data=Утеряны данные мира!
+
+unit.day=День
+
+direction.up=Верх
+direction.down=Низ
+direction.north=Север
+direction.south=Юг
+direction.west=Запад
+direction.east=Восток
+direction.none=Отсутствует
+
+side.top=Верх
+side.bottom=Низ
+side.north=Север
+side.south=Юг
+side.west=Запад
+side.east=Восток
+side.none=Отсутствует
+
+container.activator.name=Активатор
+container.chest.name=Сундук
+container.dispenser.name=Раздатчик
+container.flag.name=Флаг
+container.furnace.name=Печь
+container.furnace_blast.name=Плавильня
+container.trommel.name=Просеиватель
+container.minecart.name=Вагонетка
+container.crafting.name=Создание
+container.inventory.name=Инвентарь
+container.result.name=Результат

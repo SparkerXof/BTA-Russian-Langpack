@@ -1,0 +1,85 @@
+subtitles.mob.sheep=Овца блеет
+subtitles.mob.chicken=Курица кудахчет
+subtitles.mob.chicken.hurt=Курица ранена
+subtitles.mob.chicken.plop=Курица сносит яйцо
+subtitles.mob.pig=Свинья хрюкает
+subtitles.mob.pig.death=Свинья погибает
+subtitles.mob.wolf.howl=Волк воет
+subtitles.mob.wolf.panting=Волк фырчит
+subtitles.mob.wolf.hurt=Волк ранен
+subtitles.mob.wolf.bark=Волк лает
+subtitles.mob.wolf.growl=Волк вычит
+subtitles.mob.wolf.death=Волк погибает
+subtitles.mob.wolf.whine=Волк скулит
+subtitles.mob.wolf.shake=Волк отряхивается
+subtitles.mob.cow.hurt=Корова ранена
+subtitles.mob.cow=Корова мычит
+subtitles.mob.zombie=Зомби рычит
+subtitles.mob.zombie.hurt=Зомби ранен
+subtitles.mob.zombie.death=Зомби погибает
+subtitles.mob.zombiepig.zpighurt=Свинозомби ранен
+subtitles.mob.zombiepig.zpig=Свинозомби рычит
+subtitles.mob.zombiepig.zpigdeath=Свинозомби погибает
+subtitles.mob.zombiepig.zpigangry=Свинозомби злится
+subtitles.mob.skeleton=Скелет стучит костями
+subtitles.mob.skeleton.death=Скелет погибает
+subtitles.mob.skeleton.hurt=Скелет ранен
+subtitles.mob.ghast.fireball=Фаербол гаста
+subtitles.mob.ghast.moan=Гаст плачет
+subtitles.mob.ghast.death=Гаст погибает
+subtitles.mob.ghast.scream=Крик гаста
+subtitles.mob.ghast.affectionate_scream=Ласковый крик гаста
+subtitles.mob.creeper=Крипер шипит
+subtitles.mob.creeper.death=Крипер погибает
+subtitles.mob.spider.death=Паук погибает
+subtitles.mob.spider=Паук шипит
+subtitles.mob.ghast.charge=Гаст выстреливает
+subtitles.mob.slime.attack=Слизень атакует
+subtitles.mob.slime=Слизень
+
+subtitles.fall.small=Малое падение
+subtitles.damage.fall.big=Большое падение
+
+subtitles.liquid.water=Вода течёт
+subtitles.liquid.lava.pop=Бурление лавы
+subtitles.liquid.lava=Бурление лавы
+subtitles.liquid.splash=Всплеск воды
+
+subtitles.portal.portal=Завывание портала
+subtitles.portal.trigger=Вход в портал
+subtitles.portal.travel=Выход из портала
+
+subtitles.random.fizz=Шипение
+subtitles.random.drr=Попадание стрелой
+subtitles.random.fuse=Фитиль динамита зажжён
+subtitles.random.pop=Подбор предмета
+subtitles.random.glass=Стекло
+subtitles.random.door_open=Дверь открылась
+subtitles.random.door_close=Дверь закрылась
+subtitles.random.explode=Взрыв
+subtitles.random.bow=Выстрел
+subtitles.random.hurt=Ранение
+subtitles.random.splash=Всплеск
+subtitles.random.breath=Дыхание
+subtitles.random.bite=Игрок ест
+subtitles.random.equip=Броня надета
+
+subtitles.note.snare=Малый барабан
+subtitles.note.harp=Арфа
+subtitles.note.bass=Басс
+subtitles.note.bd=Большой барабан
+subtitles.note.pling=Электропианино
+subtitles.note.hat=Тарелки
+subtitles.note.bassattack=Струна
+
+subtitles.ambient.weather.thunder=Молния
+subtitles.ambient.cave=Звуки пещер
+subtitles.ambient.weather.rain=Дождь
+
+subtitles.tile.piston.out=Поршень выдвинут
+subtitles.tile.piston.in=Поршень задвинут
+
+subtitles.hurt.flesh=Hurt flesh
+
+subtitles.fire.ignite=Огонь зажжён
+subtitles.fire.fire=Огонь разгорается
