@@ -1,0 +1,379 @@
+gui.achievement.label.get=Новое достижение!
+gui.achievement.label.unlicensed.1=Better than Adventure! %s Нелицензионная копия :(
+gui.achievement.label.unlicensed.2=(или вход из другого места)
+gui.achievement.label.unlicensed.3=Купите на minecraft.net
+
+gui.achievements.button.done=Готово
+gui.achievements.label.title=Достижения
+gui.achievements.label.taken=Получено!
+gui.achievements.label.requires=Требуется '%1$s'
+gui.achievements.label.completion=%1$s выполнено!
+
+gui.achievements.page.vanilla.name=Ванилла
+gui.achievements.page.vanilla.desc=Достижения Better than Adventure!
+gui.achievements.page.overworld.name=Верхний мир
+gui.achievements.page.overworld.desc=Достижения стартового измерения!
+gui.achievements.page.nether.name=Незер
+gui.achievements.page.nether.desc=Адские достижения!
+
+gui.add_server.label.title=Добавить
+gui.add_server.button.save=Сохранить
+gui.add_server.button.cancel=Отмена
+gui.add_server.button.show_ip=Отображение IP: %s
+gui.add_server.button.show_ip.on=ВКЛ
+gui.add_server.button.show_ip.off=ВЫКЛ
+gui.add_server.label.server_name=Имя сервера
+gui.add_server.label.ip_address=IP адрес
+
+gui.bad_java_arch.label.title=32-битная версия Java обнаружена!
+gui.bad_java_arch.label.body.1=Похоже вы запускаете Better than Adventure на 32-битной версии Java.
+gui.bad_java_arch.label.body.2=Это может создать проблемы с распределением памяти, включающие в себя тормоза
+gui.bad_java_arch.label.body.3=и возможные вылеты.
+gui.bad_java_arch.label.body.4=Пожалуйста, установите 64-битную версию JRE, например, Eclipse Temurin.
+gui.bad_java_arch.button.download=Загузить
+gui.bad_java_arch.button.continue=Продолжить
+
+gui.no_minecraft.label.title=Minecraft Beta 1.7.3 не найдена!
+gui.no_minecraft.label.body.1=Похоже, вы запускаете Better than Adventure! без Minecraft Beta 1.7.3.
+gui.no_minecraft.label.body.2=Better than Adventure! должен быть установлен с официальной копией
+gui.no_minecraft.label.body.3=Minecraft Beta 1.7.3 для корректной работы.
+gui.no_minecraft.label.body.4=Данная проблема возникает, если вы совершили ошибку во время установки
+gui.no_minecraft.label.body.5=Пожалуйста, ознакомьтесь с гайдом по установке, указанным ниже.
+gui.no_minecraft.button.guide=Гайд по установке
+gui.no_minecraft.button.quit=Выход из игры
+
+gui.conflict_warning.label.title=Конфликт безопасности мира
+gui.conflict_warning.label.body.1=Minecraft обнаружил конфликт в сохраненённых данных мира.
+gui.conflict_warning.label.body.2=Это может возникнуть из-за двух запущенных кпий игры,
+gui.conflict_warning.label.body.3=имеющих доступ к одному миру.
+gui.conflict_warning.label.body.4=Чтобы избежать повреждений мира, текущая игра будет завершена.
+gui.conflict_warning.button.back=Назад в меню
+
+gui.connect_failed.label.title=Ошибка подкючения к серверу
+gui.connect_failed.button.back=Назад в меню
+
+gui.connect_to_ip.button.connect=Подключиться
+gui.connect_to_ip.button.cancel=Отмена
+gui.connect_to_ip.label.title=Подключение по IP
+gui.connect_to_ip.label.enter_ip=Введите IP сервера, чтобы войти:
+
+gui.connecting.button.cancel=Отмена
+gui.connecting.label.connecting=Подключение к серверу...
+gui.connecting.label.logging_in=Вход...
+
+gui.controller_setup.button.back=Назад
+gui.controller_setup.label.no_controller_selected=Контроллер не выбран!
+
+gui.crafting.label.crafting=Создание
+gui.crafting.label.inventory=Инвентарь
+
+gui.create_world.label.title=Создать новый мир
+gui.create_world.label.world_name=Название
+gui.create_world.label.seed=Ключ генератора мира
+gui.create_world.button.create_new_world=Создать новый мир
+gui.create_world.button.cancel=Назад
+gui.create_world.button.gamemode=%s
+gui.create_world.button.cheats=Читы: %s
+gui.create_world.button.cheats.on=ВКЛ
+gui.create_world.button.cheats.off=ВЫКЛ
+gui.create_world.button.world_type=Тип мира: %s
+gui.create_world.label.new_world=Новый мир
+gui.create_world.label.select_world_type=Выберите тип мира
+
+gui.create_world.label.title=Создание мира
+gui.create_world.button.cancel=Отмена
+gui.create_world.button.create_world=Создать мир
+
+gui.create_world.pages.general.title=Общее
+gui.create_world.pages.general.label.world_name=Название мира
+gui.create_world.pages.general.label.world_seed=Ключ генератора мира
+gui.create_world.pages.world_settings.title=Настройки мира
+gui.create_world.pages.game_rules.title=Игровые правила
+
+gui.dispenser.label.dispenser=Раздатчик
+gui.dispenser.label.inventory=Инвентарь
+
+gui.downloading_terrain.label.title=Загузка ландшафта
+
+gui.edit_flag.label.inventory=Инвентарь
+
+gui.edit_label.label.title=Редактирование бирки:
+gui.edit_label.button.done=Готово
+
+gui.edit_sign.label.title=Редактирование таблички:
+gui.edit_sign.button.done=Готово
+
+gui.exception.label.exception_occurred=Возникло исключение!
+gui.exception.label.fatal_error=Возникла критическая ошибка!
+gui.exception.label.startup_error=Ошибка запуска Minecraft!
+gui.exception.button.copy_error=Копировать
+gui.exception.button.copy_error_and_quit=Копировать и выйти
+gui.exception.button.back=Назад в меню
+
+gui.furnace.label.furnace=Печь
+gui.furnace.blast.label.blast_furnace=Плавильня
+gui.furnace.label.inventory=Инвентарь
+
+gui.game_over.label.title=Вы умерли!
+gui.game_over.label.score=Очки: %s
+gui.game_over.button.respawn=Возродиться
+gui.game_over.button.title_screen=Главное меню
+
+gui.guidebook.label.title=Путеводитель
+
+gui.ingame.label.now_playing=Сейчас играет: %s
+
+gui.ingame_menu.label.title=Меню
+gui.ingame_menu.label.score=Очки: %s
+gui.ingame_menu.label.saving=Сохранение...
+gui.ingame_menu.button.save_and_quit=Сохранить и выйти
+gui.ingame_menu.button.disconnect=Отключиться
+gui.ingame_menu.button.back_to_game=Вернуться в игру
+gui.ingame_menu.button.options=Настройки...
+gui.ingame_menu.button.photo_mode=Фото-режим...
+gui.ingame_menu.button.achievements=Достижения
+gui.ingame_menu.button.statistics=Статистика
+
+gui.inventory.label.crafting=Создание
+gui.inventory.creative.label.search=Поиск...
+
+gui.loading.label.generating=Генерация мира...
+gui.loading.label.loading=Загрузка мира...
+gui.loading.label.entering=Вход в %s...
+gui.loading.label.leaving=Выход из %s...
+
+gui.main_menu.label.splash.jonkadelic_birthday=С днём рождения, Jonkadelic!
+gui.main_menu.label.splash.maggandgeez_birthday=С днём рождения, MaggAndGeez!
+gui.main_menu.label.splash.minecraft_birthday=С днём рождения, Minecraft!
+gui.main_menu.label.splash.bta_birthday=С днём рождения, Better than Adventure!
+gui.main_menu.label.splash.xmas=Счастливого Рождества!
+gui.main_menu.label.splash.halloween=Счастливого Хэллоуина!
+gui.main_menu.label.splash.new_year=Счастливого Нового года!
+gui.main_menu.label.disclaimer.1=Авторство Mojang Studios. Неофициальный Minecraft продукт.
+gui.main_menu.label.disclaimer.2=Не одобрен и не связан с Mojang Studios или Microsoft.
+gui.main_menu.label.downloading_resources=Загрузка ресурсов: %s / %s
+gui.main_menu.button.singleplayer=Одиночная игра
+gui.main_menu.button.multiplayer=Сетевая игра
+gui.main_menu.button.multiplayer.disabled=Сетевая игра (не готово!)
+gui.main_menu.button.texture_packs=Наборы текстур
+gui.main_menu.button.options=Настройки...
+gui.main_menu.button.quit_game=Выйти из игры
+gui.main_menu.button.discord=Discord
+gui.main_menu.button.website=Веб-сайт
+gui.main_menu.button.youtube=YouTube
+gui.main_menu.button.credits=Авторы
+
+gui.out_of_memory.label.title=Недостаточно памяти!
+gui.out_of_memory.label.body.1=Недостаточно памяти для Minecraft.
+gui.out_of_memory.label.body.2=Это может привести к ошибкам в игре или из-за
+gui.out_of_memory.label.body.3=Java Virtual Machine, не распределившей достаточно
+gui.out_of_memory.label.body.4=памяти.
+gui.out_of_memory.label.body.5=Чтобы избежать повреждений в мире, текущая игра будет завершена.
+gui.out_of_memory.label.body.6=Пожалуйста, перезапустите игру.
+
+gui.options.title=Настройки
+gui.options.button.done=Готово
+gui.options.label.select_page=Выбор страницы
+gui.options.label.picking_keybinding=Нажмите клавишу или кнопку мыши, для привязки к '%s'.
+
+gui.options.page.general.title=Общее
+gui.options.page.general.button.open_worlds_folder=Открыть миры
+gui.options.page.general.button.open_screenshots_folder=Открыть скриншоты
+gui.options.page.general.button.edit_hud=Редактировать HUD...
+gui.options.page.general.category.gameplay=Игровой процесс
+gui.options.page.general.category.user_interface=Интерфейс
+gui.options.page.general.category.miscellaneous=Прочее
+
+gui.options.page.audio.title=Аудио
+gui.options.page.audio.category.audio=Аудио
+gui.options.page.audio.category.debug=Отладка
+
+gui.options.page.video.title=Видео
+gui.options.page.video.category.graphics=Графика
+gui.options.page.video.category.performance=Производительность
+gui.options.page.video.category.post_processing=Пост-обработка
+gui.options.page.video.category.visuals=Внешний вид
+
+gui.options.page.controls.title=Управление
+gui.options.page.controls.button.controller_setup=Настройка контроллера...
+gui.options.page.controls.button.key.unbound=Нет привязки
+gui.options.page.controls.category.mouse=Мышь
+gui.options.page.controls.category.keyboard=Клавиатура
+gui.options.page.controls.category.controller=Контроллер
+gui.options.page.controls.category.interactions=Взаимодействие
+gui.options.page.controls.category.movement=Передвижение
+gui.options.page.controls.category.user_interface=Интерфейс
+gui.options.page.controls.category.hotbar=Хотбар
+gui.options.page.controls.category.view=Камера
+gui.options.page.controls.category.miscellaneous=Прочее
+
+gui.options.page.texture_packs.title=Наборы текстур
+gui.options.page.texture_packs.category.textures=Текстуры
+gui.options.page.texture_packs.category.texture_packs.available=Доступные наборы текстур
+gui.options.page.texture_packs.category.texture_packs.selected=Выбранные наборы текстур
+gui.options.page.texture_packs.button.open_folder=Открыть папку
+gui.options.page.texture_packs.button.apply=Применить наборы текстур
+gui.options.page.texture_packs.label.no_packs=Не найдено наборов текстур :(
+gui.options.page.texture_packs.label.outdated_pack.1=Устаревший набор!
+gui.options.page.texture_packs.label.outdated_pack.2=Набор не может быть загружен в данной версии.
+
+gui.options.page.language_packs.title=Наборы языков
+gui.options.page.language_packs.category.language_packs=Наборы языков
+gui.options.page.language_packs.button.open_folder=Открыть папку
+
+gui.options.page.debug.title=Меню отладки
+gui.options.page.debug.category.controls=Отладка управления
+gui.options.page.debug.category.utility=Утилиты
+gui.options.page.debug.category.settings=Настройки
+gui.options.page.debug.category.test=Тесты
+gui.options.page.debug.button.open.model_viewer=Открыть просмотр моделей
+gui.options.page.debug.button.open.biome_finder=Открыть поиск биомов
+gui.options.page.debug.button.open.datadumper=Запустить дамп данных
+gui.options.page.debug.button.open.sound_test=Запустить тест звуков
+gui.options.page.debug.button.open.texture_viewer=Открыть просмотр текстур
+gui.options.page.debug.button.open.achievements=Открыть достижения
+gui.options.page.debug.button.wipestats=Удалить статистику
+gui.options.page.debug.button.unlockedall=Разблокировать всю статистику
+gui.options.page.debug.button.cheat=Включить читы
+gui.options.page.debug.button.crash.soft=Crash Soft
+gui.options.page.debug.button.crash.hard=Crash Hard
+gui.options.page.debug.button.music.skip=Force Ambient Music
+
+gui.options.page.search.title=Поиск
+
+gui.sound_test.label.title=Тест звуков
+gui.sound_test.label.repo=Репозиторий звуков: %s
+gui.sound_test.label.id=ID: %s
+gui.sound_test.label.name=Название: %s
+gui.sound_test.label.url=URL: %s
+gui.sound_test.label.select_repo=Репозитории:
+gui.sound_test.label.select_entry=Звук:
+gui.sound_test.button.done=Готово
+gui.sound_test.button.play=Запуск
+gui.sound_test.button.play_stream=Из источника
+gui.sound_test.button.reload=Перезагрузка
+gui.sound_test.button.stop=Стоп
+
+gui.texture_viewer.label.title=Просмотр текстур
+
+gui.photo_mode.label.mouse_hint=Держите кнопку мыши для перемещения и поворота камеры.
+gui.photo_mode.button.take_screenshot=Сделать снимок
+gui.photo_mode.button.center_camera=Центрировать
+gui.photo_mode.button.show_player=Игрок: %s
+gui.photo_mode.button.show_player.on=ВКЛ
+gui.photo_mode.button.show_player.off=ВЫКЛ
+gui.photo_mode.button.time_of_day=Время: %s
+gui.photo_mode.button.time_of_day.default=СТАНДАРТ
+gui.photo_mode.button.season=Сезон: %s
+gui.photo_mode.button.season.default=СТАНДАРТ
+gui.photo_mode.button.fog=Туман: %s
+gui.photo_mode.button.tilt=Наклон: %s
+gui.photo_mode.button.tilt.default=СТАНДАРТ
+gui.photo_mode.button.shader=Шейдер: %s
+gui.photo_mode.button.shader.none=НЕТ
+gui.photo_mode.button.intensity=Интенсивность: %s
+
+gui.select_server.label.title=Выбор сервера
+gui.select_server.label.delete_title=Удаление сервера
+gui.select_server.label.delete_confirm.1=Вы действительно хотите удалить этот сервер?
+gui.select_server.label.delete_confirm.2='%s' будет удалён безвозвратно!
+gui.select_server.label.edit.1=Редактирование
+gui.select_server.label.edit.2=Имя сервера
+gui.select_server.label.edit.3=Адрес сервера
+gui.select_server.label.down=ОТКЛЮЧЁН
+gui.select_server.label.outdated=УСТАРЕЛ
+gui.select_server.button.join_server=Подключиться
+gui.select_server.button.direct_connect=По адресу
+gui.select_server.button.add_server=Добавить
+gui.select_server.button.edit=Настроить
+gui.select_server.button.delete=Удалить
+gui.select_server.button.refresh=Обновить
+gui.select_server.button.cancel=Отмена
+gui.select_server.button.done=Готово
+gui.select_server.button.show_ip=Отображение IP: %s
+gui.select_server.button.show_ip.on=ВКЛ
+gui.select_server.button.show_ip.off=ВЫКЛ
+
+gui.select_world.label.title=Выбор мира
+gui.select_world.label.world=Мир %s
+gui.select_world.label.must_be_converted=Должен быть конвертирован!
+gui.select_world.label.dimension_corrupted=Ошибка! Повреждение измерения!
+gui.select_world.label.outdated=Устарел - не может быть загружен (пока что!)
+gui.select_world.label.delete_title=Удаление мира
+gui.select_world.label.delete_confirm.1=Вы действительно хотите удалить этот мир?
+gui.select_world.label.delete_confirm.2='%s' будет удалён безвозвратно!
+gui.select_world.label.rename_title=Редактирование
+gui.select_world.label.world_name=Имя мира
+gui.select_world.label.cheats=Читы
+gui.select_world.label.unknown=НЕИЗВЕСТНО
+gui.select_world.button.play_selected_world=Играть в выбранном мире
+gui.select_world.button.rename=Настроить
+gui.select_world.button.create_new_world=Создать новый мир
+gui.select_world.button.delete=Удалить
+gui.select_world.button.cancel=Назад
+
+gui.sleeping.leave_bed=Слезть с кровати
+gui.sleeping.multiplayer.leave_bed=Слезть с кровати
+
+gui.statistics.label.title=Статистика
+gui.statistics.label.times_used=Times Used
+gui.statistics.label.times_mined=Times Mined
+gui.statistics.label.times_depleted=Times Depleted
+gui.statistics.label.times_crafted=Times Crafted
+gui.statistics.button.done=Готово
+gui.statistics.button.general=Общее
+gui.statistics.button.blocks=Блоки
+gui.statistics.button.items=Предметы
+
+gui.trommel.label.trommel=Просеиватель
+gui.trommel.label.inventory=Инвентарь
+
+gui.hud_designer.button.done=Готово
+
+gui.pick_monster.label.title=Выбор моба для призыва
+
+gui.chest.label.chest=Сундук
+gui.chest.label.inventory=Инвентарь
+
+gui.model_viewer.slider.variant=Вариация: %d
+gui.model_viewer.slider.meta=Мета: %d
+gui.model_viewer.button.tickprogress=Run Tick: %s
+gui.model_viewer.button.rotate=Поворот надписи: %s
+gui.model_viewer.button.reload_textures=Обновить текстуры
+gui.model_viewer.button.category=Категория
+
+model.category.entity.info=Сущность: %s
+model.category.entity.name=Сущность
+model.category.entity.tnt.slider.fuse=Взрыв: %d
+model.category.entity.sheep.slider.color=Цвет: %s
+model.category.entity.painting.slider.motif=Картина: %s
+model.category.entity.fireflycluster.slider.size=Размер: %d
+model.category.entity.fireflycluster.button.cycle=Цвет: %s
+model.category.entity.item.button.cycle=Тип предмета
+model.category.entity.item.slider.size=Размер: %d
+model.category.entity.sand.button.cycle=Тип блока
+model.category.entity.creeper.button.charged=Заряд: %s
+model.category.entity.armored_zombie.button.sword=Меч: %s
+model.category.entity.wolf.button.tamed=Прирученный: %s
+model.category.entity.wolf.button.sitting=Сидит: %s
+model.category.entity.wolf.button.angry=Агрессия: %s
+model.category.entity.wolf.button.armor=Броня: %s
+model.category.entity.wolf.button.item=Предмет: %s
+model.category.entity.boat.button.flag=Флаг: %s
+model.category.entity.boat.button.wind=Ветер: %s градусов
+model.category.entity.slime.slider.size=Слизень: %s
+model.category.entity.minecart.button.cycle=Тип вагонетки
+
+model.category.block.name=Блок
+model.category.block.info=Блок: %s
+model.category.block.basket.slider.fill=Заполненнось: %s
+model.category.block.spawner.button.id=Моб: %s
+
+model.category.particle.name=Частицы
+model.category.particle.info=Частицы: %s
+model.category.particle.radius.slider=Радиус: %s
+model.category.particle.note.slider=Note: %s
+model.category.particle.block.side=Сторона: %s
+
+gui.credits.button.done=Готово
+gui.credits.label.title=Авторы

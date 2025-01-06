@@ -1,0 +1,145 @@
+dimension.overworld.name=Верхний мир
+dimension.hell.name=Незер
+dimension.paradise.name=Поднебесье
+
+season.overworld.spring.name=Весна
+season.overworld.summer.name=Лето
+season.overworld.fall.name=Осень
+season.overworld.winter.name=Зима
+season.overworld.hell.name=Ад
+season.overworld.winter.endless.name=Вечная зима
+season.paradise.gold.name=Золото
+season.paradise.silver.name=Серебро
+season.null.name=Нет сезонов
+
+weather.overworld.clear.name=Ясно
+weather.overworld.clear.hell.name=Ясно
+weather.overworld.clear.woods.name=Ясно
+weather.overworld.rain.name=Дождь
+weather.overworld.snow.name=Снег
+weather.overworld.winter.snow.name=Снег
+weather.overworld.storm.name=Гроза
+weather.overworld.fog.name=Туман
+
+gamemode.survival.name=Выживание
+gamemode.creative.name=Творчество
+gamemode.hardcore.name=Хардкор
+gamemode.adventure.name=Приключение
+gamemode.spectator.name=Наблюдатель
+
+worldType.overworld.extended.name=Увеличенный
+worldType.overworld.extended.desc=Стандартный тип мира для \nBTA, включающий в себя большие \nбиомы и высокий мир.
+worldType.overworld.default.name=Стандартный
+worldType.overworld.default.desc=Более ванильный опыт.
+worldType.nether.default.name=Стандартный
+worldType.paradise.default.name=Стандартный
+worldType.flat.name=Плоский
+worldType.flat.desc=Бесконечные просторы плоской \nтравы.
+worldType.overworld.floating.name=Парящие острова
+worldType.overworld.floating.desc=Множество неимоверно высоких парящих \nостровов для исследования.
+worldType.overworld.amplified.name=РАСШИРЕННЫЙ
+worldType.overworld.amplified.desc=Схож с типом "Стандартный", но \nпозволяет ландшафту генерироваться \nдо 256 блоков в высоту.
+worldType.overworld.retro.name=Ретро
+worldType.overworld.retro.desc=Генерация, максимально приближенная \nк Minecraft Alpha 1.1.2_01.
+worldType.overworld.islands.name=Острова
+worldType.overworld.islands.desc=Повышает высоту уровня моря, \nчто превращает мир в группу \nостровов, окружённых океанами.
+worldType.overworld.winter.name=Вечная зима
+worldType.overworld.winter.desc=Схож с типом "Стандартный", но снег \nне перестаёт падать.
+worldType.overworld.hell.name=Преисподняя
+worldType.overworld.hell.desc=Этот мир погиб ещё давно. \nПопытайся выжить.
+worldType.overworld.woods.name=Леса
+worldType.overworld.woods.desc=Бескрайние леса для \nисследования.
+worldType.overworld.paradise.name=Райский сад
+worldType.overworld.paradise.desc=Вечный день и бесконечная весна.
+worldType.empty.name=Пустой
+worldType.empty.desc=Ничего, кроме единственного \nблока бедрока.
+worldType.debug.name=Отладка
+worldType.debug.desc=Генерирует каждое состояние каждого \nблока в игре. (для тестов)
+worldType.overworld.inland.name=Без океанов
+worldType.overworld.inland.desc=Схож с типом "Увеличенный", \nно без океанов.
+worldType.overworld.classic.name=Classic
+worldType.overworld.classic.desc=Генерация, схожая с Minecraft \nClassic, но бесконечная.
+worldType.overworld.indev.name=Indev
+worldType.overworld.indev.desc=Генерация мира, схожая с\nIndev, но бесконечная.
+worldType.overworld.skyblock.name=Skyblock
+worldType.overworld.skyblock.desc=Хардкорное выживание на маленьком\nостровке в небе.
+
+connect.connecting=Подключение к серверу...
+connect.authorizing=Вход...
+connect.failed=Ошибка соединения с сервером
+
+disconnect.genericReason=%s
+disconnect.disconnected=Отключён от сервера
+disconnect.lost=Соединение потеряно
+disconnect.kicked=Был выгнан с сервера
+disconnect.timeout=Время подключения истекло
+disconnect.closed=Подключение закрыто
+disconnect.loginFailed=Ошибка входа
+disconnect.loginFailedInfo=Ошибка входа: %s
+disconnect.quitting=Выход
+disconnect.endOfStream=Конец стрима
+disconnect.overflow=Буфер переполнен
+connect.failed=Не удалось подключиться
+
+damagetype.combat=Удар
+damagetype.projectile=Снаряд
+damagetype.blast=Взрыв
+damagetype.fall=Падение
+damagetype.fire=Огонь
+
+bed.occupied=Кровать занята
+bed.noSleep=Спать можно только ночью или во время грозы
+bed.setSpawn=Точка возрождения установлена
+bed.notValid=Кровать была утеряна или закрыта
+bed.noAllowSleeping=Сон отключён.
+
+progress.tip=Совет: %s
+
+sign.image.none=Ничего
+sign.image.arrow_right=Стрелка вправо
+sign.image.arrow_left=Стрелка влево
+sign.image.arrow_down=Стрелка вниз
+sign.image.arrow_up=Стрелка вверх
+sign.image.caution=Внимание
+sign.image.mobs=Мобы
+sign.image.trees=Деревья
+sign.image.chest=Сундук
+sign.image.pickaxe=Кирка
+sign.image.wolf=Волк
+sign.image.sword=Меч
+sign.image.hoe=Мотыга
+sign.image.axe=Топор
+sign.image.shovel=Лопата
+sign.image.bowl=Миска
+sign.image.tnt=Динамит
+sign.image.mob_farm=Ферма мобов
+sign.image.mine=Шахта
+sign.image.redstone=Редстоун
+sign.image.farm=Ферма
+sign.image.barricade=Баррикады
+sign.image.question_mark=Знак вопроса
+sign.image.face_smile=Улыбающееся лицо
+sign.image.face_sad=Грустное лицо
+sign.image.face_crying=Плачущее лицо
+sign.image.face_gasp=Удивлённое лицо
+sign.image.face_thinking=Думающее лицо
+sign.image.face_confused=Растерянное лицо
+sign.image.big_sign=Большая табличка
+sign.image.mob_zombie=Зомби
+sign.image.mob_skeleton=Скелет
+sign.image.mob_creeper=Крипер
+sign.image.one_player=Один игрок
+sign.image.two_players=Два игрока
+sign.image.three_players=Три игрока
+sign.image.cross=Крест
+sign.image.craft=Крафт
+sign.image.afk=AFK
+sign.image.brb=Скоро вернусь
+
+flag.full=У вас слишком много флагов на карте
+flag.overwrite=Нельзя перезаписать существующий шаблон
+flag.copied=Шаблон флага скопирован
+
+wand.wrongmode=Для применения необходимо быть в режиме творчества!
+
+save.data.missing.data=Утеряны данные мира!
