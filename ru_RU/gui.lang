@@ -386,3 +386,5 @@ model.category.particle.block.side=Сторона: %s
 
 gui.credits.button.done=Готово
 gui.credits.label.title=Авторы
+
+gui.tooltip.prompt.description=%s: Описание...

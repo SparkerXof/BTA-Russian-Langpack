@@ -192,6 +192,7 @@ key.command=Ввод комманды
 key.guidebook=Руководство
 key.showRecipe=Рецепты из руководства
 key.showUsage=Применения из руководства
+key.description=Описание предметов
 key.openAchievements=Достижения
 key.openStatistics=Статистика
 key.hotbar.left=Влево в хотбаре
@@ -253,3 +254,5 @@ key.debug.reloadchunks=Перезагрузка чанков
 key.debug.smoothlighting=Мягкое освещение
 key.debug.releasecursor=Отпустить курсор
 key.debug.shortcuts=Показать сочетания клавиш
+
+key.disabled=Пусто
