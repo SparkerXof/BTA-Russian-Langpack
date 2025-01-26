@@ -40,6 +40,10 @@ options.tooltipStyle.interdimensional=Межпортальный
 options.tooltipStyle.redstone_goggles=Редстоун-очки
 options.tooltipStyle.creep-o-vision=Крип-виденье
 options.tooltipStyle.steve=Стив
+options.chatVisibility=Видимость чата
+options.chatVisibility.show_all=Всегда
+options.chatVisibility.show_when_chatting=При вводе
+options.chatVisibility.never_show=Никогда
 options.fpsInOverlay=Отображение FPS
 options.versionInOverlay=Отображение версии
 options.foodHealthRegenOverlay=Отображение лечения
@@ -124,6 +128,8 @@ options.brightness=Яркость
 options.brightness.min=Тускло
 options.brightness.default=По умолчанию
 options.brightness.max=Ярко
+options.fov.modification=Изменение поля зрения
+options.screen.motion.effects=Эффекты экрана
 options.fog=Туман
 options.biomeWater=Вода биомов
 options.treeShadows=Тень от листвы
@@ -141,7 +147,7 @@ options.blockOutlineWidth=Видимость обводки
 
 options.mouseSensitivity=Чувствительность
 options.invertYMouse=Инверсия мыши
-options.rawMouseInput=Дискретная прокрутка
+options.rawMouseInput=Прямой ввод мыши
 options.swapMouseButtons=Смена кнопок мыши
 options.enableItemDragging=Перетаскивание предметов мышью
 options.smoothCamera=Кинематографичная камера
@@ -186,6 +192,9 @@ key.command=Ввод комманды
 key.guidebook=Руководство
 key.showRecipe=Рецепты из руководства
 key.showUsage=Применения из руководства
+key.description=Описание предметов
+key.openAchievements=Достижения
+key.openStatistics=Статистика
 key.hotbar.left=Влево в хотбаре
 key.hotbar.right=Вправо в хотбаре
 key.hotbar.switch=Переключение хотбара
@@ -220,10 +229,13 @@ key.lockRotation=Закрепление поворота блока
 key.screenshot=Снимок экрана
 key.gamma=Изменение гаммы
 
+options.subtitles=Субтитры
+
 options.animations=Анимации
 options.customAnimations=Пользовательские анимации
 options.mobVariants=Вариации мобов
 options.customLightmap=Пользовательские карты света
+options.enableHolidayTextures=Праздничные текстуры
 
 key.disabled=Отключено
 
@@ -242,3 +254,5 @@ key.debug.reloadchunks=Перезагрузка чанков
 key.debug.smoothlighting=Мягкое освещение
 key.debug.releasecursor=Отпустить курсор
 key.debug.shortcuts=Показать сочетания клавиш
+
+key.disabled=Пусто

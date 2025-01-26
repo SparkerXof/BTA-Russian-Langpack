@@ -7,6 +7,19 @@ guidebook.section.blast_furnace=Плавильня
 guidebook.section.trommel=Просеиватель
 guidebook.section.search=Поиск
 
+guidebook.section.search.error.no_recipes=Рецепты не найден :(
+guidebook.section.search.result.found=Найдено рецептов: %s
+guidebook.section.search.info.modifiers.title=Модификаторы поиска
+guidebook.section.search.info.modifiers.1=§er:...§r: Поиск по результату
+guidebook.section.search.info.modifiers.2=§eu:...§r: Поиск по применению
+guidebook.section.search.info.modifiers.3=§e#:...§r: Поиск по группе
+guidebook.section.search.info.modifiers.4=§e@namespace§r: Поиск в
+guidebook.section.search.info.modifiers.5=namespace
+guidebook.section.search.info.modifiers.6=§e@namespace:group§r: Поиск
+guidebook.section.search.info.modifiers.7=по группе рецептов
+guidebook.section.search.info.modifiers.8=§e...!§r: Cтрогий поиск
+guidebook.section.search.info.modifiers.9=§e...§r: Обычный поиск
+
 guidebook.section.mob.health=Здоровье:
 guidebook.section.mob.score=Очки: %s
 guidebook.section.mob.damage=Урон: %s
