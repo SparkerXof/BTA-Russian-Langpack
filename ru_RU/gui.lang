@@ -12,7 +12,7 @@ gui.achievements.label.completion=%1$s выполнено!
 gui.achievements.page.vanilla.name=Ванилла
 gui.achievements.page.vanilla.desc=Достижения Better than Adventure!
 gui.achievements.page.overworld.name=Верхний мир
-gui.achievements.page.overworld.desc=Достижения стартового измерения!
+gui.achievements.page.overworld.desc=Достижения начального измерения!
 gui.achievements.page.nether.name=Незер
 gui.achievements.page.nether.desc=Адские достижения!
 

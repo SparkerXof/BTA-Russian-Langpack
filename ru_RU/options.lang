@@ -147,7 +147,7 @@ options.blockOutlineWidth=Видимость обводки
 
 options.mouseSensitivity=Чувствительность
 options.invertYMouse=Инверсия мыши
-options.rawMouseInput=Дискретная прокрутка
+options.rawMouseInput=Прямой ввод мыши
 options.swapMouseButtons=Смена кнопок мыши
 options.enableItemDragging=Перетаскивание предметов мышью
 options.smoothCamera=Кинематографичная камера

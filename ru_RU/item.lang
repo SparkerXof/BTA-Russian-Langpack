@@ -357,7 +357,7 @@ item.ammo.charge.explosive.name=Взрывной заряд
 item.ammo.charge.explosive.desc=Боеприпас для ручной пушки. Содержит порох.
 item.handcannon.loaded.name=Заряженная ручная пушка
 item.handcannon.loaded.desc=Заряжена и готова к залпу!
-item.tool.calendar.name=Круглый календарь
+item.tool.calendar.name=Календарь
 item.tool.calendar.desc=Средство определения времени года.
 item.quartz.name=Кварц
 item.quartz.desc=Яркий чистый кристал, походу, отражающий свет.
@@ -408,6 +408,8 @@ item.ore.raw.gold.desc=Кусок необработанного золота. �
 
 item.flag.name=Флаг
 item.flag.desc=Флаг для отметки своей территории.
+item.flag.modified.name=Флаг (Изменён)
+item.flag.modified.desc=Флаг для отметки своей территории.
 
 item.armor.boots.iceskates.name=Коньки
 item.armor.boots.iceskates.desc=Пара коньков. Веселись!
