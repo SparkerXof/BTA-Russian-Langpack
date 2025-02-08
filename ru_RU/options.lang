@@ -178,6 +178,7 @@ key.jump=Прыжок
 key.sneak=Красться
 key.fly=Полёт
 key.autoWalk=Авто ходьба
+key.easyBridge=Простая постройка мостов
 key.sprint=Бег (если доступен)
 
 key.inventory=Инвентарь
