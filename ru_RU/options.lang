@@ -97,6 +97,10 @@ options.colorblindnessFix.protanopia=Протанопия
 options.colorblindnessFix.deuteranopia=Дейтеранопия
 options.colorblindnessFix.tritanopia=Тританопия
 options.colorblindnessFix.grayscale=Ахромазия
+options.itemDescriptions=Описание предметов
+options.itemDescriptions.never_prompt=ВЫКЛ
+options.itemDescriptions.prompt=Подсказка
+options.itemDescriptions.always_show=ВКЛ
 
 options.limitFramerate=Производительность
 performance.max=Максимум FPS
