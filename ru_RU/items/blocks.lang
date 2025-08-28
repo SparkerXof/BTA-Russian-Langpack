@@ -1,0 +1,770 @@
+##############
+### Камень ###
+##############
+tile.stone.name=Камень
+tile.stone.desc=Блок твёрдого камня.
+tile.moss.stone.name=Замшелый камень
+tile.moss.stone.desc=Мох, покрывающий камень.
+tile.cobble.stone.name=Булыжник
+tile.cobble.stone.desc=Камень, разбитый и вновь собранный воедино.
+tile.cobble.stone.mossy.name=Замшелый булыжник
+tile.cobble.stone.mossy.desc=Булыжник, покрытый зеленью.
+tile.brick.stone.name=Каменные кирпичи
+tile.brick.stone.desc=Сложенные кирпичи из камня.
+tile.stone.polished.name=Полированный камень
+tile.stone.polished.desc=Полированный блок камня.
+tile.brick.stone.polished.name=Полированно-каменные кирпичи
+tile.brick.stone.polished.desc=Сложенные кирпичи из полированного камня.
+tile.brick.stone.polished.mossy.name=Замшелые полированно-каменные кирпичи
+tile.brick.stone.polished.mossy.desc=Сложенные кирпичи из полированного камня, покрытые мохом.
+tile.slab.cobble.stone.name=Булыжная плита
+tile.slab.cobble.stone.desc=Плита из булыжника.
+tile.slab.stone.carved.name=Полированно-каменная плита
+tile.slab.stone.carved.desc=Плита из полированного камня.
+tile.slab.brick.stone.name=Каменно-кирпичная плита
+tile.slab.brick.stone.desc=Плита из каменных кирпичей.
+tile.slab.brick.stone.polished.name=Полированно-каменная кирпичная плита
+tile.slab.brick.stone.polished.desc=Плита из полированно-каменных кирпичей.
+tile.stairs.cobble.stone.name=Булыжные ступени
+tile.stairs.cobble.stone.desc=Блок булыжника для подъёма наверх.
+tile.stairs.brick.stone.name=Каменно-кирпичные ступени
+tile.stairs.brick.stone.desc=Каменно-кирпичный блок для подъёма наверх.
+tile.stairs.brick.stone.polished.name=Полированно-каменные кирпичные ступени
+tile.stairs.brick.stone.polished.desc=Полированно-каменный кирпичный блок для подъёма наверх.
+tile.ore.coal.stone.name=Каменная угольная руда
+tile.ore.coal.stone.desc=Кусок угля внутри камня.
+tile.ore.iron.stone.name=Каменная железная руда
+tile.ore.iron.stone.desc=Железные самородки внутри камня.
+tile.ore.gold.stone.name=Каменная золотая руда
+tile.ore.gold.stone.desc=Золотые самородки внутри камня.
+tile.ore.lapis.stone.name=Каменная лазуритная руда
+tile.ore.lapis.stone.desc=Куски лазурита внутри камня.
+tile.ore.redstone.stone.name=Каменная редстоуновая руда
+tile.ore.redstone.stone.desc=Красная пыль внутри камня.
+tile.ore.redstone.glowing.stone.name=Горящая каменная редстоуновая руда
+tile.ore.redstone.glowing.stone.desc=Красная пыль внутри камня. Излучает слабый свет.
+tile.ore.diamond.stone.name=Каменная алмазная руда
+tile.ore.diamond.stone.desc=Кусок алмаза внутри камня.
+item.statue.stone.name=Каменная статуя
+item.statue.stone.desc=Декоративная статуя из камня для вашей экипировки.
+tile.statue.stone.lower.name=Низ каменной статуи
+tile.statue.stone.lower.desc=
+tile.statue.stone.upper.name=Верх каменной статуи
+tile.statue.stone.upper.desc=
+
+###############
+### Базальт ###
+###############
+tile.basalt.name=Базальт
+tile.basalt.desc=Блок твёрдого базальта.
+tile.moss.basalt.name=Замшелый базальт
+tile.moss.basalt.desc=Мох, покрывающий базальт.
+tile.cobble.basalt.name=Колотый базальт
+tile.cobble.basalt.desc=Базальт, разбитый и вновь собранный воедино.
+tile.cobble.basalt.mossy.name=Мшистый колотый базальт
+tile.cobble.basalt.mossy.desc=Колотый базальт, покрытый зеленью.
+tile.basalt.polished.name=Полированный базальт
+tile.basalt.polished.desc=Полированный блок базальта.
+tile.brick.basalt.name=Базальтовые кирпичи
+tile.brick.basalt.desc=Сложенные кирпичи из базальта.
+tile.slab.cobble.basalt.name=Колото-базальтовая плита
+tile.slab.cobble.basalt.desc=Плита из колотого базальта.
+tile.slab.basalt.carved.name=Полированно-базальтовая плита
+tile.slab.basalt.carved.desc=Плита из полированного базальта.
+tile.slab.brick.basalt.name=Базальто-кирпичная плита
+tile.slab.brick.basalt.desc=Плита из базальтовых кирпичей.
+tile.stairs.cobble.basalt.name=Колото-базальтовые ступени
+tile.stairs.cobble.basalt.desc=Колото-базальтовый блок для подъёма наверх.
+tile.stairs.brick.basalt.name=Базальто-кирпичные ступени
+tile.stairs.brick.basalt.desc=Базальто-кирпичные блок для подъёма наверх.
+tile.ore.coal.basalt.name=Базальтовая угольная руда
+tile.ore.coal.basalt.desc=Кусок угля внутри базальта.
+tile.ore.iron.basalt.name=Базальтовая железная руда
+tile.ore.iron.basalt.desc=Железные самородки внутри базальта.
+tile.ore.gold.basalt.name=Базальтовая золотая руда
+tile.ore.gold.basalt.desc=Золотые самородки внутри базальта.
+tile.ore.lapis.basalt.name=Базальтовая лазуритная руда
+tile.ore.lapis.basalt.desc=Куски лазурита внутри базальта.
+tile.ore.redstone.basalt.name=Базальтовая редстоуновая руда
+tile.ore.redstone.basalt.desc=Красная пыль внутри базальта.
+tile.ore.redstone.glowing.basalt.name=Горящая базальтовая редстоуновая руда
+tile.ore.redstone.glowing.basalt.desc=Красная пыль внутри базальта. Излучает слабый свет.
+tile.ore.diamond.basalt.name=Базальтовая алмазная руда
+tile.ore.diamond.basalt.desc=Кусок алмаза внутри базальта.
+item.statue.basalt.name=Базальтовая статуя
+item.statue.basalt.desc=Декоративная статуя из базальта для вашей экипировки.
+tile.statue.basalt.lower.name=Низ базальтовой статуи
+tile.statue.basalt.lower.desc=
+tile.statue.basalt.upper.name=Верх базальтовой статуи
+tile.statue.basalt.upper.desc=
+
+#################
+### Известняк ###
+#################
+tile.limestone.name=Известняк
+tile.limestone.desc=Блок твёрдого известняка.
+tile.moss.limestone.name=Замшелый известняк
+tile.moss.limestone.desc=Мох, покрывающий известняк.
+tile.cobble.limestone.name=Колотый известняк
+tile.cobble.limestone.desc=Известняк, разбитый и вновь собранный воедино.
+tile.cobble.limestone.mossy.name=Мшистый колотый известняк
+tile.cobble.limestone.mossy.desc=Колотый известняк, покрытый зеленью.
+tile.limestone.polished.name=Полированный известняк
+tile.limestone.polished.desc=Полированный блок известняка.
+tile.brick.limestone.name=Известняковые кирпичи
+tile.brick.limestone.desc=Сложенные кирпичи из известняка.
+tile.slab.cobble.limestone.name=Колото-известняковая плита
+tile.slab.cobble.limestone.desc=Плита из колотого известняка.
+tile.slab.brick.limestone.name=Известняко-кирпичная плита
+tile.slab.brick.limestone.desc=Плита из известняковых кирпичей.
+tile.slab.limestone.carved.name=Полированно-известняковая плита
+tile.slab.limestone.carved.desc=Плита из полированного известняка.
+tile.stairs.cobble.limestone.name=Колото-известняковые ступени
+tile.stairs.cobble.limestone.desc=Колото-известняковый блок для подъёма наверх.
+tile.stairs.brick.limestone.name=Известняко-кирпичные ступени
+tile.stairs.brick.limestone.desc=Известняко-кирпичный блок для подъёма наверх.
+tile.ore.coal.limestone.name=Известняковая угольная руда
+tile.ore.coal.limestone.desc=Кусок угля внутри известняка.
+tile.ore.iron.limestone.name=Известняковая железная руда
+tile.ore.iron.limestone.desc=Железные самородки внутри известняка.
+tile.ore.gold.limestone.name=Известняковая золотая руда
+tile.ore.gold.limestone.desc=Золотые самородки внутри известняка.
+tile.ore.lapis.limestone.name=Известняковая лазуритная руда
+tile.ore.lapis.limestone.desc=Куски лазурита внутри известняка.
+tile.ore.redstone.limestone.name=Известняковая редстоуновая руда
+tile.ore.redstone.limestone.desc=Красная пыль внутри известняка.
+tile.ore.redstone.glowing.limestone.name=Горящая известняковая редстоуновая руда
+tile.ore.redstone.glowing.limestone.desc=Красная пыль внутри известняка. Излучает слабый свет.
+tile.ore.diamond.limestone.name=Известняковая алмазная руда
+tile.ore.diamond.limestone.desc=Кусок алмаза внутри известняка.
+item.statue.limestone.name=Известняковая статуя
+item.statue.limestone.desc=Декоративная статуя из известняка для вашей экипировки.
+tile.statue.limestone.lower.name=Низ известняковой статуи
+tile.statue.limestone.lower.desc=
+tile.statue.limestone.upper.name=Верх известняковой статуи
+tile.statue.limestone.upper.desc=
+
+##############
+### Гранит ###
+##############
+tile.granite.name=Гранит
+tile.granite.desc=Блок твёрдого гранита.
+tile.moss.granite.name=Замшелый гранит
+tile.moss.granite.desc=Мох, покрывающий гранит.
+tile.cobble.granite.name=Колотый гранит
+tile.cobble.granite.desc=Гранит, разбитый и вновь собранный воедино.
+tile.cobble.granite.mossy.name=Мшистый колотый гранит
+tile.cobble.granite.mossy.desc=Колотый гранит, покрытый зеленью.
+tile.granite.polished.name=Полированный гранит
+tile.granite.polished.desc=Полированный блок гранита.
+tile.brick.granite.name=Гранитные кирпичи
+tile.brick.granite.desc=Сложенные кирпичи из гранита.
+tile.slab.cobble.granite.name=Колото-гранитная плита
+tile.slab.cobble.granite.desc=Плита из колотого гранита.
+tile.slab.brick.granite.name=Гранито-кирпичная плита
+tile.slab.brick.granite.desc=Плита из гранитных кирпичей.
+tile.slab.granite.carved.name=Полированно-гранитная плита
+tile.slab.granite.carved.desc=Плита из полированного гранита.
+tile.stairs.cobble.granite.name=Колото-гранитные ступени
+tile.stairs.cobble.granite.desc=Колото-гранитный блок для подъёма наверх.
+tile.stairs.brick.granite.name=Гранито-кирпичные ступени
+tile.stairs.brick.granite.desc=Гранито-кирпичный блок для подъёма наверх.
+tile.ore.coal.granite.name=Гранитная угольная руда
+tile.ore.coal.granite.desc=Кусок угля внутри гранита.
+tile.ore.iron.granite.name=Гранитная железная руда
+tile.ore.iron.granite.desc=Железные самородки внутри гранита.
+tile.ore.gold.granite.name=Гранитная золотая руда
+tile.ore.gold.granite.desc=Золотые самородки внутри гранита.
+tile.ore.lapis.granite.name=Гранитная лазуритная руда
+tile.ore.lapis.granite.desc=Куски лазурита внутри гранита.
+tile.ore.redstone.granite.name=Гранитная редстоуновая руда
+tile.ore.redstone.granite.desc=Красная пыль внутри гранита.
+tile.ore.redstone.glowing.granite.name=Горящая гранитная редстоуновая руда
+tile.ore.redstone.glowing.granite.desc=Красная пыль внутри гранита. Излучает слабый свет.
+tile.ore.diamond.granite.name=Гранитная алмазная руда
+tile.ore.diamond.granite.desc=Кусок алмаза внутри гранита.
+item.statue.granite.name=Гранитная статуя
+item.statue.granite.desc=Декоративная статуя из гранита для вашей экипировки.
+tile.statue.granite.lower.name=Низ гранитной статуи
+tile.statue.granite.lower.desc=
+tile.statue.granite.upper.name=Верх гранитной статуи
+tile.statue.granite.upper.desc=
+
+##############
+### Мрамор ###
+##############
+tile.marble.name=Мрамор
+tile.marble.desc=Блок твёрдого мрамора.
+tile.pillar.marble.name=Мраморная колонна
+tile.pillar.marble.desc=Блок мрамора, выгравированный в виде колонны.
+tile.capstone.marble.name=Мраморный капитель
+tile.capstone.marble.desc=Капитель сделанный из твёрдого мрамора.
+tile.brick.marble.name=Мраморные кирпичи
+tile.brick.marble.desc=Сложенные кирпичи из мрамора.
+tile.slab.brick.marble.name=Мраморно-кирпичная плита
+tile.slab.brick.marble.desc=Плита из мраморных кирпичей.
+tile.slab.capstone.marble.name=Мраморная капительная плита
+tile.slab.capstone.marble.desc=Мрамор, обработанный в виде капителя.
+tile.stairs.brick.marble.name=Мраморно-кирпичные ступени
+tile.stairs.brick.marble.desc=Мраморно-кирпичный блок для подъёма наверх.
+item.statue.marble.name=Мраморная статуя
+item.statue.marble.desc=Декоративная статуя из мрамора для вашей экипировки.
+tile.statue.marble.lower.name=Низ мраморной статуи
+tile.statue.marble.lower.desc=
+tile.statue.marble.upper.name=Верх мраморной статуи
+tile.statue.marble.upper.desc=
+item.statue.pigman.name=Статуя свиночеловека
+item.statue.pigman.desc=Древняя мраморная статуя из давно забытого места.
+tile.statue.pigman.lower.name=Низ статуи свиночеловека
+tile.statue.pigman.lower.desc=
+tile.statue.pigman.upper.name=Верх статуи свиночеловека
+tile.statue.pigman.upper.desc=
+
+##############
+### Сланец ###
+##############
+tile.slate.name=Сланец
+tile.slate.desc=Блок твёрдого сланца.
+tile.slate.polished.name=Полированный сланец
+tile.slate.polished.desc=Полированный блок сланца.
+tile.brick.slate.name=Сланцевые кирпичи
+tile.brick.slate.desc=Сложенные кирпичи из сланца.
+tile.slab.brick.slate.name=Сланце-кирпичная плита
+tile.slab.brick.slate.desc=Плита из сланцевых кирпичей.
+tile.stairs.brick.slate.name=Сланце-кирпичные ступени
+tile.stairs.brick.slate.desc=Сланце-кирпичный блок для подъёма наверх.
+tile.layer.slate.name=Слой сланца
+tile.layer.slate.desc=Плоская плита сланца.
+
+####################
+### Мерзлокамень ###
+####################
+tile.permafrost.name=Мерзлокамень
+tile.permafrost.desc=Блок замёрзшего камня.
+tile.cobble.permafrost.name=Колотый мерзлокамень
+tile.cobble.permafrost.desc=Мерзлокамень, разбитый и вновь собранный воедино.
+tile.permafrost.polished.name=Полированный мерзлокамень
+tile.permafrost.polished.desc=Полированный блок мерзлокамня.
+tile.brick.permafrost.name=Мерзлокаменные кирпичи
+tile.brick.permafrost.desc=Сложенные кирпичи из мерзлокамня.
+tile.slab.cobble.permafrost.name=Колото-мерзлокаменная плита
+tile.slab.cobble.permafrost.desc=Плита из колотого мерзлокаменная.
+tile.slab.brick.permafrost.name=Мерзлокаменная кирпичная плита
+tile.slab.brick.permafrost.desc=Плита из мерзлокаменных кирпичей.
+tile.slab.permafrost.carved.name=Полированно-мерзлокаменная плита
+tile.slab.permafrost.carved.desc=Плита из полированного мерзлокаменя.
+tile.stairs.cobble.permafrost.name=Колото-мерзлокаменные ступени
+tile.stairs.cobble.permafrost.desc=Колото-мерзлокаменный блок для подъёма наверх.
+tile.stairs.brick.permafrost.name=Мерзлокаменно-кирпичные ступени
+tile.stairs.brick.permafrost.desc=Мерзлокаменно-кирпичный блок для подъёма наверх.
+tile.ore.coal.permafrost.name=Мерзлокаменная угольная руда
+tile.ore.coal.permafrost.desc=Кусок угля внутри мерзлокамня.
+tile.ore.iron.permafrost.name=Мерзлокаменная железная руда
+tile.ore.iron.permafrost.desc=Железные самородки внутри мерзлокамня.
+tile.ore.gold.permafrost.name=Мерзлокаменная золотая руда
+tile.ore.gold.permafrost.desc=Золотые самородки внутри мерзлокамня.
+tile.ore.lapis.permafrost.name=Мерзлокаменная лазуритная руда
+tile.ore.lapis.permafrost.desc=Куски лазурита внутри мерзлокамня.
+tile.ore.redstone.permafrost.name=Мерзлокаменная редстоуновая руда
+tile.ore.redstone.permafrost.desc=Красная пыль внутри мерзлокамня.
+tile.ore.redstone.glowing.permafrost.name=Горящая мерзлокаменная редстоуновая руда
+tile.ore.redstone.glowing.permafrost.desc=Красная пыль внутри мерзлокамня. Излучает слабый свет.
+tile.ore.diamond.permafrost.name=Мерзлокаменная алмазная руда
+tile.ore.diamond.permafrost.desc=Кусок алмаза внутри мерзлокамня.
+
+#############
+### Песок ###
+#############
+tile.sand.name=Песок
+tile.sand.desc=Добывается везде.
+tile.sandstone.name=Песчаник
+tile.sandstone.desc=Спрессованный песок.
+tile.brick.sandstone.name=Песчаные кирпичи
+tile.brick.sandstone.desc=Сложенные кирпичи из песчаника.
+tile.slab.sandstone.name=Песчаная плита
+tile.slab.sandstone.desc=Плита из песчаника.
+tile.slab.brick.sandstone.name=Песчано-кирпичная плита
+tile.slab.brick.sandstone.desc=Плита из песчаных кирпичей.
+tile.stairs.sandstone.name=Песчаные ступени
+tile.stairs.sandstone.desc=Песчаный блок для подъёма наверх.
+tile.stairs.brick.sandstone.name=Песчано-кирпичные ступени
+tile.stairs.brick.sandstone.desc=Песчано-кирпичный блок для подъёма наверх.
+
+#############
+### Земля ###
+#############
+tile.dirt.name=Земля
+tile.dirt.desc=Рассыпчатая коричневая земля.
+tile.dirt.scorched.name=Выжженная земля
+tile.dirt.scorched.desc=Земля, сгоревшая на солнце.
+tile.dirt.scorched.rich.name=Насыщенная выжженная земля
+tile.dirt.scorched.rich.desc=Земля, сгоревшая на солнце и богатая минералами.
+tile.path.dirt.name=Дорожка из земли
+tile.path.dirt.desc=Земля, вытоптанная множеством путешествий.
+tile.grass.name=Трава
+tile.grass.desc=Ломкая, шуршащяя трава.
+tile.grass.retro.name=Ретро-трава
+tile.grass.retro.desc=Ломкая, шуршащяя трава. Чувствуется старой.
+tile.grass.scorched.name=Выжженная трава
+tile.grass.scorched.desc=Трава, сгоревшая на солнце.
+tile.mud.name=Грязь
+tile.mud.desc=Земля пропитанная водой.
+tile.mud.baked.name=Засохшая грязь
+tile.mud.baked.desc=Высушенная и постескавшаяся грязь.
+tile.farmland.dirt.name=Пашня
+tile.farmland.dirt.desc=Обработанная почва для выращивания.
+
+#############
+### Глина ###
+#############
+tile.block.clay.name=Блок глины
+tile.block.clay.desc=Блок собранной глины.
+tile.brick.clay.name=Глиняные кирпичи
+tile.brick.clay.desc=Сложенные кирпичи из обожжённой глины.
+tile.slab.brick.clay.name=Глиняно-кирпичная плита
+tile.slab.brick.clay.desc=Плита из глиняных кирпичей.
+tile.stairs.brick.clay.name=Глиняно-кирпичные ступени
+tile.stairs.brick.clay.desc=Глиняно-кирпичный блок для подъёма наверх.
+
+###############
+### Незерак ###
+###############
+tile.netherrack.name=Незерак
+tile.netherrack.desc=Тёмно-красный камень, сглаженный жаром и временем.
+tile.netherrack.polished.name=Полированный незерак
+tile.netherrack.polished.desc=Полированный блок незерака.
+tile.cobble.netherrack.name=Колотый незерак
+tile.cobble.netherrack.desc=Тёмно-красный вечно горящий камень.
+tile.cobble.netherrack.igneous.name=Горящий колотый незерак
+tile.cobble.netherrack.igneous.desc=Мощный жар заставляет этот блок светиться изнутри.
+tile.cobble.netherrack.mossy.name=Мшистый колотый незерак
+tile.cobble.netherrack.mossy.desc=Колотый незера, покрытый чем-то похожим на мох.
+tile.brick.netherrack.name=Незераковые кирпичи
+tile.brick.netherrack.desc=Сложенные кирпичи из незерака.
+tile.slab.netherrack.carved.name=Полированно-незераковая плита
+tile.slab.netherrack.carved.desc=Плита из полированного незерака.
+tile.slab.cobble.netherrack.name=Колото-незераковая плита
+tile.slab.cobble.netherrack.desc=Плита из колотого незерака.
+tile.slab.brick.netherrack.name=Незерако-кирпичная плита
+tile.slab.brick.netherrack.desc=Плита из незераковых кирпичей.
+tile.stairs.cobble.netherrack.name=Колото-незераковые ступени
+tile.stairs.cobble.netherrack.desc=Колото-незераковый блок для подъёма наверх.
+tile.stairs.brick.netherrack.name=Незерако-кирпичные ступени
+tile.stairs.brick.netherrack.desc=Незерако-кирпичный блок для подъёма наверх.
+tile.netherrack.crystalline.name=Кристаллический незерак
+tile.netherrack.crystalline.desc=Колотый незерак, сросшийся с кристаллом.
+tile.ore.nethercoal.netherrack.name=Незер-угольная руда
+tile.ore.nethercoal.netherrack.desc=Кусок незер-угля внутри незерака.
+
+##############
+### Железо ###
+##############
+tile.brick.iron.name=Железные кирпичи
+tile.brick.iron.desc=Сложенные кирпичи из железа.
+tile.slab.brick.iron.name=Железо-кирпичная плита
+tile.slab.brick.iron.desc=Плита из железных кирпичей.
+tile.stairs.brick.iron.name=Железо-кирпичные ступени
+tile.stairs.brick.iron.desc=Железо-кирпичный блок для подъёма наверх.
+tile.trapdoor.iron.name=Железный люк
+tile.trapdoor.iron.desc=Как дверь, но квадратая и сделанная из железа.
+item.door.iron.name=Железная дверь
+item.door.iron.desc=Усиленная дверь. Открывается, когда запитана.
+tile.door.iron.top.name=Верх железный двери
+tile.door.iron.top.desc=Мог бы использовать друга.
+tile.door.iron.bottom.name=Низ железный двери
+tile.door.iron.bottom.desc=Не так хорош сам по себе.
+tile.mesh.name=Сетка
+tile.mesh.desc=Предметы проходят через него, и ничего более.
+tile.brazier.inactive.name=Жаровня
+tile.brazier.inactive.desc=Безопасное место для хранения огня.
+tile.brazier.active.name=Зажженная жаровня
+tile.brazier.active.desc=Безопасное место для хранения огня.
+tile.fence.chainlink.name=Цепной забор
+tile.fence.chainlink.desc=Забор из связанных цепей. Можно взобраться!
+
+##############
+### Золото ###
+##############
+tile.brick.gold.name=Золотые кирпичи
+tile.brick.gold.desc=Сложенные кирпичи из золота.
+tile.slab.brick.gold.name=Золото-кирпичная плита
+tile.slab.brick.gold.desc=Плита из золотых кирпичей.
+tile.stairs.brick.gold.name=Золото-кирпичные ступени
+tile.stairs.brick.gold.desc=Золото-кирпичный блок для подъёма наверх.
+tile.mesh.gold.name=Золотая сетка
+tile.mesh.gold.desc=Пропускает через себя выбранные предметы.
+
+#############
+### Сталь ###
+#############
+tile.brick.steel.name=Стальные кирпичи
+tile.brick.steel.desc=Сложенные кирпичи из стали.
+tile.slab.brick.steel.name=Стале-кирпичная плита
+tile.slab.brick.steel.desc=Плита из стальных кирпичей.
+tile.stairs.brick.steel.name=Стале-кирпичные ступени
+tile.stairs.brick.steel.desc=Стале-кирпичный блок для подъёма наверх.
+tile.trapdoor.steel.name=Стальной люк
+tile.trapdoor.steel.desc=Как дверь, но квадратая и сделанная из прочной стали.
+item.door.steel.name=Стальная дверь
+item.door.steel.desc=Крепкая и надёжная.
+tile.door.steel.top.name=Верх стальной двери
+tile.door.steel.top.desc=Как ты это получил?!
+tile.door.steel.bottom.name=Низ стальной двери
+tile.door.steel.bottom.desc=Как ты это получил?!
+tile.fence.steel.name=Стальной забор
+tile.fence.steel.desc=Забор из грубой стали. Пугающий!
+
+###############
+### Лазурит ###
+###############
+tile.brick.lapis.name=Лазуритные кирпичи
+tile.brick.lapis.desc=Сложенные кирпичи из лазурита.
+tile.slab.brick.lapis.name=Лазурито-кирпичная плита
+tile.slab.brick.lapis.desc=Плита из лазуритных кирпичей.
+tile.stairs.brick.lapis.name=Лазурито-кирпичные ступени
+tile.stairs.brick.lapis.desc=Лазурито-кирпичный блок для подъёма наверх.
+
+##############
+### Стекло ###
+##############
+tile.glass.name=Стекло
+tile.glass.desc=Песок, нагретый до полупрозрачного состояния.
+tile.glass.tinted.name=Тонированное стекло
+tile.glass.tinted.desc=Затенённое стекло, блокирующее свет.
+tile.glass.steel.name=Армированное стекло
+tile.glass.steel.desc=Как стекло, но не хрупкое.
+tile.trapdoor.glass.name=Стеклянный люк
+tile.trapdoor.glass.desc=Бесполезен сам по себе.
+item.door.glass.name=Стеклянная дверь
+item.door.glass.desc=Хороша для эстетики, ужасна для уединения.
+tile.door.glass.top.name=Верх стеклянная дверь
+tile.door.glass.top.desc=Ты не должен был этого видеть.
+tile.door.glass.bottom.name=Низ стеклянная дверь
+tile.door.glass.bottom.desc=И это не потому что это стекло.
+item.jar.name=Банка
+item.jar.desc=Стеклянная банка.
+item.lantern.firefly.green.name=Фонарь с зелёными светлячками
+item.lantern.firefly.green.desc=Стеклянная банка с роем зелёных светлячков.
+tile.lantern.firefly.green.name=Фонарь с зелёными светлячками
+tile.lantern.firefly.green.desc=Стеклянная банка с роем зелёных светлячков.
+item.lantern.firefly.orange.name=Фонарь с оранжевыми светлячками
+item.lantern.firefly.orange.desc=Стеклянная банка с роем оранжевых светлячков.
+tile.lantern.firefly.orange.name=Фонарь с оранжевыми светлячками
+tile.lantern.firefly.orange.desc=Стеклянная банка с роем оранжевых светлячков.
+item.lantern.firefly.blue.name=Фонарь с синими светлячками
+item.lantern.firefly.blue.desc=Стеклянная банка с роем синих светлячков.
+tile.lantern.firefly.blue.name=Фонарь с синими светлячками
+tile.lantern.firefly.blue.desc=Стеклянная банка с роем синих светлячков.
+item.lantern.firefly.red.name=Фонарь с красными светлячками
+item.lantern.firefly.red.desc=Стеклянная банка с роем красных светлячков.
+tile.lantern.firefly.red.name=Фонарь с красными светлячками
+tile.lantern.firefly.red.desc=Стеклянная банка с роем красных светлячков.
+item.jar.butterfly.blue.name=Синяя бабочка в банке
+item.jar.butterfly.blue.desc=Стеклянная банка с синей бабочкой внутри.
+tile.jar.butterfly.blue.name=Синяя бабочка в банке
+tile.jar.butterfly.blue.desc=Стеклянная банка с синей бабочкой внутри.
+item.jar.butterfly.orange.name=Оранжевая бабочка в банке
+item.jar.butterfly.orange.desc=Стеклянная банка с оранжевой бабочкой внутри.
+tile.jar.butterfly.orange.name=Оранжевая бабочка в банке
+tile.jar.butterfly.orange.desc=Стеклянная банка с оранжевой бабочкой внутри.
+item.jar.butterfly.pink.name=Розовая бабочка в банке
+item.jar.butterfly.pink.desc=Стеклянная банка с розовой бабочкой внутри.
+tile.jar.butterfly.pink.name=Розовая бабочка в банке
+tile.jar.butterfly.pink.desc=Стеклянная банка с розовой бабочкой внутри.
+item.jar.butterfly.silver.name=Серебряная бабочка в банке
+item.jar.butterfly.silver.desc=Стеклянная банка с серебряной бабочкой внутри.
+tile.jar.butterfly.silver.name=Серебряная бабочка в банке
+tile.jar.butterfly.silver.desc=Стеклянная банка с серебряной бабочкой внутри.
+
+###############
+### Деревья ###
+###############
+tile.log.oak.name=Дубовое бревно
+tile.log.oak.desc=Срубленный ствол дуба.
+tile.log.oak.mossy.name=Замшелое дубовое бревно
+tile.log.oak.mossy.desc=Срубленный ствол замшелого дуба.
+tile.leaves.oak.name=Дубовая листва
+tile.leaves.oak.desc=Листва, собранная с дуба.
+tile.leaves.oak.retro.name=Ретро-листва
+tile.leaves.oak.retro.desc=Листва из далёких времён.
+tile.sapling.oak.name=Дубовый саженец
+tile.sapling.oak.desc=Посадите, чтобы вырастить дуб.
+tile.sapling.oak.retro.name=Ретро-саженец
+tile.sapling.oak.retro.desc=Посадите, чтобы вырастить дерево из далёких времён.
+
+tile.log.pine.name=Еловое бревно
+tile.log.pine.desc=Срубленный ствол ели.
+tile.leaves.pine.name=Еловая листва
+tile.leaves.pine.desc=Листва, собранная с ели.
+tile.sapling.pine.name=Еловый саженец
+tile.sapling.pine.desc=Посадите, чтобы вырастить ель.
+
+tile.log.birch.name=Берёзовое бревно
+tile.log.birch.desc=Срубленный ствол берёзы.
+tile.leaves.birch.name=Берёзовая листва
+tile.leaves.birch.desc=Листва, собранная с берёзы.
+tile.sapling.birch.name=Берёзовый саженец
+tile.sapling.birch.desc=Посадите, чтобы вырастить берёза.
+
+tile.log.cherry.name=Вишнёвое бревно
+tile.log.cherry.desc=Срубленный ствол вишнёвого дерева.
+tile.leaves.cherry.name=Вишнёвая листва
+tile.leaves.cherry.desc=Листва, собранная с вишнёвого дерева.
+tile.leaves.cherry.flowering.name=Цветущая вишнёвая листва
+tile.leaves.cherry.flowering.desc=Листва, собранная с вишни с расцвётшими плодами.
+tile.sapling.cherry.name=Вишнёвый саженец
+tile.sapling.cherry.desc=Посадите, чтобы вырастить вишнёвое дерево.
+
+tile.log.eucalyptus.name=Эвкалиптовое бревно
+tile.log.eucalyptus.desc=Срубленный ствол эвкалипта.
+tile.leaves.eucalyptus.name=Эвкалиптовая листва
+tile.leaves.eucalyptus.desc=Листва, собранная с эвкалипта.
+tile.sapling.eucalyptus.name=Эвкалиптовый саженец
+tile.sapling.eucalyptus.desc=Посадите, чтобы вырастить эвкалипт.
+
+tile.leaves.shrub.name=Кустовая листва
+tile.leaves.shrub.desc=Листва, собранная с куста.
+tile.sapling.shrub.name=Кустовый саженец
+tile.sapling.shrub.desc=Посадите, чтобы вырастить куст.
+
+tile.leaves.cacao.name=Какао-Листва
+tile.leaves.cacao.desc=Листва, собранная с дерева какао.
+tile.sapling.cacao.name=Какао-саженец
+tile.sapling.cacao.desc=Посадите, чтобы вырастить дерево какао.
+
+tile.log.thorn.name=Бревно колючего дерева
+tile.log.thorn.desc=Срубленный ствол колючего дерева.
+tile.leaves.thorn.name=Колючая листва
+tile.leaves.thorn.desc=Листва, собранная с колючего дерева.
+tile.sapling.thorn.name=Колючий саженец
+tile.sapling.thorn.desc=Посадите, чтобы вырастить колючее дерево.
+
+tile.log.palm.name=Пальмовое бревно
+tile.log.palm.desc=Срубленный ствол пальмы.
+tile.leaves.palm.name=Пальмовая листва
+tile.leaves.palm.desc=Листва, собранная с дерева пальмы.
+tile.sapling.palm.name=Пальмовый саженец
+tile.sapling.palm.desc=Посадите, чтобы вырастить пальму.
+
+################
+### Растения ###
+################
+tile.tallgrass.name=Высокая трава
+tile.tallgrass.desc=Пышная, растущая трава.
+tile.tallgrass.fern.name=Папоротник
+tile.tallgrass.fern.desc=Папоротниковое растение.
+tile.deadbush.name=Мёртвый куст
+tile.deadbush.desc=Иссохшее растение.
+tile.spinifex.name=Спинифекс
+tile.spinifex.desc=Веретённая, тонкая трава из сухих регионов.
+tile.algae.name=Водоросли
+tile.algae.desc=Липкая растительность плавающая на поверхности воды.
+tile.flower.yellow.name=Одуванчик
+tile.flower.yellow.desc=Красивый жёлтый цветок.
+tile.flower.red.name=Роза
+tile.flower.red.desc=Красивый красный цветок.
+tile.flower.purple.name=Вереск
+tile.flower.purple.desc=Побег фиолетовых лепестков. Приносит удачу.
+tile.flower.lightblue.name=Колокольчик
+tile.flower.lightblue.desc=Грустно выгялдящий цветок.
+tile.flower.pink.name=Орхидея
+tile.flower.pink.desc=Красивый розовый цветок.
+tile.flower.orange.name=Бархатец
+tile.flower.orange.desc=Красивый оранжевый цветок.
+tile.cactus.name=Кактус
+tile.cactus.desc=Колючее растение, растущее в пустыне.
+tile.block.sugarcane.name=Блок сахарного тростника
+tile.block.sugarcane.desc=Один большой блок сахара.
+tile.block.sugarcane.baked.name=Печёный блок сахарного тростника
+tile.block.sugarcane.baked.desc=Пахнет очень вкусно.
+tile.pumpkin.carved.idle.name=Вырезанная тыква
+tile.pumpkin.carved.idle.desc=Оранжевая тыква c жутким лицом.
+tile.pumpkin.carved.active.name=Светильник Джека
+tile.pumpkin.carved.active.desc=Оранжевая тыква c жутким лицом, горящая от факела.
+
+#################
+### Древесина ###
+#################
+tile.planks.oak.name=Доски
+tile.planks.oak.desc=Обработанная древесина.
+tile.stairs.planks.oak.name=Деревянные ступени
+tile.stairs.planks.oak.desc=Деревянный блок для подъёма наверх.
+tile.slab.planks.oak.name=Деревянная плита
+tile.slab.planks.oak.desc=Плита из досок.
+tile.fence.planks.oak.name=Деревянный забор
+tile.fence.planks.oak.desc=Слишком высокий, чтобы перепрыгнуть.
+tile.fencegate.planks.oak.name=Деревянная калитка
+tile.fencegate.planks.oak.desc=Как дверь, только калитка.
+item.door.oak.name=Деревянная дверь
+item.door.oak.desc=Нужна каждому дому.
+tile.door.planks.oak.bottom.name=Низ деревянной двери
+tile.door.planks.oak.bottom.desc=/give Honeydew 64 46
+tile.door.planks.oak.top.name=Верх деревянной двери
+tile.door.planks.oak.top.desc=Ой, погоди, это не динамит, это полдвери.
+tile.trapdoor.planks.oak.name=Деревянный люк
+tile.trapdoor.planks.oak.desc=Как дверь, но квадратая.
+item.sign.name=Табличка
+item.sign.desc=Пометь свои владения или напиши сообщение.
+tile.sign.post.planks.oak.name=Деревянный указатель
+tile.sign.post.planks.oak.desc=Отдельно стоящая деревянная табличка.
+tile.sign.wall.planks.oak.name=Деревянная настенная табличка
+tile.sign.wall.planks.oak.desc=Деревянная табличка, повешенная на стену.
+tile.chest.planks.oak.name=Деревянный сундук
+tile.chest.planks.oak.desc=Место хранения предметов.
+tile.torch.coal.name=Факел
+tile.torch.coal.desc=Помогает освещать путь.
+tile.ladder.oak.name=Лестница
+tile.ladder.oak.desc=Для быстрого подъёма.
+tile.bookshelf.planks.oak.name=Книжные полки
+tile.bookshelf.planks.oak.desc=Хранилище знаний.
+
+###################
+### Незер-блоки ###
+###################
+tile.boneshale.name=Костяной сланец
+tile.boneshale.desc=Крайне прочный белый камень вырытый из самых глубин.
+tile.crystal.stalk.name=Незер-кристалл
+tile.crystal.stalk.desc=Фрагмент кристалла, ветвящийся в разные стороны.
+tile.crystal.name=Блок незер-кристалла
+tile.crystal.desc=Яркий переливающийся камень, растущий при сильном нагреве.
+tile.soulsand.name=Песок душ
+tile.soulsand.desc=Мягкий коричневый песок, по которому трудно ходить.
+tile.soulschist.name=Сланец душ
+tile.soulschist.desc=Омерзительная груда древних костей, слившаяся от жара, давления и времени.
+tile.glowstone.name=Светокамень
+tile.glowstone.desc=Постоянно излучает сильный желтоватый свет.
+tile.block.ash.name=Блок пепла
+tile.block.ash.desc=Куча пепла, собранная в цельный блок.
+tile.layer.ash.name=Слой пепла
+tile.layer.ash.desc=Плоский слой пепла.
+tile.sulfur.name=Блок серы
+tile.sulfur.desc=Куча серы, собранная в цельный блок.
+
+######################
+### Блоки ресурсов ###
+######################
+tile.block.coal.name=Блок угля
+tile.block.coal.desc=Твёрдый блок угля.
+tile.block.iron.name=Блок железа
+tile.block.iron.desc=Твёрдый блок железа. Тяжело!
+tile.block.gold.name=Блок золота
+tile.block.gold.desc=Твёрдый блок золота, для показа побрякушек.
+tile.block.lapis.name=Блок лазурита
+tile.block.lapis.desc=Твёрдый блок лазурита.
+tile.block.diamond.name=Блок алмаза
+tile.block.diamond.desc=Твёрдый блок алмаза. Отличная работа.
+tile.block.nethercoal.name=Блок незер-угля
+tile.block.nethercoal.desc=Твёрдый блок незер-угля.
+tile.block.steel.name=Блок стали
+tile.block.steel.desc=Твёрдый блок стали.
+tile.block.quartz.name=Блок кварца
+tile.block.quartz.desc=Твёрдый блок кварца.
+tile.block.olivine.name=Блок оливина
+tile.block.olivine.desc=Твёрдый блок оливина.
+tile.block.charcoal.name=Блок древесного угля
+tile.block.charcoal.desc=Твёрдый блок древесного угля.
+
+############################
+### Функциональные блоки ###
+############################
+tile.workbench.name=Верстак
+tile.workbench.desc=Для больших проектов.
+tile.furnace.stone.idle.name=Печь
+tile.furnace.stone.idle.desc=Для переплавки, обогрения и готовки блоков и предметов.
+tile.furnace.stone.active.name=Зажжённая печь
+tile.furnace.stone.active.desc=Для переплавки, обогрения и готовки блоков и предметов.
+tile.furnace.blast.idle.name=Плавильня
+tile.furnace.blast.idle.desc=Жарче, чем обычная печь.
+tile.furnace.blast.active.name=Зажжённая плавильня
+tile.furnace.blast.active.desc=Горит жарче, чем обычная печь.
+tile.trommel.idle.name=Просеиватель
+tile.trommel.idle.desc=Машина, отделяющая полезные предметы от почвы.
+tile.trommel.active.name=Зажжённый просеиватель
+tile.trommel.active.desc=Машина, отделяющая полезные предметы от почвы.
+tile.jukebox.name=Проигрыватель
+tile.jukebox.desc=Играет ваши любимые мелодии, если у вас есть подходящая пластинка.
+tile.chest.legacy.name=Старый сундук
+tile.mobspawner.name=Рассадник монстров
+tile.mobspawner.desc=Клетка полная ужаса.
+tile.mobspawner.deactivated.name=Деактивированный рассадник монстров
+tile.mobspawner.deactivated.desc=Клетка больше не полная ужаса.
+tile.bed.name=Кровать
+tile.bed.desc=Кровать!
+tile.seat.name=Сиденье
+tile.seat.desc=Присядьте и расслабьтесь.
+item.basket.name=Корзина
+item.basket.desc=Плетёная ёмкость для хранения предметов.
+tile.basket.name=Корзина
+tile.basket.desc=Плетёная ёмкость для хранения предметов.
+item.flag.name=Флаг
+item.flag.desc=Флаг для отметки своей территории.
+item.flag.modified.name=Флаг (Изменён)
+item.flag.modified.desc=Флаг для отметки своей территории.
+tile.flag.name=Флаг
+tile.flag.desc=Флаг для отметки своей территории.
+item.rope.name=Верёвка
+item.rope.desc=Достаточно крепкая, чтобы взбираться.
+tile.rope.name=Верёвка
+tile.rope.desc=Достаточно крепкая, чтобы взбираться.
+tile.tnt.name=Динамит
+tile.tnt.desc=Имеет взрывной характер.
+
+#####################
+### Прочее (TODO) ###
+#####################
+tile.gravel.name=Гравий
+tile.gravel.desc=Сыпучая груда щебня.
+tile.bedrock.name=Бедрок
+tile.bedrock.desc=Прочнейший из возможных.
+tile.cobweb.name=Паутина
+tile.cobweb.desc=Липкие шёлковые нити, сделанные пауками.
+tile.obsidian.name=Обсидиан
+tile.obsidian.desc=Резко остужённая вулканическая порода.
+
+tile.fluid.water.flowing.name=Текучая вода
+tile.fluid.water.flowing.desc=Вода. Течёт, если её разместить.
+tile.fluid.water.still.name=Стоячая вода
+tile.fluid.water.still.desc=Вода. Не течёт, если её разместить.
+tile.sponge.dry.name=Губка
+tile.sponge.dry.desc=Сухая губка, хороша для впитывания воды.
+tile.sponge.wet.name=Мокрая губка
+tile.sponge.wet.desc=Губка полная воды.
+tile.ice.name=Лёд
+tile.ice.desc=Скользкая замёрзшая вода.
+tile.ice.perma.name=Вечный лёд
+tile.ice.perma.desc=Лёд, проникшийся бытием камня.
+
+tile.fire.name=Огонь
+tile.fire.desc=Ой, горячо!
+tile.fluid.lava.flowing.name=Текучая лава
+tile.fluid.lava.flowing.desc=Лава. Течёт, если её разместить.
+tile.fluid.lava.still.name=Стоячая лава
+tile.fluid.lava.still.desc=Лава. Не течёт, если её разместить.
+tile.pumice.dry.name=Пемза
+tile.pumice.dry.desc=Сухой поричтый вулканический камень, хорош для впитывания камня.
+tile.pumice.wet.name=Плавленая пемза
+tile.pumice.wet.desc=Камень полный лавы.
+
+tile.paper_wall.name=Бумажная стена
+tile.paper_wall.desc=Стена, сделанный из тонкой бумаги. Не порви!
+tile.fence.paper_wall.name=Забор из бумажной стены
+tile.fence.paper_wall.desc=Забор, сделанный из тонкой бумаги. Не порви!
+
+tile.layer.snow.name=Слой снега
+tile.layer.snow.desc=Плоский слой снега.
+tile.block.snow.name=Блок снега
+tile.block.snow.desc=Куча снега, собранная в цельный блок.
+
+tile.layer.leaves.oak.name=Слой листвы
+tile.layer.leaves.oak.desc=Охапка листьев.
+
+item.painting.name=Картина
+item.painting.desc=Красивая картина, чтобы повесить на стену.
+
+##################
+### Недоступно ###
+##################
+tile.portal.nether.name=Незер-портал
+tile.portal.nether.desc=Портал в Незер.
+tile.portal.drift.name=Дрейф-портал
+tile.portal.drift.desc=Портал в Дрейф.

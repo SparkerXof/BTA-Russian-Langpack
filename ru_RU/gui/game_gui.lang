@@ -1,0 +1,222 @@
+#############
+### Пауза ###
+#############
+gui.ingame_menu.label.title=Меню
+gui.ingame_menu.label.score=Очки: %s
+gui.ingame_menu.label.saving=Сохранение...
+gui.ingame_menu.button.save_and_quit=Сохранить и выйти
+gui.ingame_menu.button.disconnect=Отключиться
+gui.ingame_menu.button.back_to_game=Вернуться в игру
+gui.ingame_menu.button.options=Настройки...
+gui.ingame_menu.button.photo_mode=Фото-режим...
+gui.ingame_menu.button.achievements=Достижения
+gui.ingame_menu.button.statistics=Статистика
+
+################
+### Лицензия ###
+################
+gui.achievement.label.unlicensed.1=Better than Adventure! %s Нелицензионная копия :(
+gui.achievement.label.unlicensed.2=(или вход из другого места)
+gui.achievement.label.unlicensed.3=Купите на minecraft.net
+
+############
+### Игра ###
+############
+# Инвентарь #
+container.inventory.name=Инвентарь
+container.crafting.name=Создание
+gui.inventory.label.crafting=Создание
+gui.inventory.creative.label.search=Поиск...
+# Типы урона #
+damagetype.combat=Удар
+damagetype.projectile=Снаряд
+damagetype.blast=Взрыв
+damagetype.fall=Падение
+damagetype.fire=Огонь
+# Верстак #
+gui.crafting.label.crafting=Создание
+gui.crafting.label.inventory=Инвентарь
+# Печь и плавильня #
+container.furnace.name=Печь
+gui.furnace.label.furnace=Печь
+container.furnace_blast.name=Плавильня
+gui.furnace.blast.label.blast_furnace=Плавильня
+gui.furnace.label.inventory=Инвентарь
+# Сундук #
+container.chest.name=Сундук
+gui.chest.label.chest=Сундук
+gui.chest.label.inventory=Инвентарь
+# Кровать #
+gui.sleeping.leave_bed=Слезть с кровати
+gui.sleeping.multiplayer.leave_bed=Слезть с кровати
+# Раздатчик #
+container.dispenser.name=Раздатчик
+gui.dispenser.label.dispenser=Раздатчик
+gui.dispenser.label.inventory=Инвентарь
+# Просеиватель #
+container.trommel.name=Просеиватель
+gui.trommel.label.trommel=Просеиватель
+gui.trommel.label.inventory=Инвентарь
+# Активатор #
+container.activator.name=Активатор
+gui.activator.label.activator=Активатор
+gui.activator.label.inventory=Инвентарь
+# Табличка #
+gui.edit_sign.label.title=Редактирование таблички:
+sign.image.none=Ничего
+sign.image.arrow_right=Стрелка вправо
+sign.image.arrow_left=Стрелка влево
+sign.image.arrow_down=Стрелка вниз
+sign.image.arrow_up=Стрелка вверх
+sign.image.caution=Внимание
+sign.image.mobs=Мобы
+sign.image.trees=Деревья
+sign.image.chest=Сундук
+sign.image.pickaxe=Кирка
+sign.image.wolf=Волк
+sign.image.sword=Меч
+sign.image.hoe=Мотыга
+sign.image.axe=Топор
+sign.image.shovel=Лопата
+sign.image.bowl=Миска
+sign.image.tnt=Динамит
+sign.image.mob_farm=Ферма мобов
+sign.image.mine=Шахта
+sign.image.redstone=Редстоун
+sign.image.farm=Ферма
+sign.image.barricade=Баррикады
+sign.image.question_mark=Знак вопроса
+sign.image.face_smile=Улыбающееся лицо
+sign.image.face_sad=Грустное лицо
+sign.image.face_crying=Плачущее лицо
+sign.image.face_gasp=Удивлённое лицо
+sign.image.face_thinking=Думающее лицо
+sign.image.face_confused=Растерянное лицо
+sign.image.big_sign=Большая табличка
+sign.image.mob_zombie=Зомби
+sign.image.mob_skeleton=Скелет
+sign.image.mob_creeper=Крипер
+sign.image.one_player=Один игрок
+sign.image.two_players=Два игрока
+sign.image.three_players=Три игрока
+sign.image.cross=Крест
+sign.image.craft=Крафт
+sign.image.afk=AFK
+sign.image.brb=Скоро вернусь
+gui.edit_sign.button.done=Готово
+# Флаг #
+container.flag.name=Флаг
+gui.edit_flag.label.inventory=Инвентарь
+# Бирка #
+gui.edit_label.label.title=Редактирование бирки:
+gui.edit_label.button.done=Готово
+gui.pick_monster.label.title=Выбор моба для призыва
+
+container.minecart.name=Вагонетка
+container.result.name=Результат
+
+###################
+### Уведомления ###
+###################
+bed.occupied=Кровать занята
+bed.noSleep=Спать можно только ночью или во время грозы
+bed.setSpawn=Точка возрождения установлена
+bed.notValid=Кровать была утеряна или закрыта
+bed.noAllowSleeping=Сон отключён.
+bed.unsafeToSleep=Здесь спать небезопасно.
+flag.full=У вас слишком много флагов на карте
+flag.overwrite=Нельзя перезаписать существующий шаблон
+flag.copied=Шаблон флага скопирован
+wand.wrongmode=Для применения необходимо быть в режиме творчества!
+record.13=13
+record.cat=Cat
+record.blocks=Blocks
+record.chirp=Chirp
+record.far=Far
+record.mall=Mall
+record.mellohi=Mellohi
+record.stal=Stal
+record.strad=Strad
+record.ward=Ward
+record.wait=Wait
+record.dog=Dog
+
+###############
+### Оверлей ###
+###############
+unit.day=День
+direction.up=Верх
+direction.down=Низ
+direction.north=Север
+direction.south=Юг
+direction.west=Запад
+direction.east=Восток
+direction.none=Отсутствует
+side.top=Верх
+side.bottom=Низ
+side.north=Север
+side.south=Юг
+side.west=Запад
+side.east=Восток
+side.none=Отсутствует
+weather.overworld.clear.name=Ясно
+weather.overworld.hell.clear.name=Ясно
+weather.overworld.woods.clear.name=Ясно
+weather.overworld.rain.name=Дождь
+weather.overworld.snow.name=Снег
+weather.overworld.winter.snow.name=Снег
+weather.overworld.storm.name=Гроза
+weather.overworld.fog.name=Туман
+weather.overworld.rain.blood.name=Кровавый дождь
+season.overworld.spring.name=Весна
+season.overworld.summer.name=Лето
+season.overworld.fall.name=Осень
+season.overworld.winter.name=Зима
+season.overworld.hell.name=Ад
+season.overworld.winter.endless.name=Вечная зима
+season.drift.gold.name=Золото
+season.drift.silver.name=Серебро
+season.null.name=Нет сезонов
+
+##################
+### Фото-режим ###
+##################
+gui.photo_mode.label.mouse_hint=Держите кнопку мыши для перемещения и поворота камеры.
+gui.photo_mode.button.take_screenshot=Сделать снимок
+gui.photo_mode.button.center_camera=Центрировать
+gui.photo_mode.button.show_player=Игрок: %s
+gui.photo_mode.button.show_player.on=ВКЛ
+gui.photo_mode.button.show_player.off=ВЫКЛ
+gui.photo_mode.button.time_of_day=Время: %s
+gui.photo_mode.button.time_of_day.default=СТАНДАРТ
+gui.photo_mode.button.season=Сезон: %s
+gui.photo_mode.button.season.default=СТАНДАРТ
+gui.photo_mode.button.fog=Туман: %s
+gui.photo_mode.button.tilt=Наклон: %s
+gui.photo_mode.button.tilt.default=СТАНДАРТ
+gui.photo_mode.button.shader=Шейдер: %s
+gui.photo_mode.button.shader.none=НЕТ
+gui.photo_mode.button.intensity=Интенсивность: %s
+
+##############
+### Смерть ###
+##############
+gui.game_over.label.title=Вы умерли!
+gui.game_over.label.score=Очки: %s
+gui.game_over.button.respawn=Возродиться
+gui.game_over.button.respawn.spectator=Наблюдать
+gui.game_over.button.title_screen=Главное меню
+
+################
+### Загрузка ###
+################
+progress.tip=Совет: %s
+gui.downloading_terrain.label.title=Загузка ландшафта
+gui.loading.label.generating=Генерация мира...
+gui.loading.label.loading=Загрузка мира...
+gui.loading.label.entering=Вход в %s...
+gui.loading.label.leaving=Выход из %s...
+connect.connecting=Подключение к серверу...
+connect.authorizing=Вход...
+
+gui.tooltip.prompt.description=%s: Описание...

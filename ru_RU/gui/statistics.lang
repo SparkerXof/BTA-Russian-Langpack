@@ -1,0 +1,43 @@
+############
+### Окно ###
+############
+gui.statistics.label.title=Статистика
+gui.statistics.button.general=Общее
+gui.statistics.button.blocks=Блоки
+gui.statistics.button.items=Предметы
+gui.statistics.button.done=Готово
+
+#############
+### Общее ###
+#############
+stat.startGame=Запусков игры
+stat.createWorld=Миров создано
+stat.loadWorld=Миров загружено
+stat.joinMultiplayer=Подключений к сети
+stat.leaveGame=Выходов из игры
+stat.playOneMinute=Времени сыграно
+stat.walkOneCm=Преодолено пешком
+stat.swimOneCm=Преодолено вплавь
+stat.fallOneCm=Преодолено в падении
+stat.climbOneCm=Преодолено взбираясь
+stat.flyOneCm=Преодолено в полёте
+stat.diveOneCm=Преодолено погружаясь
+stat.minecartOneCm=Преодолено в вагонетке
+stat.boatOneCm=Преодолено на лодке
+stat.pigOneCm=Преодолено на свинье
+stat.jump=Прыжков
+stat.drop=Выброшено предметов
+stat.damageDealt=Нанесено урона
+stat.damageTaken=Получено урона
+stat.deaths=Число смертей
+stat.mobKills=Убийств мобов
+stat.playerKills=Убийств игроков
+stat.fishCaught=Поймано рыбы
+
+########################
+### Блоки и предметы ###
+########################
+stat.crafted=Создано
+stat.used=Использовано
+stat.mined=Добыто
+stat.depleted=Сломано

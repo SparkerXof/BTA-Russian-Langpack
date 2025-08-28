@@ -1,0 +1,37 @@
+item.unknown.desc=Вы ещё не встретили этот предмет.
+
+#################
+### Пластинки ###
+#################
+item.record.13.name=Пластинка
+item.record.13.desc=§413
+item.record.cat.name=Пластинка
+item.record.cat.desc=§5cat
+item.record.blocks.name=Пластинка
+item.record.blocks.desc=§eblocks
+item.record.chirp.name=Пластинка
+item.record.chirp.desc=§echirp
+item.record.far.name=Пластинка
+item.record.far.desc=§5far
+item.record.mall.name=Пластинка
+item.record.mall.desc=§amall
+item.record.mellohi.name=Пластинка
+item.record.mellohi.desc=§2mellohi
+item.record.stal.name=Пластинка
+item.record.stal.desc=§fstal
+item.record.strad.name=Пластинка
+item.record.strad.desc=§0strad
+item.record.ward.name=Пластинка
+item.record.ward.desc=§dward
+item.record.wait.name=Пластинка
+item.record.wait.desc=§3wait
+item.record.calm4.name=Пластинка
+item.record.calm4.desc=§fcalm4
+item.record.dog.name=Пластинка
+item.record.dog.desc=§edog
+item.bed.name=Кровать
+item.bed.desc=Вздремните на ночь.
+item.seat.name=Сиденье
+item.seat.desc=Сядьте и расслабьтесь.
+item.leaves.name=Листва
+item.leaves.desc=Шуршащяя и зелёная.

@@ -1,13 +1,19 @@
+##################
+### Оглавление ###
+##################
 guidebook.section.cover=Better than Adventure!
 guidebook.section.index=Оглавление
 guidebook.section.mob=Существа
-guidebook.section.crafting=Верстак
+guidebook.section.crafting=Крафт
 guidebook.section.furnace=Печь
 guidebook.section.blast_furnace=Плавильня
 guidebook.section.trommel=Просеиватель
 guidebook.section.search=Поиск
 
-guidebook.section.search.error.no_recipes=Рецепты не найден :(
+#############
+### Поиск ###
+#############
+guidebook.section.search.error.no_recipes=Рецепты не найдены :(
 guidebook.section.search.result.found=Найдено рецептов: %s
 guidebook.section.search.info.modifiers.title=Модификаторы поиска
 guidebook.section.search.info.modifiers.1=§er:...§r: Поиск по результату
@@ -20,6 +26,9 @@ guidebook.section.search.info.modifiers.7=по группе рецептов
 guidebook.section.search.info.modifiers.8=§e...!§r: Cтрогий поиск
 guidebook.section.search.info.modifiers.9=§e...§r: Обычный поиск
 
+############
+### Мобы ###
+############
 guidebook.section.mob.health=Здоровье:
 guidebook.section.mob.score=Очки: %s
 guidebook.section.mob.damage=Урон: %s
@@ -34,6 +43,8 @@ guidebook.section.mob.cow.name=Корова
 guidebook.section.mob.cow.desc=Коровы - источник кожи, использующейся для создания брони.\nМожно найти в большинстве биомов.
 guidebook.section.mob.chicken.name=Курица
 guidebook.section.mob.chicken.desc=Курица - источник перьев, использующихся для стрел.\nМожно найти в большинстве биомов.
+guidebook.section.mob.deer.name=Олень
+guidebook.section.mob.deer.desc=Олени - пугливые животные, живущие в холодном климате. Они отличный источник еды, хоть их и тяжело поймать.
 guidebook.section.mob.squid.name=Спрут
 guidebook.section.mob.squid.desc=Спруты - источник чернил, которыми можно покрасить шерсть.\nМожно найти в озёрах и океанах.
 guidebook.section.mob.wolf.name=Волк
@@ -41,7 +52,7 @@ guidebook.section.mob.wolf.desc=Волки - пассивные мобы, при
 guidebook.section.mob.firefly_cluster.name=Светлячки
 guidebook.section.mob.firefly_cluster.desc=Светлячки появляются как мерцающее облачко света, которое можно поймать в банку для создания фонаря.\nМожно найти в большинстве биомов.
 guidebook.section.mob.butterfly.name=Бабочка
-guidebook.section.mob.butterfly.desc=Бабочки - маленькие насекомые, летящие от цветка до цветка. Могут быть пойманы в банку.
+guidebook.section.mob.butterfly.desc=Бабочки - маленькие насекомые, парящие с цветка на цветок, которых можно поймать в банку.
 guidebook.section.mob.zombie.name=Зомби
 guidebook.section.mob.zombie.desc=Зомби - распространённые противники, появляющиеся ночью и во тьме. Они бьют больно, так что осторожно!
 guidebook.section.mob.creeper.name=Крипер

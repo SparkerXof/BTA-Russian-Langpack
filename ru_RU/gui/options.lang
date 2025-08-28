@@ -1,0 +1,461 @@
+###==**==###
+### Меню ###
+###==**==###
+gui.options.title=Настройки
+gui.options.button.done=Готово
+gui.options.label.select_page=Выбор страницы
+options.title=Настройки
+options.off=ВЫКЛ
+options.on=ВКЛ
+key.disabled=Пусто
+gui.options.label.picking_keybinding=Нажмите клавишу или кнопку мыши, для привязки к '%s'.
+
+###==***==###
+### Общее ###
+###==***==###
+gui.options.page.general.title=Общее
+gui.options.page.general.category.gameplay=Игровой процесс
+options.fov=Поле зрения
+options.fov.min=Бинокль
+options.fov.max=Quake-про
+=======================================
+options.difficulty=Сложность
+options.difficulty.locked=Заблокировано
+options.difficulty.peaceful=Мирная
+options.difficulty.easy=Легкая
+options.difficulty.normal=Нормальная
+options.difficulty.hard=Тяжёлая
+gui.options.difficultylock.warning.1=Вы уверены, что хотите
+gui.options.difficultylock.warning.2=заблокировать сложность?
+gui.options.difficultylock.warning.3=(Это невозможно отменить)
+gui.options.difficultylock.button.yes=Да
+gui.options.difficultylock.button.no=Нет
+=======================================
+options.placementMode=Режим размещения
+options.placementMode.default=Стандартный
+options.placementMode.side=По стороне
+options.placementMode.facing=По взгляду
+=======================================
+options.autoHit=Авто удар
+options.easyBridge=Простая постройка мостов
+options.bobView=Покачивание камеры
+
+gui.options.page.general.category.user_interface=Интерфейс
+gui.options.page.general.button.edit_hud=Редактировать HUD...
+gui.hud_designer.button.done=Готово
+options.guiScale=Размер интерфейса
+options.guiScale.auto=Авто
+=======================================
+options.screenPadding=Ограничение экрана
+=======================================
+options.tooltipStyle=Стиль подсказок
+options.tooltipStyle.default=Стандартный
+options.tooltipStyle.modern=Современный
+options.tooltipStyle.metallic=Металл
+options.tooltipStyle.stone=Камень
+options.tooltipStyle.planks=Доски
+options.tooltipStyle.rpg=RPG
+options.tooltipStyle.crt=ЭЛТ
+options.tooltipStyle.detailed=Детальный
+options.tooltipStyle.comfy=Уютный
+options.tooltipStyle.noteblock=Нотный блок
+options.tooltipStyle.retro=Ретро
+options.tooltipStyle.picnic=Пикник
+options.tooltipStyle.battle_ui=Битва
+options.tooltipStyle.interdimensional=Межпортальный
+options.tooltipStyle.redstone_goggles=Редстоун-очки
+options.tooltipStyle.creep-o-vision=Крип-виденье
+options.tooltipStyle.steve=Стив
+=======================================
+options.font=Шрифт
+options.font.default=Стандартный
+options.font.unicode=Unicode
+options.font.monospace=Monospace
+=======================================
+options.chatVisibility=Видимость чата
+options.chatVisibility.show_all=Всегда
+options.chatVisibility.show_when_chatting=При вводе
+options.chatVisibility.never_show=Никогда
+=======================================
+options.fpsInOverlay=FPS в оверлее
+options.versionInOverlay=Версия в оверлее
+options.foodHealthRegenOverlay=Оверлей лечения
+options.armorDurabilityOverlay=Оверлей прочности брони
+options.heldItemCountOverlay=Оверлей предметов в руке
+options.heldItemTooltips=Подсказки о предметах
+=======================================
+options.itemDescriptions=Описание предметов
+options.itemDescriptions.never_prompt=ВЫКЛ
+options.itemDescriptions.prompt=Подсказка
+options.itemDescriptions.always_show=ВКЛ
+=======================================
+options.hideUndiscoveredItems=Скрытие неизвестных предметов
+options.dynamicCursor=Динамичный курсор
+options.musicToasts=Вывод названия музыки
+
+gui.options.page.general.category.miscellaneous=Прочее
+options.discordRichPresence=Discord Rich Presence
+options.enableItemClumping=Группировка предметов
+options.autosaveTimer=Автосохранение
+options.autosaveTimer.off=ВЫКЛ
+gui.options.page.general.button.open_worlds_folder=Открыть миры
+gui.options.page.general.button.open_screenshots_folder=Открыть скриншоты
+
+###==***==###
+### Игрок ###
+###==***==###
+gui.options.page.player.title=Игрок
+gui.options.page.player.category.player=Игрок
+options.player.left.handed=Левша
+options.player.cape=Плащ
+options.player.hat=Головной убор
+options.player.jacket=Куртка
+options.player.sleeve.left=Левый рукав
+options.player.sleeve.right=Правый рукав
+options.player.pant.left=Левая штанина
+options.player.pant.right=Правая штанина
+options.player.hurtsound=Звук урона
+options.player.hurtsound.masculine=Мужской
+options.player.hurtsound.feminine=Женский
+options.player.hurtsound.neutral=Нейтральный
+
+###==***==###
+### Аудио ###
+###==***==###
+gui.options.page.audio.title=Аудио
+gui.options.page.audio.category.audio=Аудио
+options.subtitles=Субтитры
+=======================================
+options.musicFrequency=Частота музыки
+options.musicFrequency.continuous=Постоянная
+options.musicFrequency.frequent=Частая
+options.musicFrequency.default=Стандартная
+options.musicFrequency.unusual=Нечастая
+options.musicFrequency.rare=Редкая
+=======================================
+options.muteOnLostFocus=Обеззвучивание в фоне
+options.playTitleScreenMusic=Музыка в главном меню
+options.sound.master=Общая громкость
+options.sound.music=Громкость музыки
+options.sound.world=Громкость мира
+options.sound.weather=Громкость погоды
+options.sound.entity=Громкость сущностей
+options.sound.cave=Громкость звуков пещер
+options.sound.gui=Громкость интерфейса
+options.playServerSounds=Проигрывать звуки сервера
+
+###==***==###
+### Видео ###
+###==***==###
+gui.options.page.video.title=Видео
+gui.options.page.video.category.display=Дисплей
+options.fullscreen=Полный экран
+options.borderlessFullscreen=Полный экран без рамок
+options.gamma=Гамма
+options.enableVsync=Вертикальная синхронизация
+=======================================
+options.customFpsLimit=Ограничение FPS
+options.customFpsLimit.unlimited=Неограниченный
+=======================================
+options.renderScale=Масштаб рендера
+options.renderScale.scale_25=0,25x
+options.renderScale.scale_50=0,5x
+options.renderScale.scale_100=1x
+options.renderScale.scale_200=2x
+=======================================
+options.colorblindnessFix=Дальтонизм
+options.colorblindnessFix.none=Нет
+options.colorblindnessFix.protanopia=Протанопия
+options.colorblindnessFix.deuteranopia=Дейтеранопия
+options.colorblindnessFix.tritanopia=Тританопия
+options.colorblindnessFix.grayscale=Ахромазия
+=======================================
+options.fancyGraphics=Графика
+options.graphics.fancy=Детально
+options.graphics.fast=Быстро
+=======================================
+
+gui.options.page.video.category.visuals=Внешний вид
+options.ambientOcclusion=Мягкое освещение
+=======================================
+options.lightmapStyle=Стиль карт света
+options.lightmapStyle.gray=Стандартный
+options.lightmapStyle.colorized=Цветной
+=======================================
+options.brightness=Яркость
+options.brightness.min=Тускло
+options.brightness.default=По умолчанию
+options.brightness.max=Ярко
+=======================================
+options.connectedGlass=Объединение стекла
+options.fog=Туман
+options.biomeWater=Вода биомов
+options.clouds=Облака
+options.cloudHeight=Высота облаков
+options.cloudHeight.default=Стандартная
+options.treeShadows=Тень от листвы
+options.vignette=Виньетка
+options.3Ditems=3D Предметы
+options.aurora=Полярное сияние
+options.slimeParticles=Частицы слизь-чанков
+options.blockOutlineWidth=Видимость обводки
+
+gui.options.page.video.category.post_processing=Пост-обработка
+options.colorCorrection=Коррекция цвета
+options.fxaa=FXAA
+=======================================
+options.bloom=Свечение
+options.bloom.low=Низкое
+options.bloom.high=Высокое
+=======================================
+options.heatHaze=Эффект жара
+
+gui.options.page.video.category.performance=Производительность
+options.renderDistance=Дистанция прорисовки
+options.mipmapLevels=Уровень MIP-текстурирования
+=======================================
+options.mipmapType=Тип MIP-текстурирования
+options.mipmapType.rough=Грубо
+options.mipmapType.smooth=Мягко
+=======================================
+options.transparencyDepthCheck=Глубины прозрачности
+options.frustumCulling=Куллинг объектов
+options.chunkRebuilds=Пересборка чанков за кадр
+=======================================
+options.leavesQuality=Качество листвы
+options.leavesQuality.fancy=Детально
+options.leavesQuality.smart=Умно
+options.leavesQuality.fast=Быстро
+=======================================
+options.particleQuality=Прорисовка частиц
+options.particleQuality.all=Все
+options.particleQuality.reduced=Сниженная
+options.particleQuality.none=Нет
+=======================================
+options.particleCap=Максимум частиц
+options.particleRenderDistance=Дистанция частиц
+options.particleRenderDistance.default=Стандартная
+options.entityRenderDistance=Дистанция сущности
+options.entityRenderDistance.default=Стандартная
+options.entityShadows=Тени от сущностей
+=======================================
+options.cloudQuality=Качество облаков
+options.cloudQuality.fast=Быстро
+options.cloudQuality.fancy=Детально
+=======================================
+options.textOutlineQuality=Качество текста
+options.textOutlineQuality.fast=Быстро
+options.textOutlineQuality.fancy=Детально
+=======================================
+
+####===****===####
+### Управление ###
+####===****===####
+gui.options.page.controls.title=Управление
+gui.options.page.controls.category.mouse=Мышь
+options.mouseSensitivity=Чувствительность
+options.mouseSensitivity.min=*зевок*
+options.mouseSensitivity.max=Я - Скорость!
+options.invertYMouse=Инверсия мыши
+options.rawMouseInput=Прямой ввод мыши
+options.enableItemDragging=Перетаскивание предметов мышью
+options.smoothCamera=Кинематографичная камера
+options.flightSmoothness=Плавность полёта
+options.turnWithVehicle=Поворот с транспортом
+
+gui.options.page.controls.category.keyboard=Клавиатура
+options.sneakToggle=Переключение приседания
+options.swapCraftingButtons=Смена клавиш крафта
+
+gui.options.page.controls.category.controller=Контроллер
+gui.options.page.controls.button.controller_setup=Настройка контроллера...
+gui.controller_setup.button.back=Назад
+gui.controller_setup.label.no_controller_selected=Контроллер не выбран!
+options.controllerSensitivity=Чувствительность в игре
+options.controllerMenuSensitivity=Чувствительность в меню
+options.controllerDeadzoneL=Мёртвая зона (Левый стик)
+options.controllerDeadzoneR=Мёртвая зона (Правый стик)
+options.controllerSwapShoulderButtons=Сменить LR R ZR R
+options.controllerSwapAB=Сменить A и B
+options.controllerSwapXY=Сменить X и Y
+
+gui.options.page.controls.category.interactions=Взаимодействие
+key.attack=Атака
+key.interact=Взаимодействие
+key.pickBlock=Выбор блока
+
+gui.options.page.controls.category.movement=Передвижение
+key.forward=Вперёд
+key.back=Назад
+key.left=Влево
+key.right=Вправо
+key.jump=Прыжок
+key.sneak=Красться
+key.fly=Полёт
+key.autoWalk=Авто ходьба
+key.easyBridge=Простая постройка мостов
+key.sprint=Бег (если доступен)
+
+gui.options.page.controls.category.user_interface=Интерфейс
+options.forceOnscreenKeyboard=Экранная клавиатура
+key.inventory=Инвентарь
+key.chat=Чат
+key.command=Ввод комманды
+key.guidebook=Руководство
+key.showRecipe=Рецепты из руководства
+key.showUsage=Применения из руководства
+key.description=Описание предметов
+key.openAchievements=Достижения
+key.openStatistics=Статистика
+key.playerList=Список игроков
+key.immersiveMode=Иммерсивный режим
+key.toggleDebug=Меню отладки
+key.toggleOverlay=Оверлей
+key.sortInventory=Сортировка инвентаря
+
+gui.options.page.controls.category.hotbar=Хотбар
+key.hotbar.left=Влево в хотбаре
+key.hotbar.right=Вправо в хотбаре
+key.hotbar.switch=Переключение хотбара
+key.drop=Выбросить предмет
+key.hotbar.1=Слот 1
+key.hotbar.2=Слот 2
+key.hotbar.3=Слот 3
+key.hotbar.4=Слот 4
+key.hotbar.5=Слот 5
+key.hotbar.6=Слот 6
+key.hotbar.7=Слот 7
+key.hotbar.8=Слот 8
+key.hotbar.9=Слот 9
+
+gui.options.page.controls.category.view=Камера
+key.look.left=Поворот влево
+key.look.right=Поворот вправо
+key.look.up=Поворот вверх
+key.look.down=Поворот вниз
+key.look.center=Центрирование
+key.zoom=Приближение
+key.cinematicCamera=Кинематографичная камера
+key.switchPerspective=Смена перспективы
+key.photoMode=Фото-режим
+
+gui.options.page.controls.category.miscellaneous=Прочее
+key.fog=Туман
+key.gamma=Изменение гаммы
+key.lockRotation=Закрепление поворота блока
+key.screenshot=Снимок экрана
+key.showConsole=Консоль
+key.fullscreen=Полный экран
+
+######==***==######
+### Доступность ###
+######==***==######
+gui.options.page.accessibility.title=Доступность
+gui.options.page.accessibility.category.accessibility=Доступность
+options.fov.modification=Изменение поля зрения
+options.screen.motion.effects=Эффекты экрана
+
+######===****===######
+### Наборы ассетов ###
+######===****===######
+gui.options.page.asset_packs.title=Наборы ассетов
+gui.options.page.asset_packs.button.open_folder=Открыть папку
+gui.options.page.asset_packs.category.textures=Ассеты
+options.animations=Анимации
+options.animations.custom=Пользовательские
+options.animations.procedural=Процедурные
+options.animations.off=ВЫКЛ
+options.customAnimations=Пользовательские анимации
+options.mobVariants=Вариации мобов
+options.customLightmap=Пользовательские карты света
+options.enableHolidayTextures=Праздничные текстуры
+gui.options.page.asset_packs.button.apply=Применить наборы ассетов
+gui.options.page.asset_packs.category.asset_packs.selected=Выбранные наборы ассетов
+gui.options.page.asset_packs.category.asset_packs.available=Доступные наборы ассетов
+gui.options.page.asset_packs.label.no_packs=Не найдено наборов ассетов :(
+gui.options.page.asset_packs.label.outdated_pack.1=Устаревший!
+gui.options.page.asset_packs.label.outdated_pack.2=Набор не создан для данной версии BTA!
+
+#######==***==#######
+### Наборы языков ###
+#######==***==#######
+gui.options.page.language_packs.title=Наборы языков
+gui.options.page.language_packs.button.open_folder=Открыть папку
+gui.options.page.language_packs.category.language_packs=Наборы языков
+
+####==***==####
+### Отладка ###
+####==***==####
+gui.options.page.debug.title=Отладка
+gui.options.page.debug.category.controls=Управление отладкой
+key.debug.textureAtlas=Показать текстуры
+key.debug.shortcuts=Показать сочетания клавиш
+key.debug.reload=Перезагрузка текстур
+key.debug.gamemode=Переключение режима игры
+key.debug.dumptextures=Выгрузить текстуры
+key.debug.fullbright=Отключение теней
+key.debug.lightmap=Переключение карт света
+key.debug.collision=Коллизии сущностей
+key.debug.chunkborders=Границы чанков
+key.debug.clearchat=Очистить чат
+key.debug.pauseFocus=Пауза при неактивном окне
+key.debug.iteminfo=Дополнительная информация о предметах
+key.debug.reloadchunks=Перезагрузка чанков
+key.debug.smoothlighting=Мягкое освещение
+key.debug.releasecursor=Отпустить курсор
+key.debug.loadChunksQuickly=Быстрая загрузка чанков
+
+gui.options.page.debug.category.settings=Настройки
+options.developerMode=Режим разработчика
+options.player.devmodel=Модель разработчика
+options.viewSupportMode=Поддержка
+options.old=Старое меню
+options.lockCamera=Фиксация камеры
+options.showDebugScreen=Меню отладки
+options.showFrameTimes=Время кадра
+options.showChunkBorders=Границы чанков
+options.showCollisionBoxes=Коллизия сущностей
+options.showItemDebugInfo=Расширенные подсказки
+options.disableCrashHandler=Отключение окна вылета
+options.startInFullscreen=Запуск на полный экран
+options.loadAllSounds=Загрузка всех звуков
+options.allowSoundOverrides=Перезаписывать звуки
+options.downloadSoundfiles=Установка звуковых файлов
+options.enableDevResourceLoading=Загрузка ресурсов разработчика
+options.devModels=Модели разработчиков
+options.enableThreadedChunkProvider=Включить Threaded Chunk Provider (экспериментально!)
+options.doJCECheck=Проверка JCE
+
+gui.options.page.debug.category.utility=Утилиты
+gui.options.page.debug.button.open.model_viewer=Открыть просмотрщик моделей
+gui.options.page.debug.button.open.sound_test=Запустить тест звуков
+gui.options.page.debug.button.open.texture_viewer=Открыть просмотрщик текстур
+gui.options.page.debug.button.open.biome_finder=Открыть поиск биомов
+gui.options.page.debug.button.open.font_tester=Открыть тест шрифтов
+gui.options.page.debug.button.open.nbt_tester=Тест редактора NBT
+gui.options.page.debug.button.open.datadumper=Запустить дамп данных
+gui.options.page.debug.button.open.achievements=Открыть достижения
+
+gui.options.page.debug.category.test=Тесты
+gui.options.page.debug.button.music.skip=Включить музыку
+gui.options.page.debug.button.cheat=Включить читы
+gui.options.page.debug.button.wipestats=Удалить статистику
+gui.options.page.debug.button.unlockedall=Разблокировать всю статистику
+gui.options.page.debug.button.crash.soft=Мягкий вылет
+gui.options.page.debug.button.garbage_collect=Запустить сборщик мусора
+gui.options.page.debug.button.reload_commands=Перезагрузить комманды
+
+###==***==###
+### Поиск ###
+###==***==###
+gui.options.page.search.title=Поиск
+
+####==***==####
+### Оверлей ###
+####==***==####
+options.overlayShowCoords=Координаты
+options.overlayShowDirection=Направление
+options.overlayShowTime=Время
+options.overlayShowSeason=Сезон
+options.overlayShowWeather=Погода
+options.overlayShowBiome=Биом

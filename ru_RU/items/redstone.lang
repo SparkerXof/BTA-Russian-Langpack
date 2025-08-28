@@ -1,0 +1,80 @@
+################
+### Редстоун ###
+################
+item.dust.redstone.name=Редстоун-пыль
+item.dust.redstone.desc=Мистическая пыль. Похоже, проводит ток.
+tile.wire.redstone.name=Редстоун провод
+tile.wire.redstone.desc=Линия редстоун пыли, лежащей на земле.
+
+#################
+### Источники ###
+#################
+tile.torch.redstone.idle.name=Редстоун факел
+tile.torch.redstone.idle.desc=Выдаёт постоянный редстоун сигнал.
+tile.torch.redstone.active.name=Редстоун факел
+tile.torch.redstone.active.desc=Выдаёт постоянный редстоун сигнал.
+tile.block.redstone.name=Блок редстоуна
+tile.block.redstone.desc=Твёрдый блок редстоуна.
+tile.motionsensor.idle.name=Датчик движения
+tile.motionsensor.idle.desc=Выдаёт редстоун сигнал, когда что-то проходит мимо него.
+tile.motionsensor.active.name=Активный датчик движения
+tile.motionsensor.active.desc=Выдаёт редстоун сигнал, когда что-то проходит мимо него.
+tile.matcher.name=Сравнитель
+tile.matcher.desc=Сравнивает два блока, находящихся за и перед ним.
+tile.matcher.active.name=Активированный сравнитель
+tile.matcher.active.desc=Сравнивает два блока, находящихся за и перед ним.
+tile.pumpkin.redstone.name=Редстоуновый светильник Джека
+tile.pumpkin.redstone.desc=Оранжевая тыква c жутким лицом, горящая от редстоун факела.
+tile.button.stone.name=Каменная кнопка
+tile.button.stone.desc=Выдаёт небольшой редстоун сигнал когда нажата.
+tile.button.planks.name=Деревянная кнопка
+tile.button.planks.desc=Выдаёт небольшой редстоун сигнал когда нажата.
+tile.lever.cobble.stone.name=Рычаг
+tile.lever.cobble.stone.desc=Переключает редстоун сигнал.
+tile.pressureplate.stone.name=Каменная нажимная плита
+tile.pressureplate.stone.desc=Выдаёт редстоун сигнал, когда существо наступает на неё.
+tile.pressureplate.planks.oak.name=Деревянная нажимная плита
+tile.pressureplate.planks.oak.desc=Выдаёт редстоун сигнал, когда что-то находится на ней.
+tile.pressureplate.cobble.stone.name=Булыжная нажимная плита
+tile.pressureplate.cobble.stone.desc=Выдаёт редстоун сигнал, когда игроки наступают на неё.
+
+item.repeater.name=Повторитель
+item.repeater.desc=Задерживает редстоун сигнал.
+tile.repeater.idle.name=Редстоун повторитель
+tile.repeater.idle.desc=Повторяет редстоун сигнал на расстояние.
+tile.repeater.active.name=Активный редстоун повторитель
+tile.repeater.active.desc=Повторяет редстоун сигнал на расстояние.
+
+############################
+### Активация редстоуном ###
+############################
+tile.piston.base.name=Поршень
+tile.piston.base.desc=Толкает блоки, но не тянет.
+tile.piston.base.sticky.name=Липкий поршень
+tile.piston.base.sticky.desc=Толкает и тянет блоки.
+tile.piston.head.name=Голова поршня
+tile.piston.head.desc=Толкающая часть поршня.
+tile.piston.moving.name=Двигатель поршня
+tile.piston.moving.desc=Невидимая движущаяся часть поршня.
+tile.piston.base.steel.name=Усиленный поршень
+tile.piston.base.steel.desc=Толкает блоки и сущностей с огромной силой.
+tile.piston.head.steel.name=Голова усиленного поршеня
+tile.piston.head.steel.desc=Толкающая часть стального поршня.
+tile.dispenser.cobble.stone.name=Раздатчик
+tile.dispenser.cobble.stone.desc=Стреляет предметами из отверстия.
+tile.activator.cobble.netherrack.name=Активатор
+tile.activator.cobble.netherrack.desc=Использует ваши предметы.
+tile.spikes.name=Шипастая ловушка
+tile.spikes.desc=Деактивируется, когда заряжена. Технически военное преступление.
+tile.noteblock.name=Нотный блок
+tile.noteblock.desc=Играет ноту, когда заряжен.
+
+##############
+### Рельсы ###
+##############
+tile.rail.name=Рельсы
+tile.rail.desc=Для быстрого передвижения в вагонетке.
+tile.rail.powered.name=Энергорельсы
+tile.rail.powered.desc=Ускоряют вагонетки, когда заряжены.
+tile.rail.detector.name=Рельсы с детектором
+tile.rail.detector.desc=Выдают редстоун сигнал, когда вагонетка проезжает.

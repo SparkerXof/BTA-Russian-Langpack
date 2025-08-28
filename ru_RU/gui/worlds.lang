@@ -1,0 +1,139 @@
+##################
+### Выбор мира ###
+##################
+gui.select_world.label.title=Выбор мира
+gui.select_world.label.world=Мир %s
+gui.select_world.label.must_be_converted=Должен быть конвертирован!
+gui.select_world.label.dimension_corrupted=Ошибка! Повреждение измерения!
+gui.select_world.label.outdated=Устарел - не может быть загружен (пока что!)
+gui.select_world.label.delete_title=Удаление мира
+gui.select_world.label.delete_confirm.1=Вы действительно хотите удалить этот мир?
+gui.select_world.label.delete_confirm.2='%s' будет удалён безвозвратно!
+gui.select_world.label.cheats=Читы
+gui.select_world.label.unknown=НЕИЗВЕСТНО
+gui.select_world.button.play_selected_world=Играть в выбранном мире
+gui.select_world.button.create_new_world=Создать новый мир
+gui.select_world.button.delete=Удалить
+
+###########################
+### Редактирование мира ###
+###########################
+gui.select_world.label.rename_title=Редактирование
+gui.select_world.label.world_name=Название мира
+gui.select_world.button.rename=Настроить
+gui.select_world.button.cancel=Назад
+
+#####################
+### Создание мира ###
+#####################
+gui.create_world.label.title=Создать новый мир
+gui.create_world.label.world_name=Название
+gui.create_world.label.seed=Ключ генератора мира
+gui.create_world.button.create_new_world=Создать новый мир
+gui.create_world.button.cancel=Назад
+gui.create_world.button.gamemode=%s
+gui.create_world.button.cheats=Читы: %s
+gui.create_world.button.cheats.on=ВКЛ
+gui.create_world.button.cheats.off=ВЫКЛ
+gui.create_world.button.world_settings=Настройки мира
+gui.create_world.label.new_world=Новый мир
+
+###################
+### Режимы игры ###
+###################
+gamemode.survival.name=Выживание
+gamemode.creative.name=Творчество
+gamemode.hardcore.name=Хардкор
+gamemode.adventure.name=Приключение
+gamemode.spectator.name=Наблюдатель
+
+######################
+### Настройка мира ###
+######################
+gui.world_settings.label.title=Настройки мира
+gui.world_settings.button.done=Готово
+gui.world_settings.page.game_rules.title=Игровые правила
+gui.world_settings.page.game_rules.button.on=ВКЛ
+gui.world_settings.page.game_rules.button.off=ВЫКЛ
+gui.world_settings.page.world_settings.title=Настройки мира
+gui.world_settings.label.world_type=Тип мира
+gui.world_settings.label.select_world_type=Выберите тип мира
+gui.world_settings.label.starting_biome=Начальный биом
+gui.world_settings.page.starting_biome.biome.none=Любой
+gui.world_settings.page.mob_spawning.title=Призыв мобов
+gui.world_settings.page.mob_spawning.button.on=ВКЛ
+gui.world_settings.page.mob_spawning.button.off=ВЫКЛ
+gui.world_settings.page.mob_spawning.hostile=Призыв враждебных мобов
+gui.world_settings.page.mob_spawning.passive=Призыв пассивных мобов
+
+#################
+### Типы мира ###
+#################
+worldType.overworld.extended.name=Увеличенный
+worldType.overworld.extended.desc=Стандартный тип мира для \nBTA, включающий в себя большие \nбиомы и высокий мир.
+worldType.overworld.default.name=Стандартный
+worldType.overworld.default.desc=Более ванильный опыт.
+worldType.nether.default.name=Стандартный
+worldType.paradise.default.name=Стандартный
+worldType.overworld.winter.name=Вечная зима
+worldType.overworld.winter.desc=Схож с типом "Стандартный", но снег \nне перестаёт падать.
+worldType.overworld.floating.name=Парящие острова
+worldType.overworld.floating.desc=Множество неимоверно высоких парящих \nостровов для исследования.
+worldType.overworld.amplified.name=РАСШИРЕННЫЙ
+worldType.overworld.amplified.desc=Схож с типом "Стандартный", но \nпозволяет ландшафту генерироваться \nдо 256 блоков в высоту.
+worldType.overworld.islands.name=Острова
+worldType.overworld.islands.desc=Повышает высоту уровня моря, \nчто превращает мир в группу \nостровов, окружённых океанами.
+worldType.overworld.inland.name=Без океанов
+worldType.overworld.inland.desc=Схож с типом "Увеличенный", \nно без океанов.
+worldType.flat.name=Плоский
+worldType.flat.desc=Бесконечные просторы плоской \nтравы.
+worldType.overworld.hell.name=Преисподняя
+worldType.overworld.hell.desc=Этот мир погиб ещё давно. \nПопытайся выжить.
+worldType.overworld.woods.name=Леса
+worldType.overworld.woods.desc=Бескрайние леса для \nисследования.
+worldType.overworld.paradise.name=Райский сад
+worldType.overworld.paradise.desc=Вечный день и бесконечная весна.
+worldType.overworld.beta_173.name=Beta 1.7.3
+worldType.overworld.beta_173.desc=Генерация, максимально приближенная \nк Minecraft Beta 1.7.3.
+worldType.overworld.classic.name=Classic
+worldType.overworld.classic.desc=Генерация, схожая с Minecraft \nClassic, но бесконечная.
+worldType.overworld.indev.name=Indev
+worldType.overworld.indev.desc=Генерация мира, схожая с\nIndev, но бесконечная.
+worldType.overworld.retro.name=Ретро
+worldType.overworld.retro.desc=Генерация, максимально приближенная \nк Minecraft Alpha 1.1.2_01.
+worldType.overworld.skyblock.name=Skyblock
+worldType.overworld.skyblock.desc=Хардкорное выживание на маленьком\nостровке в небе.
+worldType.empty.name=Пустой
+worldType.empty.desc=Ничего, кроме единственного \nблока бедрока.
+worldType.debug.name=Отладка
+worldType.debug.desc=Генерирует каждое состояние каждого \nблока в игре. (для тестов)
+
+#######################
+### Игровые правила ###
+#######################
+gamerule.keep_inventory.name=Сохранение инвентаря
+gamerule.keep_inventory.desc=При включении предметы игрока остаются у него после смерти.
+gamerule.allow_sprinting.name=Спринт
+gamerule.allow_sprinting.desc=При включении игроки смогут бегать, как на версии Beta 1.8 и выше.
+gamerule.allow_sleeping.name=Сон
+gamerule.allow_sleeping.desc=При отключении игроки не смогут спать для пропуска ночи. Однако точку возрождения всё ещё можно установить.
+gamerule.do_nightmares.name=Кошмары
+gamerule.do_nightmares.desc=При включении у игроков появляется шанс быть атакованными мобом, попытавшись поспать в небезопасном месте.
+gamerule.do_seasonal_growth.name=Сезонный рост
+gamerule.do_seasonal_growth.desc=При отключении высокая трава и цветы не вырастают весной.
+gamerule.treecapitator.name=Рубка деревьев
+gamerule.treecapitator.desc=При включении деревья будут срубаться полностью, если нижнее бревно будет срублено топором.
+gamerule.dwarf_mode.name=Режим дворфа
+gamerule.dwarf_mode.desc=При включении все игроки становятся дворфами ростом в 1 блок.
+gamerule.mob_griefing.name=Разрушения мобов
+gamerule.mob_griefing.desc=При отключении взрывы от мобов не разрушают блоки.
+gamerule.do_day_night_cycle.name=Смена для и ночи
+gamerule.do_day_night_cycle.desc=При отключении цикл дня и ночи останавливается.
+gamerule.do_weather_cycle.name=Погода
+gamerule.do_weather_cycle.desc=При отключении погода не будет меняться.
+gamerule.do_fire_spread.name=Распространение огня
+gamerule.do_fire_spread.desc=При отключении огонь не будет распространяться.
+gamerule.instant_healing.name=Мгновенное лечение
+gamerule.instant_healing.desc=При включении еда будет мгновенно лечить игрока, как в прошлых версиях BTA!.
+gamerule.random_tick_speed.name=Частота случайных тиков
+gamerule.random_tick_speed.desc=Меняется количество блоков, случайно обновляющихся каждый игровой тик.

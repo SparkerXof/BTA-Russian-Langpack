@@ -1,0 +1,59 @@
+gui.select_server.label.title=Выбор сервера
+
+#########################
+### Страницы серверов ###
+#########################
+gui.select_server.page.internet.title=Интернет
+gui.select_server.page.favorites.title=Избранное
+gui.select_server.page.history.title=История
+gui.select_server.page.lan.title=Локальная сеть
+gui.select_server.page.direct_connect.title=Прямое подключение
+
+#######################
+### Список серверов ###
+#######################
+gui.select_server.label.edit.1=Редактирование
+gui.select_server.label.edit.2=Имя сервера
+gui.select_server.label.edit.3=Адрес сервера
+gui.select_server.label.down=ОТКЛЮЧЁН
+gui.select_server.label.outdated=УСТАРЕЛ
+gui.select_server.button.join_server=Подключиться
+gui.select_server.button.direct_connect=По адресу
+gui.select_server.button.add_server=Добавить
+gui.select_server.button.edit=Настроить
+gui.select_server.button.delete=Удалить
+gui.select_server.button.refresh=Обновить
+gui.select_server.button.cancel=Отмена
+gui.select_server.button.done=Готово
+
+##########################
+### Добавление сервера ###
+##########################
+gui.select_server.popup.add.prompt.name=Название сервера:
+gui.select_server.popup.add.prompt.ip=IP-адрес:
+gui.select_server.popup.add.button.save=Сохранить
+gui.select_server.popup.add.button.cancel=Отмена
+gui.select_server.popup.add.showip.on=Показать IP: ВКЛ
+gui.select_server.popup.add.showip.off=Показать IP: ВЫКЛ
+
+##############################
+### Редактирование сервера ###
+##############################
+gui.select_server.popup.edit.prompt.name=Название сервера:
+gui.select_server.popup.edit.prompt.ip=IP-адрес:
+gui.select_server.popup.edit.button.save=Сохранить
+gui.select_server.popup.edit.button.cancel=Отмена
+gui.select_server.popup.edit.showip.on=Показать IP: ВКЛ
+gui.select_server.popup.edit.showip.off=Показать IP: ВЫКЛ
+
+##########################
+### Прямое подключение ###
+##########################
+gui.select_server.popup.direct.button.connect=Подключиться
+
+###################
+### Подключение ###
+###################
+gui.connecting.label.connecting=Подключение к серверу...
+gui.connecting.label.logging_in=Вход...
+gui.connecting.button.cancel=Отмена

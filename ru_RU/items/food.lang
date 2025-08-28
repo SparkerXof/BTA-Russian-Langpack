@@ -1,0 +1,75 @@
+###############
+### Ресурсы ###
+###############
+item.seeds.wheat.name=Семена пшеницы
+item.seeds.wheat.desc=Можно посадить в почву.
+item.seeds.pumpkin.name=Семена тыквы
+item.seeds.pumpkin.desc=Для бесконечных тыквенных пирогов.
+item.sugarcane.name=Сахарный тростник
+item.sugarcane.desc=Толстый тростник с сахаром.
+item.wheat.name=Пшеница
+item.wheat.desc=Свежесобранная! Из неё можно сделать хлеб.
+item.dough.name=Тесто
+item.dough.desc=Сырое тесто. Из него можно испечь хлеб.
+item.dust.sugar.name=Сахар
+item.dust.sugar.desc=Для сладостей.
+item.egg.chicken.name=Куриное яйцо
+item.egg.chicken.desc=Яйцо.
+item.bowl.name=Миска
+item.bowl.desc=Для хранения съедобных жидкостей.
+tile.mushroom.red.name=Красный гриб
+tile.mushroom.red.desc=Вкусный красный гриб. Пригодится для супа.
+tile.mushroom.brown.name=Коричневый гриб
+tile.mushroom.brown.desc=Вкусный коричневый гриб. Пригодится для супа.
+
+###########
+### Еда ###
+###########
+item.food.apple.name=Яблоко
+item.food.apple.desc=Однажды отгонит зомби.
+item.food.apple.gold.name=Золотое яблоко
+item.food.apple.gold.desc=Неуязвимость! Никакого страха!
+item.food.cherry.name=Вишня
+item.food.cherry.desc=Красные ягоды, растущие парами.
+item.food.bread.name=Хлеб
+item.food.bread.desc=Свеже приготовленный хлеб. Хорошо пахнет!
+item.food.fish.raw.name=Сырая рыба
+item.food.fish.raw.desc=Может быть приготовлена.
+item.food.fish.cooked.name=Жареная рыба
+item.food.fish.cooked.desc=Вкусная рыбка!
+item.food.porkchop.raw.name=Сырая свинина
+item.food.porkchop.raw.desc=Неприготовленное мясо свиньи.
+item.food.porkchop.cooked.name=Жареная свинина
+item.food.porkchop.cooked.desc=Приготовленное мясо свиньи. Копчёное!
+item.food.venison.raw.name=Сырая оленина
+item.food.venison.raw.desc=Неприготовленное мясо оленя.
+item.food.venison.cooked.name=Жареная оленина
+item.food.venison.cooked.desc=Обжаренный стейк из оленя. Вкуснятина!
+item.food.stew.mushroom.name=Грибной суп
+item.food.stew.mushroom.desc=Ммм... грибочки.
+item.bucket.milk.name=Ведро молока
+item.bucket.milk.desc=Полезно для костей.
+item.bucket.icecream.name=Ведро мороженого
+item.bucket.icecream.desc=Морозная сладость, покрытая шоколадной стружкой и вишней!
+item.food.cake.name=Торт
+item.food.cake.desc=Не ложь!
+item.food.pumpkin_pie.name=Тыквенный пирог
+item.food.pumpkin_pie.desc=Торт - это пирог!
+item.food.cookie.name=Печенье
+item.food.cookie.desc=Вкусно!
+
+#############
+### Блоки ###
+#############
+tile.crops.wheat.name=Ростки пшеницы
+tile.crops.wheat.desc=Пшеница, пробившаяся из земли.
+tile.crops.pumpkin.name=Ростки тыквы
+tile.crops.pumpkin.desc=Созревающая тыква, сорванный с земли.
+tile.cake.name=Торт
+tile.cake.desc=Нет ничего вкуснее.
+tile.pumpkin.name=Тыква
+tile.pumpkin.desc=Оранжевая тыква, растущая в дикой природе.
+tile.pumpkin_pie.name=Тыквенный пирог
+tile.pumpkin_pie.desc=Я не хочу пирог!
+tile.sugarcane.name=Сахарный тростник
+tile.sugarcane.desc=Не такой сладкий, как ты.

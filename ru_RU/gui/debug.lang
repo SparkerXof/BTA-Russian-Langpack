@@ -1,0 +1,64 @@
+###################
+### Тест звуков ###
+###################
+gui.sound_test.label.title=Тест звуков
+gui.sound_test.label.repo=Репозиторий звуков: %s
+gui.sound_test.label.id=ID: %s
+gui.sound_test.label.name=Название: %s
+gui.sound_test.label.url=URL: %s
+gui.sound_test.label.select_repo=Репозитории:
+gui.sound_test.label.select_entry=Звук:
+gui.sound_test.button.done=Готово
+gui.sound_test.button.play=Запуск
+gui.sound_test.button.play_stream=Из источника
+gui.sound_test.button.reload=Рест.
+gui.sound_test.button.stop=Стоп
+
+###########################
+### Просмотрщик моделей ###
+###########################
+gui.model_viewer.slider.variant=Вариация: %d
+gui.model_viewer.slider.meta=Тип: %d
+gui.model_viewer.button.tickprogress=Работа тиков: %s
+gui.model_viewer.button.rotate=Поворот имени: %s
+gui.model_viewer.button.bulk_render=Отрендерить
+gui.model_viewer.button.reload_textures=Обновить
+gui.model_viewer.button.category=Категория
+### Сущности ###
+model.category.entity.info=Сущность: %s
+model.category.entity.name=Сущность
+model.category.entity.tnt.slider.fuse=Взрыв: %d
+model.category.entity.sheep.slider.color=Цвет: %s
+model.category.entity.painting.slider.motif=Картина: %s
+model.category.entity.fireflycluster.slider.size=Размер: %d
+model.category.entity.fireflycluster.button.cycle=Цвет: %s
+model.category.entity.item.button.cycle=Тип предмета
+model.category.entity.item.slider.size=Размер: %d
+model.category.entity.sand.button.cycle=Тип блока
+model.category.entity.creeper.button.charged=Заряд: %s
+model.category.entity.armored_zombie.button.sword=Меч: %s
+model.category.entity.wolf.button.tamed=Прирученный: %s
+model.category.entity.wolf.button.sitting=Сидит: %s
+model.category.entity.wolf.button.angry=Агрессия: %s
+model.category.entity.wolf.button.armor=Броня: %s
+model.category.entity.wolf.button.item=Предмет: %s
+model.category.entity.boat.button.flag=Флаг: %s
+model.category.entity.boat.button.wind=Ветер: %s градусов
+model.category.entity.slime.slider.size=Слизень: %s
+model.category.entity.minecart.button.cycle=Тип вагонетки
+### Блоки ###
+model.category.block.name=Блок
+model.category.block.info=Блок: %s
+model.category.block.basket.slider.fill=Заполненнось: %s
+model.category.block.spawner.button.id=Моб: %s
+### Частицы ###
+model.category.particle.name=Частицы
+model.category.particle.info=Частицы: %s
+model.category.particle.radius.slider=Радиус: %s
+model.category.particle.note.slider=Note: %s
+model.category.particle.block.side=Сторона: %s
+
+###########################
+### Просмотрщик текстур ###
+###########################
+gui.texture_viewer.label.title=Просмотрщик текстур

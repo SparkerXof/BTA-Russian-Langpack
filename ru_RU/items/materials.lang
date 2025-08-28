@@ -1,0 +1,67 @@
+###############
+### Ресурсы ###
+###############
+item.stick.name=Палка
+item.stick.desc=Найдена на конце ветки. Нужна для различных инструментов.
+item.flint.name=Кремень
+item.flint.desc=Кусочек камня. Используется, чтобы зажечь огонь.
+item.coal.name=Уголь
+item.coal.desc=Кусок угля для топлива.
+item.charcoal.name=Древесный уголь
+item.charcoal.desc=Кусок обугленного дерева для топлива.
+item.nethercoal.name=Незер-уголь
+item.nethercoal.desc=Загадочная углеподобная субстанция, излучающая сильный жар.
+item.ore.raw.iron.name=Сырая железная руда
+item.ore.raw.iron.desc=Кусок необработанного железа. Может быть переплавлен.
+item.ingot.iron.name=Железный слиток
+item.ingot.iron.desc=Слиток железа для создания инструментов.
+item.ore.raw.gold.name=Сырая золотая руда
+item.ore.raw.gold.desc=Кусок необработанного золота. Может быть переплавлен.
+item.ingot.gold.name=Золотой слиток
+item.ingot.gold.desc=Слиток золота для создания инструментов. Изысканный и светлый.
+item.diamond.name=Алмаз
+item.diamond.desc=Прочный самоцвет для создания инструментов. Прекрасно!
+item.ingot.steel.crude.name=Грубая сталь
+item.ingot.steel.crude.desc=Груда свежевыплавленной стали.
+item.ingot.steel.name=Стальной слиток
+item.ingot.steel.desc=Железо и незер-уголь, объединённые в мощный сплав.
+item.brick.clay.name=Глинянный кирпич
+item.brick.clay.desc=Соедините четыре вместе, чтобы сделать фундамент.
+item.clay.name=Глина
+item.clay.desc=Влажная глина, которую можно собрать в форму кирпича.
+item.paper.name=Бумага
+item.paper.desc=Тонкая сахарная бумага, на которой можно писать.
+item.book.name=Книга
+item.book.desc=Так написано...
+item.dust.glowstone.name=Светопыль
+item.dust.glowstone.desc=Жёлтая пыль, излучающая свет.
+item.quartz.name=Кварц
+item.quartz.desc=Яркий чистый кристал, походу, отражающий свет.
+item.olivine.name=Оливин
+item.olivine.desc=Тёмно-зелёный самоцвет, походу, блокирующий свет.
+item.ammo.pebble.name=Галька
+item.ammo.pebble.desc=Кусок камня, найденный в почве.
+tile.pebble.overlay.name=Галька
+tile.pebble.overlay.desc=Кучка гальки.
+item.ammo.snowball.name=Снежок
+item.ammo.snowball.desc=Бросаемый шар из снега.
+
+####################
+### Дроп с мобов ###
+####################
+item.feather.chicken.name=Перо
+item.feather.chicken.desc=Выщипано из курицы.
+item.leather.name=Кожа
+item.leather.desc=Плоская корова. Из неё можно делать броню.
+item.string.name=Нити
+item.string.desc=Шёлковая гладкая нить с пауков.
+item.gunpowder.name=Порох
+item.gunpowder.desc=Взрывной порошок добытый из смертоносного крипера.
+item.slimeball.name=Слизь
+item.slimeball.desc=Склизкая и отвратительная. Липнет к рукам.
+item.bone.name=Кость
+item.bone.desc=Жутко...
+item.cloth.name=Ткань
+item.cloth.desc=Рваный кусок от зомби. Мягкий и нежный.
+item.chainlink.name=Кольчужные звенья
+item.chainlink.desc=Походу из них можно сделать снаряжение.

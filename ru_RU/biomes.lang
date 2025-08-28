@@ -1,3 +1,13 @@
+#################
+### Измерения ###
+#################
+dimension.overworld.name=Верхний мир
+dimension.nether.name=Незер
+dimension.drift.name=Дрейф
+
+###########################
+### Биомы верхнего мира ###
+###########################
 biome.overworld.rainforest=Дождевой лес
 biome.overworld.swampland=Болото
 biome.overworld.seasonal_forest=Сезонный лес
@@ -13,17 +23,43 @@ biome.overworld.plains=Равнина
 biome.overworld.glacier=Ледник
 biome.overworld.tundra=Тундра
 biome.overworld.meadow=Луг
-biome.overworld.paradise=Поднебесье
 biome.overworld.birch_forest=Берёзовый лес
-biome.overworld.retro=Ретро
-biome.overworld.hell=Преисподняя
 biome.overworld.swampland.muddy=Грязевые болота
 biome.overworld.outback.grassy=Травянистый аутбэк
 biome.overworld.caatinga=Каатинга
 biome.overworld.caatinga.plains=Равнины каатинги
+
+####################
+### Биомы Незера ###
+####################
 biome.nether.nether=Незер
 biome.nether.volcanic_islands=Вулканические острова
 biome.nether.sulfur_pools=Серные озёра
-biome.nether.crystal_forest=Кристальный Лес
-biome.nether.ash_plains=Пепельные поля
-biome.nether.boneyard=Кладбище костей
+biome.nether.crystal_forest=Кристальный лес
+biome.nether.ash_plains=Пепельные равнины
+biome.nether.boneyard=Долина костей
+
+####################
+### Биомы Дрейфа ###
+####################
+biome.drift.drift=Дрейф
+
+##################
+### Бета-биомы ###
+##################
+biome.overworld.legacy.tundra=Бета тундра
+biome.overworld.legacy.savanna=Бета саванна
+biome.overworld.legacy.desert=Бета пустыня
+biome.overworld.legacy.swampland=Бета болото
+biome.overworld.legacy.taiga=Бета тайга
+biome.overworld.legacy.shrubland=Бета степь
+biome.overworld.legacy.forest=Бета лес
+biome.overworld.legacy.seasonal_forest=Бета сезонный лес
+biome.overworld.legacy.rainforest=Бета дождевой лес
+
+####################
+### Прочие биомы ###
+####################
+biome.overworld.paradise=Райский сад
+biome.overworld.retro=Ретро
+biome.overworld.hell=Ад

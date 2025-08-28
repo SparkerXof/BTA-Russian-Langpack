@@ -1,44 +1,19 @@
-stat.startGame=Запусков игры
-stat.createWorld=Миров создано
-stat.loadWorld=Миров загружено
-stat.joinMultiplayer=Подключений к сети
-stat.leaveGame=Выходов из игры
+gui.achievement.label.get=Новое достижение!
 
-stat.playOneMinute=Времени сыграно
+#######################
+### Окно достижений ###
+#######################
+gui.achievements.button.done=Готово
+gui.achievements.label.title=Достижения
+gui.achievements.label.taken=Получено!
+gui.achievements.label.requires=Требуется '%1$s'
+gui.achievements.label.completion=%1$s выполнено!
 
-stat.walkOneCm=Преодолено пешком
-stat.fallOneCm=Преодолено в падении
-stat.swimOneCm=Преодолено вплавь
-stat.flyOneCm=Преодолено в полёте
-stat.climbOneCm=Преодолено взбираясь
-stat.diveOneCm=Преодолено погружаясь
-stat.minecartOneCm=Преодолено в вагонетке
-stat.boatOneCm=Преодолено на лодке
-stat.pigOneCm=Преодолено на свинье
-stat.jump=Прыжков
-stat.drop=Выброшено предметов
-
-stat.damageDealt=Нанесено урона
-stat.damageTaken=Получено урона
-stat.deaths=Число смертей
-stat.mobKills=Убийств мобов
-stat.playerKills=Убийств игроков
-stat.fishCaught=Поймано рыбы
-
-stat.mineBlock=%1$s выкопано
-stat.craftItem=%1$s создано
-stat.useItem=%1$s использовано
-stat.breakItem=%1$s уничтожено
-
-stat.crafted=Крафты
-stat.used=Применения
-stat.mined=Добыто
-stat.depleted=Потрачено
-
-achievement.get=Новое достижение!
-
-achievement.taken=Получено!
-
+###################
+### Верхний мир ###
+###################
+gui.achievements.page.overworld.name=Верхний мир
+gui.achievements.page.overworld.desc=Достижения начального измерения!
 achievement.requires=Требуется '%1$s'
 achievement.openInventory=Проверить карманы
 achievement.openInventory.desc=Нажать '%1$s' чтобы открыть инвентарь.
@@ -101,6 +76,11 @@ achievement.allMusicDiscs.desc=Собрать все пластинки.
 achievement.tripleHit=Трое по цене одного!
 achievement.tripleHit.desc=Нанесите урон трём мобам одной золотой стрелой.
 
+#############
+### Незер ###
+#############
+gui.achievements.page.nether.name=Незер
+gui.achievements.page.nether.desc=Адские достижения!
 achievement.enterNether=Инферно
 achievement.enterNether.desc=Попасть в Незер
 achievement.swimNether=Разморозка
@@ -118,6 +98,6 @@ achievement.sleepNether.desc=Попытаться поспать в Незере
 achievement.lightSign=Проливая свет
 achievement.lightSign.desc=Нанести светопыль на табличку.
 achievement.mostWanted=Особо опасен
-achievement.mostWanted.desc=Заставить более 10 свинозомби атаковать вас.
+achievement.mostWanted.desc=Заставить более 10 свинозомби напасть на Вас.
 achievement.fastTravel=Кротовая нора
 achievement.fastTravel.desc=Преодолейте 8000 блоков в Верхнем мире через Незер.

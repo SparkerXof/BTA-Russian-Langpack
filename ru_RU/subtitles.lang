@@ -31,11 +31,14 @@ subtitles.mob.ghast.scream=Крик гаста
 subtitles.mob.ghast.affectionate_scream=Ласковый крик гаста
 subtitles.mob.creeper=Крипер шипит
 subtitles.mob.creeper.death=Крипер погибает
+subtitles.mob.creeper.fuse=Крипер заряжается
 subtitles.mob.spider.death=Паук погибает
 subtitles.mob.spider=Паук шипит
-subtitles.mob.ghast.charge=Гаст выстреливает
+subtitles.mob.ghast.charge=Гаст стреляет
 subtitles.mob.slime.attack=Слизень атакует
 subtitles.mob.slime=Слизень
+subtitles.mob.player.death=Игрок погибает
+subtitles.mob.player.hurt=Игрок ранен
 
 subtitles.fall.small=Малое падение
 subtitles.damage.fall.big=Большое падение
@@ -49,9 +52,12 @@ subtitles.portal.portal=Завывание портала
 subtitles.portal.trigger=Вход в портал
 subtitles.portal.travel=Выход из портала
 
+subtitles.item.pickup=Предмет подобран
+
 subtitles.random.fizz=Шипение
 subtitles.random.drr=Попадание стрелой
 subtitles.random.fuse=Фитиль динамита зажжён
+subtitles.random.skate=Катание
 subtitles.random.pop=Подбор предмета
 subtitles.random.glass=Стекло
 subtitles.random.door_open=Дверь открылась
@@ -63,6 +69,7 @@ subtitles.random.splash=Всплеск
 subtitles.random.breath=Дыхание
 subtitles.random.bite=Игрок ест
 subtitles.random.equip=Броня надета
+subtitles.random.stone_scrape=Царапнье камня
 
 subtitles.note.snare=Малый барабан
 subtitles.note.harp=Арфа
@@ -71,6 +78,12 @@ subtitles.note.bd=Большой барабан
 subtitles.note.pling=Электропианино
 subtitles.note.hat=Тарелки
 subtitles.note.bassattack=Струна
+subtitles.note.chant=Note chant
+subtitles.note.drum_steel=Стальной барабан
+subtitles.note.chip_triangle=Треугольник
+subtitles.note.guitar_electric=Электрогитара
+subtitles.note.celesta=Пианино
+subtitles.note.wood_block=Note wood block
 
 subtitles.ambient.weather.thunder=Молния
 subtitles.ambient.cave=Звуки пещер
@@ -79,7 +92,18 @@ subtitles.ambient.weather.rain=Дождь
 subtitles.tile.piston.out=Поршень выдвинут
 subtitles.tile.piston.in=Поршень задвинут
 
-subtitles.hurt.flesh=Hurt flesh
+subtitles.tile.tnt.fuse=Динамит Зажжён
+subtitles.tile.sensor_block.sense=Моб обнаружен
+subtitles.tile.mobspawner.spawn=Моб призван
+
+subtitles.tile.dispenser.click=Раздатчик щёлкает
+subtitles.tile.dispenser.eject=Раздатчик выбрасывает
+subtitles.tile.dispenser.fire=Раздатчик стреляет
+
+subtitles.tile.activator.click=Активатор щёлкает
+subtitles.tile.activator.use=Активатор срабатывает
+
+subtitles.hurt.flesh=Удар по плоти
 
 subtitles.fire.ignite=Огонь зажжён
 subtitles.fire.fire=Огонь разгорается

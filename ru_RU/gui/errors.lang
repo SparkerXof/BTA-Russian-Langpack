@@ -1,0 +1,93 @@
+######################
+### 32-битная Java ###
+######################
+gui.bad_java_arch.label.title=32-битная версия Java обнаружена!
+gui.bad_java_arch.label.body.1=Похоже вы запускаете Better than Adventure на 32-битной версии Java.
+gui.bad_java_arch.label.body.2=Это может создать проблемы с распределением памяти, включающие в себя тормоза
+gui.bad_java_arch.label.body.3=и возможные вылеты.
+gui.bad_java_arch.label.body.4=Пожалуйста, установите 64-битную версию JRE, например, Eclipse Temurin.
+gui.bad_java_arch.button.download=Загузить
+gui.bad_java_arch.button.continue=Продолжить
+
+###############
+### Нет JCE ###
+###############
+gui.no_jce.label.title=§l§4Java Cryptography Extension (JCE) отсутствует!§r
+gui.no_jce.label.body.1=Похоже вы запускаете Better than Adventure! без JCE.
+gui.no_jce.label.body.2=§l§eЭто сломает некоторые функции, вроде сетевой игры!§r
+gui.no_jce.label.body.3=
+gui.no_jce.label.body.4=Пожалуйста, установите обнавлённую версию JRE
+gui.no_jce.label.body.5=с данным расширением, например Eclipse Temurin.
+gui.no_jce.label.body.intel.disclaimer.1=Из-за проблем с совместимостью с устройствами Intel Graphics
+gui.no_jce.label.body.intel.disclaimer.2=вам будет необходимо пропатчить вашу версию Java для
+gui.no_jce.label.body.intel.disclaimer.3=включения расширения JCE.
+gui.no_jce.button.download.recommended=Установить Java (Рекомендуется!)
+gui.no_jce.button.download=Установить Java
+gui.no_jce.button.upgrade=Патч для JCE
+gui.no_jce.button.upgrade.recommended=Патч для JCE (Рекомендуется!)
+gui.no_jce.button.back=Главное меню
+gui.no_jce.button.continue=Проигнорировать
+
+################################
+### Нет Minecraft Beta 1.7.3 ###
+################################
+gui.no_minecraft.label.title=Minecraft Beta 1.7.3 не найдена!
+gui.no_minecraft.label.body.1=Похоже, вы запускаете Better than Adventure! без Minecraft Beta 1.7.3.
+gui.no_minecraft.label.body.2=Better than Adventure! должен быть установлен с официальной копией
+gui.no_minecraft.label.body.3=Minecraft Beta 1.7.3 для корректной работы.
+gui.no_minecraft.label.body.4=Данная проблема возникает, если вы совершили ошибку во время установки
+gui.no_minecraft.label.body.5=Пожалуйста, ознакомьтесь с гайдом по установке, указанным ниже.
+gui.no_minecraft.button.guide=Гайд по установке
+gui.no_minecraft.button.quit=Выход из игры
+
+#####################
+### Сломанный мир ###
+#####################
+gui.conflict_warning.label.title=Конфликт безопасности мира
+gui.conflict_warning.label.body.1=Minecraft обнаружил конфликт в сохраненённых данных мира.
+gui.conflict_warning.label.body.2=Это может возникнуть из-за двух запущенных кпий игры,
+gui.conflict_warning.label.body.3=имеющих доступ к одному миру.
+gui.conflict_warning.label.body.4=Чтобы избежать повреждений мира, текущая игра будет завершена.
+gui.conflict_warning.button.back=Назад в меню
+
+##################
+### Исключение ###
+##################
+gui.exception.label.exception_occurred=Возникло исключение!
+gui.exception.label.fatal_error=Возникла критическая ошибка!
+gui.exception.label.startup_error=Ошибка запуска Minecraft!
+gui.exception.button.copy_error=Копировать
+gui.exception.button.copy_error_and_quit=Копировать и выйти
+gui.exception.button.back=Назад в меню
+
+#######################
+### Нехватка памяти ###
+#######################
+gui.out_of_memory.label.title=Недостаточно памяти!
+gui.out_of_memory.label.body.1=Недостаточно памяти для Minecraft.
+gui.out_of_memory.label.body.2=Это может привести к ошибкам в игре или из-за
+gui.out_of_memory.label.body.3=Java Virtual Machine, не распределившей достаточно
+gui.out_of_memory.label.body.4=памяти.
+gui.out_of_memory.label.body.5=Чтобы избежать повреждений в мире, текущая игра будет завершена.
+gui.out_of_memory.label.body.6=Пожалуйста, перезапустите игру.
+
+##########################
+### Ошибка подключения ###
+##########################
+gui.connect_failed.label.title=Ошибка подкючения к серверу
+gui.connect_failed.button.back=Назад в меню
+connect.failed=Ошибка соединения с сервером
+connect.failed=Не удалось подключиться
+disconnect.genericReason=%s
+disconnect.disconnected=Отключён от сервера
+disconnect.lost=Соединение потеряно
+disconnect.kicked=Был выгнан с сервера
+disconnect.timeout=Время подключения истекло
+disconnect.closed=Подключение закрыто
+disconnect.loginFailed=Ошибка входа
+disconnect.loginFailedInfo=Ошибка входа: %s
+disconnect.quitting=Выход
+disconnect.endOfStream=Конец потока
+disconnect.overflow=Буфер переполнен
+
+save.data.missing.data=Утеряны данные мира!

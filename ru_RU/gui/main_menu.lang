@@ -1,0 +1,34 @@
+############
+### Меню ###
+############
+gui.main_menu.button.singleplayer=Одиночная игра
+gui.main_menu.button.multiplayer=Сетевая игра
+gui.main_menu.button.multiplayer.disabled=Сетевая игра (не готово!)
+gui.main_menu.button.asset_packs=Наборы ассетов
+gui.main_menu.button.options=Настройки...
+gui.main_menu.button.quit_game=Выйти из игры
+gui.main_menu.button.credits=Авторы
+gui.main_menu.button.website=Веб-сайт
+gui.main_menu.button.discord=Discord
+gui.main_menu.button.youtube=YouTube
+gui.main_menu.label.disclaimer.1=Авторство Mojang Studios. Неофициальный Minecraft продукт.
+gui.main_menu.label.disclaimer.2=Не одобрен и не связан с Mojang Studios или Microsoft.
+
+##############
+### Сплэши ###
+##############
+gui.main_menu.label.splash.jonkadelic_birthday=С днём рождения, Jonkadelic!
+gui.main_menu.label.splash.maggandgeez_birthday=С днём рождения, MaggAndGeez!
+gui.main_menu.label.splash.minecraft_birthday=С днём рождения, Minecraft!
+gui.main_menu.label.splash.bta_birthday=С днём рождения, Better than Adventure!
+gui.main_menu.label.splash.xmas=Счастливого Рождества!
+gui.main_menu.label.splash.halloween=Счастливого Хэллоуина!
+gui.main_menu.label.splash.new_year=Счастливого Нового года!
+
+##############
+### Авторы ###
+##############
+gui.credits.label.title=Авторы
+gui.credits.button.done=Готово
+
+gui.main_menu.label.downloading_resources=Загрузка ресурсов: %s / %s
