@@ -233,6 +233,7 @@ key.fog=Туман
 key.lockRotation=Закрепление поворота блока
 key.screenshot=Снимок экрана
 key.gamma=Изменение гаммы
+key.fullscreen=Полный экран
 
 options.subtitles=Субтитры
 
