@@ -107,7 +107,7 @@ item.seeds.pumpkin.desc=Для бесконечных тыквенных пир�
 item.wheat.name=Пшеница
 item.wheat.desc=Свежесобранная! Из неё можно сделать хлеб.
 item.food.bread.name=Хлеб
-item.food.bread.desc=Свеже приготовленный хлеб. Хорошо пахнет!
+item.food.bread.desc=Свежеприготовленный хлеб. Хорошо пахнет!
 item.armor.helmet.leather.name=Кожаный шлем
 item.armor.helmet.leather.desc=Шлем из коровьей кожи.
 item.armor.chestplate.leather.name=Кожаная куртка
@@ -264,7 +264,7 @@ item.leather.name=Кожа
 item.leather.desc=Плоская корова. Из неё можно делать броню.
 item.bucket.milk.name=Ведро молока
 item.bucket.milk.desc=Полезно для костей.
-item.brick.clay.name=Глинянный кирпич
+item.brick.clay.name=Глиняный кирпич
 item.brick.clay.desc=Соедините четыре вместе, чтобы сделать фундамент.
 item.clay.name=Глина
 item.clay.desc=Влажная глина, которую можно собрать в форму кирпича.
@@ -370,7 +370,7 @@ item.map.blank.name=Пустая карта
 item.map.name=Карта
 item.map.desc=Зарисуйте свои земли!
 item.leaves.name=Листва
-item.leaves.desc=Шуршащяя и зелёная.
+item.leaves.desc=Шуршащая и зелёная.
 item.tool.shears.name=Ножницы
 item.tool.shears.desc=Инструмент для получения растительности.
 item.nethercoal.name=Незер-уголь
@@ -411,7 +411,7 @@ item.label.name=Бирка
 item.label.desc=Позволяет называть предметы и мобов. Может быть покрашена.
 
 item.candle.soulwax.name=Восковая свеча душ
-item.candle.soulwax.desc=Восковая коричневая свеча. Излучает неественный свет.
+item.candle.soulwax.desc=Восковая коричневая свеча. Излучает неестественный свет.
 
 item.jar.name=Банка
 item.jar.desc=Стеклянная банка.
@@ -442,7 +442,7 @@ item.ore.raw.gold.desc=Кусок необработанного золота. �
 
 item.flag.name=Флаг
 item.flag.desc=Флаг для отметки своей территории.
-item.flag.modified.name=Флаг (Изменён)
+item.flag.modified.name=Флаг (изменён)
 item.flag.modified.desc=Флаг для отметки своей территории.
 
 item.armor.boots.iceskates.name=Коньки

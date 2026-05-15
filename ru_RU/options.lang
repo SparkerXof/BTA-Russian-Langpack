@@ -10,7 +10,7 @@ options.difficulty.locked=Заблокировано
 options.difficulty.peaceful=Мирная
 options.difficulty.easy=Легкая
 options.difficulty.normal=Нормальная
-options.difficulty.hard=Тяжёлая
+options.difficulty.hard=Сложная
 options.placementMode=Режим размещения
 options.placementMode.default=Стандартный
 options.placementMode.side=По взгляду
@@ -60,7 +60,7 @@ options.autosaveTimer=Автосохранение
 options.autosaveTimer.off=ВЫКЛ
 
 options.category.audio=Аудио
-options.muteOnLostFocus=Обеззвучивание в фоне
+options.muteOnLostFocus=Без звука в фоне
 options.sound.master=Общая громкость
 options.sound.music=Громкость музыки
 options.sound.world=Громкость мира
