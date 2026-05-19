@@ -30,7 +30,7 @@ gui.bad_java_arch.label.body.1=Похоже вы запускаете Better tha
 gui.bad_java_arch.label.body.2=Это может создать проблемы с распределением памяти, включающие в себя тормоза
 gui.bad_java_arch.label.body.3=и возможные вылеты.
 gui.bad_java_arch.label.body.4=Пожалуйста, установите 64-битную версию JRE, например, Eclipse Temurin.
-gui.bad_java_arch.button.download=Загузить
+gui.bad_java_arch.button.download=Загрузить
 gui.bad_java_arch.button.continue=Продолжить
 
 gui.no_minecraft.label.title=Minecraft Beta 1.7.3 не найдена!
@@ -43,13 +43,13 @@ gui.no_minecraft.button.guide=Гайд по установке
 gui.no_minecraft.button.quit=Выход из игры
 
 gui.conflict_warning.label.title=Конфликт безопасности мира
-gui.conflict_warning.label.body.1=Minecraft обнаружил конфликт в сохраненённых данных мира.
-gui.conflict_warning.label.body.2=Это может возникнуть из-за двух запущенных кпий игры,
+gui.conflict_warning.label.body.1=Minecraft обнаружил конфликт в сохранённых данных мира.
+gui.conflict_warning.label.body.2=Это может возникнуть из-за двух запущенных копий игры,
 gui.conflict_warning.label.body.3=имеющих доступ к одному миру.
 gui.conflict_warning.label.body.4=Чтобы избежать повреждений мира, текущая игра будет завершена.
 gui.conflict_warning.button.back=Назад в меню
 
-gui.connect_failed.label.title=Ошибка подкючения к серверу
+gui.connect_failed.label.title=Ошибка подключения к серверу
 gui.connect_failed.button.back=Назад в меню
 
 gui.connect_to_ip.button.connect=Подключиться
@@ -96,7 +96,7 @@ gui.dispenser.label.inventory=Инвентарь
 gui.activator.label.activator=Активатор
 gui.activator.label.inventory=Инвентарь
 
-gui.downloading_terrain.label.title=Загузка ландшафта
+gui.downloading_terrain.label.title=Загрузка ландшафта
 
 gui.edit_flag.label.inventory=Инвентарь
 
@@ -375,7 +375,7 @@ model.category.entity.minecart.button.cycle=Тип вагонетки
 
 model.category.block.name=Блок
 model.category.block.info=Блок: %s
-model.category.block.basket.slider.fill=Заполненнось: %s
+model.category.block.basket.slider.fill=Заполненность: %s
 model.category.block.spawner.button.id=Моб: %s
 
 model.category.particle.name=Частицы
