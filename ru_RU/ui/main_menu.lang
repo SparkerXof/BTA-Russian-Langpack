@@ -1,0 +1,113 @@
+################################
+##### Related to main menu #####
+################################
+
+### Singleplayer ###
+gui.select_world.label.title=Выбор мира
+gui.select_world.label.world=Мир %s
+gui.select_world.label.must_be_converted=Должен быть конвертирован!
+gui.select_world.label.dimension_corrupted=Ошибка! Повреждение измерения!
+gui.select_world.label.outdated=Устарел - не может быть загружен (пока что!)
+gui.select_world.label.delete_title=Удаление мира
+gui.select_world.label.delete_confirm.1=Вы действительно хотите удалить этот мир?
+gui.select_world.label.delete_confirm.2='%s' будет удалён безвозвратно!
+gui.select_world.label.rename_title=Редактирование
+gui.select_world.label.world_name=Имя мира
+gui.select_world.label.cheats=Читы
+gui.select_world.label.unknown=НЕИЗВЕСТНО
+gui.select_world.button.play_selected_world=Играть в выбранном мире
+gui.select_world.button.rename=Настроить
+gui.select_world.button.create_new_world=Создать новый мир
+gui.select_world.button.delete=Удалить
+gui.select_world.button.cancel=Назад
+
+gui.create_world.label.title=Создание мира
+gui.create_world.label.world_name=Название мира
+gui.create_world.label.seed=Ключ генерации
+gui.create_world.button.create_new_world=Создать новый мир
+gui.create_world.button.cancel=Отмена
+gui.create_world.button.gamemode=%s
+gui.create_world.button.cheats=Читы: %s
+gui.create_world.button.cheats.on=ВКЛ
+gui.create_world.button.cheats.off=ВЫКЛ
+gui.create_world.button.world_settings=Настройки мира
+gui.create_world.label.new_world=Новый мир
+
+gui.world_settings.label.title=Настройки мира
+gui.world_settings.page.world_settings.title=Настройки мира
+gui.world_settings.label.world_type=Тип мира
+gui.world_settings.page.world_settings.category.overworld=Верхний мир
+world_settings.starting_biome.enabled.name=Стартовый биом
+gui.world_settings.page.world_settings.category.nether=Незер
+
+gui.world_settings.page.game_rules.title=Игровые правила
+gui.world_settings.page.game_rules.button.on=ВКЛ
+gui.world_settings.page.game_rules.button.off=ВЫКЛ
+gui.world_settings.page.mob_spawning.title=Мобы
+gui.world_settings.page.mob_spawning.button.on=ВКЛ
+gui.world_settings.page.mob_spawning.button.off=ВЫКЛ
+gui.world_settings.page.mob_spawning.hostile=Враждебные мобы
+gui.world_settings.page.mob_spawning.passive=Пассивные мобы
+gui.world_settings.label.starting_biome=Стартовый биом
+gui.world_settings.page.starting_biome.biome.none=Любой
+gui.world_settings.label.select_world_type=Тип мира
+gui.world_settings.button.done=Готово
+
+world_settings.values.on=ВКЛ
+world_settings.values.off=ВЫКЛ
+
+world_settings.world_height.bottom.name=Высота мира с низа
+world_settings.world_height.ocean.name=Высота океана
+world_settings.world_height.top.name=Высота мира с верха
+world_settings.single_season.enabled.name=Один сезон
+world_settings.single_season.value.name=
+world_settings.starting_biome.value.name=
+world_settings.single_biome.enabled.name=Один биом
+world_settings.single_biome.value.name=
+
+### Multiplayer ###
+gui.select_server.page.internet.title=Интернет
+gui.select_server.page.favorites.title=Избранное
+gui.select_server.page.history.title=История
+gui.select_server.page.lan.title=Локальная сеть
+gui.select_server.page.direct_connect.title=По адресу
+
+gui.select_server.label.title=Выбор сервера
+gui.select_server.label.delete_title=Удаление сервера
+gui.select_server.label.delete_confirm.1=Вы действительно хотите удалить этот сервер?
+gui.select_server.label.delete_confirm.2='%s' будет удалён безвозвратно!
+gui.select_server.label.edit.1=Редактирование
+gui.select_server.label.edit.2=Имя сервера
+gui.select_server.label.edit.3=Адрес сервера
+gui.select_server.label.down=ОТКЛЮЧЁН
+gui.select_server.label.outdated=УСТАРЕЛ
+gui.select_server.button.join_server=Подключиться
+gui.select_server.button.direct_connect=По адресу
+gui.select_server.button.add_server=Добавить
+gui.select_server.button.edit=Настроить
+gui.select_server.button.delete=Удалить
+gui.select_server.button.refresh=Обновить
+gui.select_server.button.cancel=Отмена
+gui.select_server.button.done=Готово
+gui.select_server.button.show_ip=Отображение IP: %s
+gui.select_server.button.show_ip.on=ВКЛ
+gui.select_server.button.show_ip.off=ВЫКЛ
+
+gui.select_server.popup.add.prompt.name=Имя сервера:
+gui.select_server.popup.add.prompt.ip=IP адрес:
+gui.select_server.popup.add.button.save=Сохранить
+gui.select_server.popup.add.button.cancel=Отмена
+gui.select_server.popup.add.showip.on=Показать IP: ВКЛ
+gui.select_server.popup.add.showip.off=Показать IP: ВЫКЛ
+
+gui.select_server.popup.edit.prompt.name=Имя сервера:
+gui.select_server.popup.edit.prompt.ip=IP адрес:
+gui.select_server.popup.edit.button.save=Сохранить
+gui.select_server.popup.edit.button.cancel=Отмена
+gui.select_server.popup.edit.showip.on=Показать IP: ВКЛ
+gui.select_server.popup.edit.showip.off=Показать IP: ВЫКЛ
+
+gui.select_server.popup.direct.prompt.ip=IP адрес:
+gui.select_server.popup.direct.button.connect=Подключиться
+gui.select_server.popup.direct.button.cancel=Отмена
+

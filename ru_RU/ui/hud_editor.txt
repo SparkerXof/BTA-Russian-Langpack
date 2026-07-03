@@ -1,0 +1,14 @@
+gui.options.hudeditor.onboarding.welcome=Добро пожаловать в редактор интерфейса!
+gui.options.hudeditor.onboarding.select=Нажмите '%1$s', чтобы выбрать компонент
+gui.options.hudeditor.onboarding.drag=Передвигайте мышью, удерживая '%1$s', чтобы двигать компонент
+gui.options.hudeditor.onboarding.context=Нажмите '%1$s', наводясь на компонент, чтобы показать настройки
+gui.options.hudeditor.onboarding.nudge=Нажмите '%1$s', чтобы сдвинуть любой выбранный компонент
+gui.options.hudeditor.onboarding.nudge_fast=Удерживайте '%1$s', чтобы ускорить сдвиг
+gui.options.hudeditor.onboarding.reset=Нажмите '%1$s', чтобы вернуть интерфейс по умолчанию
+gui.options.hudeditor.onboarding.exit=Нажмите '%1$s', чтобы выйти из редактора интерфейса
+gui.options.hudeditor.onboarding.reopen=Нажмите '%1$s' чтобы снова увидеть это окно!
+gui.options.hudeditor.onboarding.begin=Нажмите, чтобы начать
+gui.options.hudeditor.snap_to_fill=Привязка
+gui.options.hudeditor.scale=размер интерфейса
+gui.options.hudeditor.chat_width=Ширина чата
+gui.options.hudeditor.chat_height=Длина чата

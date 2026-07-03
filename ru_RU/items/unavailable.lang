@@ -1,0 +1,250 @@
+tile.air.name=Воздух
+
+tile.planks.oak.painted.name=Загадочные доски
+tile.planks.oak.painted.desc=Как ты это получил?!
+
+tile.fence.planks.oak.painted.name=Загадочный деревянный забор
+tile.fence.planks.oak.painted.desc=Как ты это получил?!
+
+tile.fencegate.planks.oak.painted.name=Загадочная деревянная калитка
+tile.fencegate.planks.oak.painted.desc=Как ты это получил?!
+
+tile.wool.name=Шерсть
+tile.wool.desc=Как ты это получил?!
+
+tile.slab.planks.oak.painted.name=Загадочная деревянная плита
+tile.slab.planks.oak.painted.desc=Как ты это получил?!
+
+tile.stairs.planks.oak.painted.name=Загадочные деревянные ступени
+tile.stairs.planks.oak.painted.desc=Как ты это получил?!
+
+tile.button.planks.painted.name=Загадочная кнопка
+tile.button.planks.painted.desc=How did you get this?!
+
+tile.pressureplate.planks.oak.painted.name=Загадочная нажимная плита
+tile.pressureplate.planks.oak.painted.desc=Выдаёт редстоун-сигнал, когда что-то находится на ней.
+
+tile.trapdoor.planks.oak.painted.name=Загадочный деревянный люк
+tile.trapdoor.planks.oak.painted.desc=Как ты это получил?!
+
+tile.chest.planks.oak.painted.name=Загадочный деревянный сундук
+tile.chest.planks.oak.painted.desc=Как ты это получил?!
+
+tile.lamp.idle.name=Лампа
+tile.lamp.idle.desc=Как ты это получил?!
+
+tile.lamp.active.name=Включённая лампа
+tile.lamp.active.desc=Как ты это получил?!
+tile.lamp.active.black.name=Включённая чёрная лампа
+tile.lamp.active.black.desc=Редстоуновая лампа, излучающая свет. Окрашена в чёрный.
+tile.lamp.active.red.name=Включённая красная лампа
+tile.lamp.active.red.desc=Редстоуновая лампа, излучающая свет. Окрашена в красный.
+tile.lamp.active.green.name=Включённая зелёная лампа
+tile.lamp.active.green.desc=Редстоуновая лампа, излучающая свет. Окрашена в зелёный.
+tile.lamp.active.brown.name=Включённая коричневая лампа
+tile.lamp.active.brown.desc=Редстоуновая лампа, излучающая свет. Окрашена в коричневый.
+tile.lamp.active.blue.name=Включённая синяя лампа
+tile.lamp.active.blue.desc=Редстоуновая лампа, излучающая свет. Окрашена в синий.
+tile.lamp.active.purple.name=Включённая фиолетовая лампа
+tile.lamp.active.purple.desc=Редстоуновая лампа, излучающая свет. Окрашена в фиолетовый.
+tile.lamp.active.cyan.name=Включённая бирюзовая лампа
+tile.lamp.active.cyan.desc=Редстоуновая лампа, излучающая свет. Окрашена в бирюзовый.
+tile.lamp.active.silver.name=Включённая светло-серая лампа
+tile.lamp.active.silver.desc=Редстоуновая лампа, излучающая свет. Окрашена в свтло-серый.
+tile.lamp.active.gray.name=Включённая серая лампа
+tile.lamp.active.gray.desc=Редстоуновая лампа, излучающая свет. Окрашена в серый.
+tile.lamp.active.pink.name=Включённая розовая лампа
+tile.lamp.active.pink.desc=Редстоуновая лампа, излучающая свет. Окрашена в розовый.
+tile.lamp.active.lime.name=Включённая лаймовая лампа
+tile.lamp.active.lime.desc=Редстоуновая лампа, излучающая свет. Окрашена в лаймовый.
+tile.lamp.active.yellow.name=Включённая жёлтая лампа
+tile.lamp.active.yellow.desc=Редстоуновая лампа, излучающая свет. Окрашена в жёлтый.
+tile.lamp.active.lightblue.name=Включённая голубая лампа
+tile.lamp.active.lightblue.desc=Редстоуновая лампа, излучающая свет. Окрашена в голубой.
+tile.lamp.active.magenta.name=Включённая пурпурная лампа
+tile.lamp.active.magenta.desc=Редстоуновая лампа, излучающая свет. Окрашена в пурпурный.
+tile.lamp.active.orange.name=Включённая оранжевая лампа
+tile.lamp.active.orange.desc=Редстоуновая лампа, излучающая свет. Окрашена в оранжевый.
+tile.lamp.active.white.name=Включённая белая лампа
+tile.lamp.active.white.desc=Редстоуновая лампа, излучающая свет.
+
+tile.lamp.inverted.idle.name=Выключенная обратная лампа
+tile.lamp.inverted.idle.desc=Как ты это получил?!
+tile.lamp.inverted.idle.black.name=Выключенная обратная чёрная лампа
+tile.lamp.inverted.idle.black.desc=Редстоуновая лампа, излучающая свет. Окрашена в чёрный.
+tile.lamp.inverted.idle.red.name=Выключенная обратная красная лампа
+tile.lamp.inverted.idle.red.desc=Редстоуновая лампа, излучающая свет. Окрашена в красный.
+tile.lamp.inverted.idle.green.name=Выключенная обратная зелёная лампа
+tile.lamp.inverted.idle.green.desc=Редстоуновая лампа, излучающая свет. Окрашена в зелёный.
+tile.lamp.inverted.idle.brown.name=Выключенная обратная коричневая лампа
+tile.lamp.inverted.idle.brown.desc=Редстоуновая лампа, излучающая свет. Окрашена в коричневый.
+tile.lamp.inverted.idle.blue.name=Выключенная обратная синяя лампа
+tile.lamp.inverted.idle.blue.desc=Редстоуновая лампа, излучающая свет. Окрашена в синий.
+tile.lamp.inverted.idle.purple.name=Выключенная обратная фиолетовая лампа
+tile.lamp.inverted.idle.purple.desc=Редстоуновая лампа, излучающая свет. Окрашена в фиолетовый.
+tile.lamp.inverted.idle.cyan.name=Выключенная обратная бирюзовая лампа
+tile.lamp.inverted.idle.cyan.desc=Редстоуновая лампа, излучающая свет. Окрашена в бирюзовый.
+tile.lamp.inverted.idle.silver.name=Выключенная обратная светло-серая лампа
+tile.lamp.inverted.idle.silver.desc=Редстоуновая лампа, излучающая свет. Окрашена в свтло-серый.
+tile.lamp.inverted.idle.gray.name=Выключенная обратная серая лампа
+tile.lamp.inverted.idle.gray.desc=Редстоуновая лампа, излучающая свет. Окрашена в серый.
+tile.lamp.inverted.idle.pink.name=Выключенная обратная розовая лампа
+tile.lamp.inverted.idle.pink.desc=Редстоуновая лампа, излучающая свет. Окрашена в розовый.
+tile.lamp.inverted.idle.lime.name=Выключенная обратная лаймовая лампа
+tile.lamp.inverted.idle.lime.desc=Редстоуновая лампа, излучающая свет. Окрашена в лаймовый.
+tile.lamp.inverted.idle.yellow.name=Выключенная обратная жёлтая лампа
+tile.lamp.inverted.idle.yellow.desc=Редстоуновая лампа, излучающая свет. Окрашена в жёлтый.
+tile.lamp.inverted.idle.lightblue.name=Выключенная обратная голубая лампа
+tile.lamp.inverted.idle.lightblue.desc=Редстоуновая лампа, излучающая свет. Окрашена в голубой.
+tile.lamp.inverted.idle.magenta.name=Выключенная обратная пурпурная лампа
+tile.lamp.inverted.idle.magenta.desc=Редстоуновая лампа, излучающая свет. Окрашена в пурпурный.
+tile.lamp.inverted.idle.orange.name=Выключенная обратная оранжевая лампа
+tile.lamp.inverted.idle.orange.desc=Редстоуновая лампа, излучающая свет. Окрашена в оранжевый.
+tile.lamp.inverted.idle.white.name=Выключенная обратная белая лампа
+tile.lamp.inverted.idle.white.desc=Редстоуновая лампа, излучающая свет.
+
+tile.lamp.inverted.active.name=Обратная лампа
+tile.lamp.inverted.active.desc=Как ты это получил?!
+tile.lamp.inverted.active.black.name=Обратная чёрная лампа
+tile.lamp.inverted.active.black.desc=Редстоуновая лампа, излучающая свет. Окрашена в чёрный.
+tile.lamp.inverted.active.red.name=Обратная красная лампа
+tile.lamp.inverted.active.red.desc=Редстоуновая лампа, излучающая свет. Окрашена в красный.
+tile.lamp.inverted.active.green.name=Обратная зелёная лампа
+tile.lamp.inverted.active.green.desc=Редстоуновая лампа, излучающая свет. Окрашена в зелёный.
+tile.lamp.inverted.active.brown.name=Обратная коричневая лампа
+tile.lamp.inverted.active.brown.desc=Редстоуновая лампа, излучающая свет. Окрашена в коричневый.
+tile.lamp.inverted.active.blue.name=Обратная синяя лампа
+tile.lamp.inverted.active.blue.desc=Редстоуновая лампа, излучающая свет. Окрашена в синий.
+tile.lamp.inverted.active.purple.name=Обратная фиолетовая лампа
+tile.lamp.inverted.active.purple.desc=Редстоуновая лампа, излучающая свет. Окрашена в фиолетовый.
+tile.lamp.inverted.active.cyan.name=Обратная бирюзовая лампа
+tile.lamp.inverted.active.cyan.desc=Редстоуновая лампа, излучающая свет. Окрашена в бирюзовый.
+tile.lamp.inverted.active.silver.name=Обратная светло-серая лампа
+tile.lamp.inverted.active.silver.desc=Редстоуновая лампа, излучающая свет. Окрашена в свтло-серый.
+tile.lamp.inverted.active.gray.name=Обратная серая лампа
+tile.lamp.inverted.active.gray.desc=Редстоуновая лампа, излучающая свет. Окрашена в серый.
+tile.lamp.inverted.active.pink.name=Обратная розовая лампа
+tile.lamp.inverted.active.pink.desc=Редстоуновая лампа, излучающая свет. Окрашена в розовый.
+tile.lamp.inverted.active.lime.name=Обратная лаймовая лампа
+tile.lamp.inverted.active.lime.desc=Редстоуновая лампа, излучающая свет. Окрашена в лаймовый.
+tile.lamp.inverted.active.yellow.name=Обратная жёлтая лампа
+tile.lamp.inverted.active.yellow.desc=Редстоуновая лампа, излучающая свет. Окрашена в жёлтый.
+tile.lamp.inverted.active.lightblue.name=Обратная голубая лампа
+tile.lamp.inverted.active.lightblue.desc=Редстоуновая лампа, излучающая свет. Окрашена в голубой.
+tile.lamp.inverted.active.magenta.name=Обратная пурпурная лампа
+tile.lamp.inverted.active.magenta.desc=Редстоуновая лампа, излучающая свет. Окрашена в пурпурный.
+tile.lamp.inverted.active.orange.name=Обратная оранжевая лампа
+tile.lamp.inverted.active.orange.desc=Редстоуновая лампа, излучающая свет. Окрашена в оранжевый.
+tile.lamp.inverted.active.white.name=Обратная белая лампа
+tile.lamp.inverted.active.white.desc=Редстоуновая лампа, излучающая свет.
+
+tile.ore.redstone.glowing.stone.name=Горящая каменная редстоуновая руда
+tile.ore.redstone.glowing.stone.desc=Красная пыль внутри камня. Излучает слабый свет.
+tile.ore.redstone.glowing.basalt.name=Горящая базальтовая редстоуновая руда
+tile.ore.redstone.glowing.basalt.desc=Красная пыль внутри базальта. Излучает слабый свет.
+tile.ore.redstone.glowing.limestone.name=Горящая известняковая редстоуновая руда
+tile.ore.redstone.glowing.limestone.desc=Красная пыль внутри известняка. Излучает слабый свет.
+tile.ore.redstone.glowing.granite.name=Горящая гранитная редстоуновая руда
+tile.ore.redstone.glowing.granite.desc=Красная пыль внутри гранита. Излучает слабый свет.
+tile.ore.redstone.glowing.permafrost.name=Горящая мерзлокаменная редстоуновая руда
+tile.ore.redstone.glowing.permafrost.desc=Красная пыль внутри мерзлокамня. Излучает слабый свет.
+
+tile.candle.wax.soul.name=Восковая свеча душ
+tile.candle.wax.soul.desc=Восковая коричневая свеча. Излучает неестественный свет.
+
+tile.basket.name=Корзина
+tile.basket.desc=Плетёная ёмкость для хранения предметов.
+
+tile.fluid.water.flowing.name=Текучая вода
+tile.fluid.water.flowing.desc=Вода. Течёт, если её разместить.
+tile.fluid.water.still.name=Стоячая вода
+tile.fluid.water.still.desc=Вода. Не течёт, если её разместить.
+tile.fluid.lava.flowing.name=Текучая лава
+tile.fluid.lava.flowing.desc=Лава. Течёт, если её разместить.
+tile.fluid.lava.still.name=Стоячая лава
+tile.fluid.lava.still.desc=Лава. Не течёт, если её разместить.
+
+tile.wire.redstone.name=Редстоун провод
+tile.wire.redstone.desc=Линия редстоун пыли, лежащей на земле.
+
+tile.stone.carved.name=Резной камень
+tile.stone.carved.desc=Полированный камень с высеченной линией по-середине.
+tile.granite.carved.name=Резной гранит
+tile.granite.carved.desc=Полированный гранит с высеченной линией по-середине.
+tile.limestone.carved.name=Резной известняк
+tile.limestone.carved.desc=Полированный известняк с высеченной линией по-середине.
+tile.basalt.carved.name=Резной базальт
+tile.basalt.carved.desc=Полированный базальт с высеченной линией по-середине.
+
+tile.cake.name=Торт
+tile.cake.desc=Нет ничего вкуснее.
+tile.pumpkin_pie.name=Тыквенный пирог
+tile.pumpkin_pie.desc=Я не хочу пирог!
+
+tile.chest.legacy.name=Старый сундук
+
+tile.crops.wheat.name=Ростки пшеницы
+tile.crops.wheat.desc=Пшеница, пробившаяся из земли.
+tile.crops.pumpkin.name=Ростки тыквы
+tile.crops.pumpkin.desc=Созревающая тыква, сорванный с земли.
+
+tile.sign.post.planks.oak.name=Деревянный указатель
+tile.sign.post.planks.oak.desc=Отдельно стоящая деревянная табличка.
+tile.sign.wall.planks.oak.name=Деревянная настенная табличка
+tile.sign.wall.planks.oak.desc=Деревянная табличка, повешенная на стену.
+
+tile.sugarcane.name=Сахарный тростник
+tile.sugarcane.desc=Не такой сладкий, как ты.
+
+tile.crystal.stalk.name=Незер-кристалл
+tile.crystal.stalk.desc=Фрагмент кристалла, ветвящийся в разные стороны.
+
+tile.portal.nether.name=Незер портал
+tile.portal.nether.desc=Портал в Незер.
+tile.portal.paradise.name=Дрейфовый портал
+tile.portal.paradise.desc=Портал в Дрейф.
+
+tile.trapdoor.glass.tinted.name=Люк из тонированного стекла
+tile.trapdoor.glass.tinted.desc=Блокирует лучи света.
+
+tile.door.planks.oak.bottom.name=Низ деревянной двери
+tile.door.planks.oak.bottom.desc=/give Honeydew 64 46
+
+tile.door.planks.oak.top.name=Верх деревянной двери
+tile.door.planks.oak.top.desc=Ой, погоди, это не динамит, это полдвери.
+tile.door.iron.bottom.name=Низ железный двери
+tile.door.iron.bottom.desc=Не так хорош сам по себе.
+tile.door.iron.top.name=Верх железный двери
+tile.door.iron.top.desc=Мог бы использовать друга.
+
+tile.door.steel.top.name=Верх стальной двери
+tile.door.steel.top.desc=Как ты это получил?!
+tile.door.steel.bottom.name=Низ стальной двери
+tile.door.steel.bottom.desc=Как ты это получил?!
+
+tile.bed.name=Кровать
+tile.bed.desc=Кровать!
+tile.seat.name=Сиденье
+tile.seat.desc=Сядьте и расслабьтесь.
+
+tile.fire.name=Огонь
+tile.fire.desc=Ой, горячо!
+tile.brazier.active.name=Зажженная жаровня
+tile.brazier.active.desc=Безопасное место для хранения огня.
+
+item.sign.painted.name=Крашеная табличка
+item.sign.painted.desc=Как ты это получил?!
+
+item.door.oak.painted.name=Крашеная деревянная дверь
+item.door.oak.painted.desc=Как ты это получил?!
+
+item.leaves.name=Листва
+item.leaves.desc=Шуршащая и зелёная.
+item.ammo.arrow.purple.name=Фиолетовая стрела
+item.ammo.arrow.purple.desc=Как ты получил это?!
+
+item.candle.soulwax.name=Восковая свеча душ
+item.candle.soulwax.desc=Восковая коричневая свеча. Излучает неестественный свет.
+
+item.door.glass.tinted.name=Дверь из тонированного стекла
+item.door.glass.tinted.desc=Неплоха для эстетики, неплоха для уединения

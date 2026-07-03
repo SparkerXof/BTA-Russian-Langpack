@@ -1,0 +1,432 @@
+########################
+##### Options menu #####
+########################
+
+options.off=ВЫКЛ
+options.on=ВКЛ
+gui.options.title=Настройки
+key.disabled=Пусто
+
+gui.options.button.done=Готово
+gui.options.label.select_page=Выбор страницы
+gui.options.label.picking_keybinding=Нажмите клавишу или кнопку мыши, для привязки к '%s'.
+
+
+### General ###
+gui.options.page.general.title=Общее
+
+gui.options.page.general.category.gameplay=Игровой процесс
+options.fov=Поле зрения
+options.fov.min=Бинокль
+options.fov.max=Quake-про
+
+options.difficulty=Сложность
+options.difficulty.locked=Заблокировано
+options.difficulty.peaceful=Мирная
+options.difficulty.easy=Легкая
+options.difficulty.normal=Нормальная
+options.difficulty.hard=Сложная
+
+options.placementMode=Режим размещения
+options.placementMode.default=Стандартный
+options.placementMode.side=По взгляду
+options.placementMode.facing=По стороне
+
+options.autoHit=Авто удар
+options.easyBridge=Простая постройка мостов
+options.bobView=Покачивание камеры
+
+gui.options.page.general.category.user_interface=Интерфейс
+gui.options.page.general.button.edit_hud=Редактировать HUD...
+options.guiScale=Размер интерфейса
+options.guiScale.auto=Авто
+
+options.screenPadding=Ограничение экрана
+
+options.tooltipStyle=Стиль подсказок
+options.tooltipStyle.default=Стандартный
+options.tooltipStyle.modern=Современный
+options.tooltipStyle.colorized=Цветной
+options.tooltipStyle.stone=Камень
+options.tooltipStyle.planks=Доски
+options.tooltipStyle.rpg=RPG
+options.tooltipStyle.crt=ЭЛТ
+options.tooltipStyle.metallic=Металический
+options.tooltipStyle.detailed=Детальный
+options.tooltipStyle.comfy=Уютный
+options.tooltipStyle.noteblock=Нотный блок
+options.tooltipStyle.retro=Ретро
+options.tooltipStyle.picnic=Пикник
+options.tooltipStyle.battle_ui=Битва
+options.tooltipStyle.interdimensional=Межпортальный
+options.tooltipStyle.redstone_goggles=Редстоун-очки
+options.tooltipStyle.creep-o-vision=Крип-виденье
+options.tooltipStyle.steve=Стив
+
+options.font=Шрифт
+options.font.default=По умолчанию
+options.font.unicode=Unicode
+options.font.monospace=Monospace
+
+options.chatVisibility=Видимость чата
+options.chatVisibility.show_all=Всегда
+options.chatVisibility.show_when_chatting=При вводе
+options.chatVisibility.never_show=Никогда
+
+options.fpsInOverlay=Отображение FPS
+options.versionInOverlay=Отображение версии
+options.foodHealthRegenOverlay=Отображение лечения
+options.armorDurabilityOverlay=Отображение прочности брони
+options.heldItemCountOverlay=Количество предметов в руке
+options.heldItemTooltips=Подсказки о предметах
+options.itemDescriptions=Описание предметов
+options.itemDescriptions.never_prompt=ВЫКЛ
+options.itemDescriptions.prompt=Подсказка
+options.itemDescriptions.always_show=ВКЛ
+options.hideUndiscoveredItems=Скрытие неизвестных предметов
+options.dynamicCursor=Динамичный курсор
+options.musicToasts=Подсказки о музыке
+
+gui.options.page.general.category.miscellaneous=Прочее
+options.discordRichPresence=Discord Rich Presence
+options.enableItemClumping=Группировка предметов
+options.forceUnicodeFont=Символы Unicode
+options.autosaveTimer=Автосохранение
+options.autosaveTimer.off=ВЫКЛ
+gui.options.page.general.button.open_worlds_folder=Открыть миры
+gui.options.page.general.button.open_screenshots_folder=Открыть скриншоты
+
+
+### Player ###
+gui.options.page.player.title=Игрок
+gui.options.page.player.category.player=Игрок
+options.player.left.handed=Левша
+options.player.cape=Плащ
+options.player.hat=Шапка
+options.player.jacket=Куртка
+options.player.sleeve.left=Левый рукав
+options.player.sleeve.right=Правый рукав
+options.player.pant.left=Левая штанина
+options.player.pant.right=Правая штанина
+options.player.hurtsound=Звук урона
+options.player.hurtsound.masculine=Мужской
+options.player.hurtsound.feminine=Женский
+options.player.hurtsound.neutral=Нейтральный
+
+### Audio ###
+gui.options.page.audio.title=Аудио
+gui.options.page.audio.category.audio=Аудио
+options.subtitles=Субтитры
+options.selectedSoundtrack=Саундтрек
+options.selectedSoundtrack.minecraft=Minecraft
+options.selectedSoundtrack.better_than_adventure=BTA!
+options.selectedSoundtrack.mixed=Смешанный
+options.musicFrequency=Частота музыки
+options.musicFrequency.continuous=Постоянно
+options.musicFrequency.frequent=Часто
+options.musicFrequency.default=Стандартно
+options.musicFrequency.unusual=Иногда
+options.musicFrequency.rare=Редко
+options.muteOnLostFocus=Без звука в фоне
+options.playTitleScreenMusic=Музыка на заглавном экране
+options.sound.master=Общая громкость
+options.sound.music=Громкость музыки
+options.sound.world=Громкость мира
+options.sound.weather=Громкость погоды
+options.sound.entity=Громкость сущностей
+options.sound.cave=Громкость звуков пещер
+options.sound.gui=Громкость интерфейса
+options.playServerSounds=Проигрывать звуки сервера
+
+### Video ###
+gui.options.page.video.title=Видео
+gui.options.page.video.category.display=Экран
+options.fullscreen=Полный экран
+options.borderlessFullscreen=Полный экран без рамки
+options.gamma=Гамма
+options.enableVsync=Вертикальная синхронизация
+options.customFpsLimit=Ограничение FPS
+options.customFpsLimit.unlimited=Неограниченный
+options.renderScale=Масштаб рендера
+options.renderScale.scale_25=0,25x
+options.renderScale.scale_50=0,5x
+options.renderScale.scale_100=1x
+options.renderScale.scale_200=2x
+options.colorblindnessFix=Дальтонизм
+options.colorblindnessFix.none=Нет
+options.colorblindnessFix.protanopia=Протанопия
+options.colorblindnessFix.deuteranopia=Дейтеранопия
+options.colorblindnessFix.tritanopia=Тританопия
+options.colorblindnessFix.grayscale=Ахромазия
+
+gui.options.page.video.category.visuals=Внешний вид
+options.ambientOcclusion=Мягкое освещение
+options.lightmapStyle=Стиль карт света
+options.lightmapStyle.gray=Стандартный
+options.lightmapStyle.colorized=Цветной
+options.lightmapStyle.disabled=ВЫКЛ
+options.brightness=Яркость
+options.brightness.min=Тускло
+options.brightness.default=По умолчанию
+options.brightness.max=Ярко
+options.connectedGlass=Соединение стекла
+options.fog=Туман
+options.biomeWater=Вода биомов
+options.clouds=Облака
+options.cloudHeight=Высота облаков
+options.cloudHeight.default=Стандартная
+options.cloudRenderDistance=Дистанция облаков
+options.cloudRenderDistance.default=Стандартная
+options.treeShadows=Тень от листвы
+options.vignette=Виньетка
+options.3Ditems=3D Предметы
+options.aurora=Полярное сияние
+options.slimeParticles=Частицы слизь-чанков
+options.blockOutlineWidth=Видимость обводки
+
+gui.options.page.video.category.post_processing=Пост-обработка
+options.colorCorrection=Коррекция цвета
+options.fxaa=FXAA
+options.bloom=Свечение
+options.bloom.low=Низкое
+options.bloom.high=Высокое
+options.heatHaze=Эффект жара
+
+gui.options.page.video.category.performance=Производительность
+options.renderDistance=Дальность прорисовки
+options.mipmapLevels=Уровень детализации
+options.mipmapType=Тип MIP-текстурирования
+options.mipmapType.rough=Грубо
+options.mipmapType.smooth=Мягко
+options.transparencyDepthCheck=Проверка глубины прозрачности
+options.frustumCulling=Отбраковка по полю зрения
+options.chunkRebuilds=Пересборов чанков за кадр
+options.leavesQuality=Качество листвы
+options.leavesQuality.fancy=Красивое
+options.leavesQuality.smart=Умное
+options.leavesQuality.fast=Быстрое
+options.particleQuality=Качество частиц
+options.particleQuality.all=Все
+options.particleQuality.reduced=Снижено
+options.particleQuality.none=Нет
+options.particleCap=Максимум частиц
+options.particleRenderDistance=Дистанция частиц
+options.particleRenderDistance.default=Стандартная
+options.entityRenderDistance=Дистанция сущностей
+options.entityRenderDistance.default=Стандартная
+options.entityShadows=Тени от сущностей
+options.cloudQuality=Качество облакоов
+options.cloudQuality.fast=Быстрое
+options.cloudQuality.fancy=Красивое
+options.textOutlineQuality=Качество отрисовки текста
+options.textOutlineQuality.fast=Быстрое
+options.textOutlineQuality.fancy=Красивое
+
+
+### Control ###
+gui.options.page.controls.title=Управление
+
+gui.options.page.controls.category.mouse=Мышь
+options.mouseSensitivity=Чувствительность
+options.invertYMouse=Инверсия мыши
+options.rawMouseInput=Прямой ввод мыши
+options.enableItemDragging=Перетаскивание предметов мышью
+options.smoothCamera=Кинематографичная камера
+options.flightSmoothness=Плавность полёта
+options.turnWithVehicle=Поворот с транспортом
+
+gui.options.page.controls.category.keyboard=Клавиатура
+options.sneakToggle=Переключение приседания
+options.swapCraftingButtons=Смена клавиш крафта
+
+gui.options.page.controls.category.controller=Контроллер
+gui.options.page.controls.button.controller_setup=Настройка контроллера...
+options.controllerSensitivity=Чувствительность в игре
+options.controllerMenuSensitivity=Чувствительность в меню
+options.controllerDeadzoneL=Мёртвая зона (Левый)
+options.controllerDeadzoneR=Мёртвая зона (Правый)
+options.controllerSwapShoulderButtons=Сменить LR R ZR R
+options.controllerSwapAB=Сменить A и B
+options.controllerSwapXY=Сменить X и Y
+
+gui.options.page.controls.category.interactions=Взаимодействие
+key.attack=Атака
+key.interact=Взаимодействие
+key.pickBlock=Выбор блока
+
+gui.options.page.controls.category.movement=Передвижение
+key.forward=Вперёд
+key.back=Назад
+key.left=Влево
+key.right=Вправо
+key.jump=Прыжок
+key.sneak=Красться
+key.fly=Полёт
+key.autoWalk=Авто ходьба
+key.easyBridge=Простая постройка мостов
+key.sprint=Бег (если доступен)
+
+gui.options.page.controls.category.user_interface=Интерфейс
+options.forceOnscreenKeyboard=Экранная клавиатура
+key.inventory=Инвентарь
+key.chat=Чат
+key.command=Ввод комманды
+key.guidebook=Руководство
+key.showRecipe=Рецепты из руководства
+key.showUsage=Применения из руководства
+key.description=Описание предметов
+key.openAchievements=Достижения
+key.openStatistics=Статистика
+key.playerList=Список игроков
+key.immersiveMode=Иммерсивный режим
+key.toggleDebug=Меню отладки
+key.toggleInfoOverlay=Оверлей
+key.sortInventory=Сортировка инвентаря
+
+gui.options.page.controls.category.hud_editor=Редактор интерфейса
+key.hudEditorSelect=Выбор компонента
+key.hudEditorOpenContext=Открыть меню компонента
+key.hudEditorNudgeUp=Сдвинуть компонент вверх
+key.hudEditorNudgeDown=Сдвинуть компонент вниз
+key.hudEditorNudgeLeft=Сдвинуть компонент влево
+key.hudEditorNudgeRight=Сдвинуть компонент вправо
+key.hudEditorNudgeFast=Сдвинуть компонент быстрее
+key.hudEditorReset=Вернуть интерфейс по умолчанию
+key.hudEditorExit=Выход из редактора
+key.hudEditorOnboarding=Показать экран приветствия
+
+gui.options.page.controls.category.hotbar=Хотбар
+key.hotbar.left=Влево в хотбаре
+key.hotbar.right=Вправо в хотбаре
+key.hotbar.switch=Переключение хотбара
+key.drop=Выбросить предмет
+key.hotbar.1=Слот 1
+key.hotbar.2=Слот 2
+key.hotbar.3=Слот 3
+key.hotbar.4=Слот 4
+key.hotbar.5=Слот 5
+key.hotbar.6=Слот 6
+key.hotbar.7=Слот 7
+key.hotbar.8=Слот 8
+key.hotbar.9=Слот 9
+
+gui.options.page.controls.category.view=Камера
+key.look.left=Поворот влево
+key.look.right=Поворот вправо
+key.look.up=Поворот вверх
+key.look.down=Поворот вниз
+key.look.center=Центрирование
+key.zoom=Приближение
+key.cinematicCamera=Кинематографичная камера
+key.switchPerspective=Смена перспективы
+key.photoMode=Фото-режим
+
+gui.options.page.controls.category.miscellaneous=Прочее
+key.fog=Туман
+key.gamma=Изменение гаммы
+key.lockRotation=Закрепление поворота блока
+key.screenshot=Снимок экрана
+key.showConsole=Консоль
+key.fullscreen=Полный экран
+
+### Accessability ###
+gui.options.page.accessibility.title=Доступность
+gui.options.page.accessibility.category.accessibility=Доступность
+options.fov.modification=Изменение поля зрения
+options.screen.motion.effects=Эффекты экрана
+
+### Asset Packs ###
+gui.options.page.asset_packs.title=Наборы ресурсов
+gui.options.page.asset_packs.category.textures=Текстуры
+options.animations=Анимации
+options.animations.custom=Ручные
+options.animations.procedural=Процедурные
+options.animations.off=ВЫКЛ
+options.customAnimations=Пользовательские анимации
+options.mobVariants=Вариации мобов
+options.customLightmap=Пользовательские карты света
+options.enableHolidayTextures=Праздничные текстуры
+gui.options.page.asset_packs.category.asset_packs.available=Доступные наборы ресурсов
+gui.options.page.asset_packs.category.asset_packs.selected=Выбранные наборы ресурсов
+gui.options.page.asset_packs.button.open_folder=Открыть папку
+gui.options.page.asset_packs.button.apply=Применить наборы ресурсов
+gui.options.page.asset_packs.label.no_packs=Наборы ресурсов не найдены :(
+gui.options.page.asset_packs.label.outdated_pack.1=Устаревший набор!
+gui.options.page.asset_packs.label.outdated_pack.2=Этот набор не был создан для текущей версии BTA!
+
+### Language Packs ###
+gui.options.page.language_packs.title=Наборы языков
+gui.options.page.language_packs.category.language_packs=Наборы языков
+gui.options.page.language_packs.button.open_folder=Открыть папку
+
+### Меню отладки ###
+gui.options.page.debug.title=Меню отладки
+gui.options.page.debug.category.settings=Настройки
+options.developerMode=Режим разработчика
+options.player.devmodel=Модель разработчика
+options.viewSupportMode=Показать поддержку
+options.old=Старое меню
+options.lockCamera=Фиксация камеры
+options.showDebugScreen=Экран отладки
+options.showFrameTimes=Время кадра
+options.showChunkBorders=Границы чанков
+options.showCollisionBoxes=Коллизия
+options.showItemDebugInfo=Дополненные подсказки
+options.disableCrashHandler=Отключение перехвата ошибок
+options.startInFullscreen=Запуск в полном экране
+options.loadAllSounds=Загрузка всех звуков
+options.allowSoundOverrides=Перезапись звуков
+options.downloadSoundfiles=Установка звуковых файлов
+options.enableDevResourceLoading=Загрузка ресурсов разработчика
+options.enableThreadedChunkProvider=Поточная програзка чанков (эксперимент!)
+options.enableThreadedChunkProvider.static=Статичный
+options.enableThreadedChunkProvider.dynamic=Динамичный
+options.enableThreadedChunkProvider.threaded=Поточный
+options.doJCECheck=Проверка JCE
+
+gui.options.page.debug.category.controls=Управление отладки
+key.debug.textureAtlas=Карта текстур
+key.debug.textureAtlasLayer=Смещение слоя карты текстур
+key.debug.shortcuts=Показать сочетания клавиш
+key.debug.reload=Перезагрузка текстур
+key.debug.gamemode=Смена режима игры
+key.debug.dumptextures=Выгрузить текстуры
+key.debug.fullbright=Отключение теней
+key.debug.lightmap=Смена карт света
+key.debug.collision=Отображение коллизий
+key.debug.chunkborders=Отображение границ чанков
+key.debug.clearchat=Очистка чата
+key.debug.pauseFocus=Пауза при неактивном окне
+key.debug.iteminfo=Дополненные подсказки
+key.debug.reloadchunks=Перезагрузка чанков
+key.debug.smoothlighting=Мягкое освещение
+key.debug.releasecursor=Отпустить курсор
+key.debug.loadChunksQuickly=Быстрая загрузка чанков
+
+
+gui.options.page.debug.category.utility=Утилиты
+gui.options.page.debug.button.open.model_viewer=Просмотр моделей
+gui.options.page.debug.button.open.sound_test=Тест звуков
+gui.options.page.debug.button.open.texture_viewer=Просмотр текстур
+gui.options.page.debug.button.open.biome_finder=Поиск биомов
+gui.options.page.debug.button.open.font_tester=Тест шрифтов
+gui.options.page.debug.button.open.nbt_tester=Тест редактора NBT
+gui.options.page.debug.button.open.datadumper=Дамп данных
+gui.options.page.debug.button.open.achievements=Открыть достижения
+
+gui.options.page.debug.category.test=Тесты
+gui.options.page.debug.button.music.skip=Включить фоновую музыку
+gui.options.page.debug.button.cheat=Включение читов
+gui.options.page.debug.button.wipestats=Удаление статистики
+gui.options.page.debug.button.unlockedall=Разблокировка всей статистики
+gui.options.page.debug.button.crash.soft=Мягкий вылет
+gui.options.page.debug.button.garbage_collect=Запуск сборщика мусора
+gui.options.page.debug.button.reload_commands=Перезагрузка комманд
+
+### Search ###
+gui.options.page.search.title=Поиск
+
+
+
+
+

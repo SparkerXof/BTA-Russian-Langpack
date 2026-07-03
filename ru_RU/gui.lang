@@ -16,15 +16,6 @@ gui.achievements.page.overworld.desc=Достижения начального �
 gui.achievements.page.nether.name=Незер
 gui.achievements.page.nether.desc=Адские достижения!
 
-gui.add_server.label.title=Добавить
-gui.add_server.button.save=Сохранить
-gui.add_server.button.cancel=Отмена
-gui.add_server.button.show_ip=Отображение IP: %s
-gui.add_server.button.show_ip.on=ВКЛ
-gui.add_server.button.show_ip.off=ВЫКЛ
-gui.add_server.label.server_name=Имя сервера
-gui.add_server.label.ip_address=IP адрес
-
 gui.bad_java_arch.label.title=32-битная версия Java обнаружена!
 gui.bad_java_arch.label.body.1=Похоже вы запускаете Better than Adventure на 32-битной версии Java.
 gui.bad_java_arch.label.body.2=Это может создать проблемы с распределением памяти, включающие в себя тормоза
@@ -52,11 +43,6 @@ gui.conflict_warning.button.back=Назад в меню
 gui.connect_failed.label.title=Ошибка подключения к серверу
 gui.connect_failed.button.back=Назад в меню
 
-gui.connect_to_ip.button.connect=Подключиться
-gui.connect_to_ip.button.cancel=Отмена
-gui.connect_to_ip.label.title=Подключение по IP
-gui.connect_to_ip.label.enter_ip=Введите IP сервера, чтобы войти:
-
 gui.connecting.button.cancel=Отмена
 gui.connecting.label.connecting=Подключение к серверу...
 gui.connecting.label.logging_in=Вход...
@@ -66,19 +52,6 @@ gui.controller_setup.label.no_controller_selected=Контроллер не вы
 
 gui.crafting.label.crafting=Создание
 gui.crafting.label.inventory=Инвентарь
-
-gui.create_world.label.title=Создать новый мир
-gui.create_world.label.world_name=Название
-gui.create_world.label.seed=Ключ генератора мира
-gui.create_world.button.create_new_world=Создать новый мир
-gui.create_world.button.cancel=Назад
-gui.create_world.button.gamemode=%s
-gui.create_world.button.cheats=Читы: %s
-gui.create_world.button.cheats.on=ВКЛ
-gui.create_world.button.cheats.off=ВЫКЛ
-gui.create_world.button.world_type=Тип мира: %s
-gui.create_world.label.new_world=Новый мир
-gui.create_world.label.select_world_type=Выберите тип мира
 
 gui.create_world.label.title=Создание мира
 gui.create_world.button.cancel=Отмена
@@ -158,7 +131,7 @@ gui.main_menu.label.downloading_resources=Загрузка ресурсов: %s 
 gui.main_menu.button.singleplayer=Одиночная игра
 gui.main_menu.button.multiplayer=Сетевая игра
 gui.main_menu.button.multiplayer.disabled=Сетевая игра (не готово!)
-gui.main_menu.button.texture_packs=Наборы текстур
+gui.main_menu.button.asset_packs=Наборы ресурсов
 gui.main_menu.button.options=Настройки...
 gui.main_menu.button.quit_game=Выйти из игры
 gui.main_menu.button.discord=Discord
@@ -174,81 +147,7 @@ gui.out_of_memory.label.body.4=памяти.
 gui.out_of_memory.label.body.5=Чтобы избежать повреждений в мире, текущая игра будет завершена.
 gui.out_of_memory.label.body.6=Пожалуйста, перезапустите игру.
 
-gui.options.title=Настройки
-gui.options.button.done=Готово
-gui.options.label.select_page=Выбор страницы
-gui.options.label.picking_keybinding=Нажмите клавишу или кнопку мыши, для привязки к '%s'.
-
-gui.options.page.general.title=Общее
-gui.options.page.general.button.open_worlds_folder=Открыть миры
-gui.options.page.general.button.open_screenshots_folder=Открыть скриншоты
-gui.options.page.general.button.edit_hud=Редактировать HUD...
-gui.options.page.general.category.gameplay=Игровой процесс
-gui.options.page.general.category.user_interface=Интерфейс
-gui.options.page.general.category.miscellaneous=Прочее
-
-gui.options.page.player.title=Игрок
-gui.options.page.player.category.player=Игрок
-
-gui.options.page.audio.title=Аудио
-gui.options.page.audio.category.audio=Аудио
-gui.options.page.audio.category.debug=Отладка
-
-gui.options.page.video.title=Видео
-gui.options.page.video.category.graphics=Графика
-gui.options.page.video.category.performance=Производительность
-gui.options.page.video.category.post_processing=Пост-обработка
-gui.options.page.video.category.visuals=Внешний вид
-
-gui.options.page.controls.title=Управление
-gui.options.page.controls.button.controller_setup=Настройка контроллера...
 gui.options.page.controls.button.key.unbound=Нет привязки
-gui.options.page.controls.category.mouse=Мышь
-gui.options.page.controls.category.keyboard=Клавиатура
-gui.options.page.controls.category.controller=Контроллер
-gui.options.page.controls.category.interactions=Взаимодействие
-gui.options.page.controls.category.movement=Передвижение
-gui.options.page.controls.category.user_interface=Интерфейс
-gui.options.page.controls.category.hotbar=Хотбар
-gui.options.page.controls.category.view=Камера
-gui.options.page.controls.category.miscellaneous=Прочее
-
-gui.options.page.accessibility.title=Доступность
-gui.options.page.accessibility.category.accessibility=Доступность
-
-gui.options.page.texture_packs.title=Наборы текстур
-gui.options.page.texture_packs.category.textures=Текстуры
-gui.options.page.texture_packs.category.texture_packs.available=Доступные наборы текстур
-gui.options.page.texture_packs.category.texture_packs.selected=Выбранные наборы текстур
-gui.options.page.texture_packs.button.open_folder=Открыть папку
-gui.options.page.texture_packs.button.apply=Применить наборы текстур
-gui.options.page.texture_packs.label.no_packs=Не найдено наборов текстур :(
-gui.options.page.texture_packs.label.outdated_pack.1=Устаревший!
-gui.options.page.texture_packs.label.outdated_pack.2=Набор не создан для данной версии BTA!
-
-gui.options.page.language_packs.title=Наборы языков
-gui.options.page.language_packs.category.language_packs=Наборы языков
-gui.options.page.language_packs.button.open_folder=Открыть папку
-
-gui.options.page.debug.title=Меню отладки
-gui.options.page.debug.category.controls=Отладка управления
-gui.options.page.debug.category.utility=Утилиты
-gui.options.page.debug.category.settings=Настройки
-gui.options.page.debug.category.test=Тесты
-gui.options.page.debug.button.open.model_viewer=Открыть просмотр моделей
-gui.options.page.debug.button.open.biome_finder=Открыть поиск биомов
-gui.options.page.debug.button.open.datadumper=Запустить дамп данных
-gui.options.page.debug.button.open.sound_test=Запустить тест звуков
-gui.options.page.debug.button.open.texture_viewer=Открыть просмотр текстур
-gui.options.page.debug.button.open.achievements=Открыть достижения
-gui.options.page.debug.button.wipestats=Удалить статистику
-gui.options.page.debug.button.unlockedall=Разблокировать всю статистику
-gui.options.page.debug.button.cheat=Включить читы
-gui.options.page.debug.button.crash.soft=Crash Soft
-gui.options.page.debug.button.crash.hard=Crash Hard
-gui.options.page.debug.button.music.skip=Force Ambient Music
-
-gui.options.page.search.title=Поиск
 
 gui.sound_test.label.title=Тест звуков
 gui.sound_test.label.repo=Репозиторий звуков: %s
@@ -281,45 +180,6 @@ gui.photo_mode.button.tilt.default=СТАНДАРТ
 gui.photo_mode.button.shader=Шейдер: %s
 gui.photo_mode.button.shader.none=НЕТ
 gui.photo_mode.button.intensity=Интенсивность: %s
-
-gui.select_server.label.title=Выбор сервера
-gui.select_server.label.delete_title=Удаление сервера
-gui.select_server.label.delete_confirm.1=Вы действительно хотите удалить этот сервер?
-gui.select_server.label.delete_confirm.2='%s' будет удалён безвозвратно!
-gui.select_server.label.edit.1=Редактирование
-gui.select_server.label.edit.2=Имя сервера
-gui.select_server.label.edit.3=Адрес сервера
-gui.select_server.label.down=ОТКЛЮЧЁН
-gui.select_server.label.outdated=УСТАРЕЛ
-gui.select_server.button.join_server=Подключиться
-gui.select_server.button.direct_connect=По адресу
-gui.select_server.button.add_server=Добавить
-gui.select_server.button.edit=Настроить
-gui.select_server.button.delete=Удалить
-gui.select_server.button.refresh=Обновить
-gui.select_server.button.cancel=Отмена
-gui.select_server.button.done=Готово
-gui.select_server.button.show_ip=Отображение IP: %s
-gui.select_server.button.show_ip.on=ВКЛ
-gui.select_server.button.show_ip.off=ВЫКЛ
-
-gui.select_world.label.title=Выбор мира
-gui.select_world.label.world=Мир %s
-gui.select_world.label.must_be_converted=Должен быть конвертирован!
-gui.select_world.label.dimension_corrupted=Ошибка! Повреждение измерения!
-gui.select_world.label.outdated=Устарел - не может быть загружен (пока что!)
-gui.select_world.label.delete_title=Удаление мира
-gui.select_world.label.delete_confirm.1=Вы действительно хотите удалить этот мир?
-gui.select_world.label.delete_confirm.2='%s' будет удалён безвозвратно!
-gui.select_world.label.rename_title=Редактирование
-gui.select_world.label.world_name=Имя мира
-gui.select_world.label.cheats=Читы
-gui.select_world.label.unknown=НЕИЗВЕСТНО
-gui.select_world.button.play_selected_world=Играть в выбранном мире
-gui.select_world.button.rename=Настроить
-gui.select_world.button.create_new_world=Создать новый мир
-gui.select_world.button.delete=Удалить
-gui.select_world.button.cancel=Назад
 
 gui.sleeping.leave_bed=Слезть с кровати
 gui.sleeping.multiplayer.leave_bed=Слезть с кровати
@@ -388,3 +248,10 @@ gui.credits.button.done=Готово
 gui.credits.label.title=Авторы
 
 gui.tooltip.prompt.description=%s: Описание...
+
+options.coordsInOverlay=Координаты в оверлее
+options.directionInOverlay=Направление в оверлее
+options.timeInOverlay=Время в оверлее
+options.seasonInOverlay=Сезон в оверлее
+options.weatherInOverlay=Погода в оверлее
+options.biomeInOverlay=Биом в оверлее
