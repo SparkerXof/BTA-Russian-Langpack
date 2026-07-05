@@ -1,0 +1,62 @@
+messages.player_joined=Игрок %s присоединился к игре.
+messages.player_left=Игрок %s покинул игру.
+messages.player_kicked=Игрок %s покинул игру.
+
+messages.illegal_characters=[СЕРВЕР] Сообщение содержит запрещённые символы.
+
+messages.sleep.succeed=Игрок %s лёг спать. Доброй ночи!
+messages.sleep.enter_bed=%s лёг спать.
+messages.sleep.exit_bed=%s слез с кровати.
+messages.sleep.more_required=Игроков требуется для пропуска ночи: %s.
+messages.sleep.more_required.singular=Ещё %s игрок требуется для пропуска ночи.
+
+messages.bed.occupied=Кровать занята.
+messages.bed.noSleep=Спать можно только ночью или во время грозы.
+messages.bed.setSpawn=Точка возрождения установлена.
+messages.bed.notValid=Точка возврождения пропала или недоступна.
+messages.bed.noAllowSleeping=Сон отключён.
+messages.bed.unsafeToSleep=Спать здесь небезопасно.
+
+messages.wand.wrongmode=Предмет доступен толлько в режиме творчества!
+
+messages.flag.full=На карте слишком много флагов!
+messages.flag.overwrite=Существующий узор невозможно перезаписать.
+messages.flag.copied=Узор флага скопирован.
+
+messages.death.mob.generic=Существо %s умерло.
+messages.death.mob.lava=Существо %s решило поплавать в лаве.
+messages.death.mob.spikes=Существо %s насадило себя на шипы.
+messages.death.mob.fall=Существо %s сломало ноги.
+messages.death.mob.drowned=Существо %s задохнулось.
+messages.death.mob.fire=Сущесто %s сгорело заживо.
+messages.death.mob.killed_by=Существо %s было убито %s.
+
+messages.death.player.generic=Игрок %s умер при загадочных обстоятельствах.
+messages.death.player.lava=Игрок %s решил поплавать в лаве.
+messages.death.player.spikes=Игрок %s упал в ловушку.
+messages.death.player.fall=Игрок %s забыл надеть парашют.
+messages.death.player.drowned=Игрок %s подался на корм рыбам.
+messages.death.player.fire=Игрок %s зажарился.
+messages.death.player.tnt=Игрок %s был убит Popbob.
+messages.death.player.lightning=Игрок %s испытал гнев Богов.
+messages.death.player.herobrine=Игрок %s был убит Herobrine.
+messages.death.player.killed_by=Игрок %s был подло убит %s.
+messages.death.player.killed_by.zombie=Игрок %s стал зомби.
+messages.death.player.killed_by.zombie_pig=Игрок %s проверял терпение свинозомби.
+messages.death.player.killed_by.creeper=Игрок %s не заметил крипера.
+messages.death.player.killed_by.skeleton=Игрок %s стал жертвой аимбота.
+messages.death.player.killed_by.spider=Игрок %s запутался в сетях.
+messages.death.player.killed_by.ghast=Игрок %s не вернул отправителю.
+messages.death.player.killed_by.slime=Игрок %s был поглощён слизью.
+messages.death.player.killed_by.wolf=Игрок %s получит то, что заслужил.
+messages.death.player.killed_by.giant=Игрок %s был убит- погоди, что?!
+messages.death.player.killed_by.pig=Игрок %s ВООБЩЕ не умеет играть в Minecraft.
+messages.death.player.killed_by.arrow=Игрок %s стал игольницей.
+messages.death.player.killed_by.arrow_player=Игроку %s попал прямо в сердце %s.
+messages.death.player.killed_by.arrow_suicide=Игрок %s проиграл в Русской рулетке.
+messages.death.player.killed_by.arrow_golden=Игрок %s теперь считает дырки.
+messages.death.player.killed_by.arrow_golden_player=Игрока %s пронзил насквозь %s.
+messages.death.player.killed_by.arrow_golden_suicide=Игрок %s не заметил бревна в глазу.
+messages.death.player.killed_by.cannonball=Игрок %s был подорван.
+messages.death.player.killed_by.cannonball_player=Игрок %s разлетелся на куски благодаря %s.
+messages.death.player.killed_by.cannonball_suicide=Игрок %s прыгал слишком высоко.
