@@ -34,6 +34,7 @@ options.placementMode.facing=По стороне
 
 options.autoHit=Авто удар
 options.easyBridge=Простая постройка мостов
+options.easyBridgeOutline=Обводка для постройки мостов
 options.bobView=Покачивание камеры
 
 gui.options.page.general.category.user_interface=Интерфейс
