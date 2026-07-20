@@ -186,6 +186,8 @@ options.blockOutlineWidth=Видимость обводки
 
 gui.options.page.video.category.post_processing=Пост-обработка
 options.colorCorrection=Коррекция цвета
+options.colorCorrectionOverworld=Коррекция цвета в верхнем мире
+options.colorCorrectionNether=Коррекция цвета в Незере
 options.fxaa=FXAA
 options.bloom=Свечение
 options.bloom.low=Низкое
