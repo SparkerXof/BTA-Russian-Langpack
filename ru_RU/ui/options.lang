@@ -52,7 +52,7 @@ options.tooltipStyle.stone=Камень
 options.tooltipStyle.planks=Доски
 options.tooltipStyle.rpg=RPG
 options.tooltipStyle.crt=ЭЛТ
-options.tooltipStyle.metallic=Металический
+options.tooltipStyle.metallic=Металлический
 options.tooltipStyle.detailed=Детальный
 options.tooltipStyle.comfy=Уютный
 options.tooltipStyle.noteblock=Нотный блок
@@ -67,7 +67,7 @@ options.tooltipStyle.steve=Стив
 options.font=Шрифт
 options.font.default=По умолчанию
 options.font.unicode=Unicode
-options.font.monospace=Monospace
+options.font.monospace=Моноширинный
 
 options.chatVisibility=Видимость чата
 options.chatVisibility.show_all=Всегда
@@ -84,7 +84,7 @@ options.itemDescriptions=Описание предметов
 options.itemDescriptions.never_prompt=ВЫКЛ
 options.itemDescriptions.prompt=Подсказка
 options.itemDescriptions.always_show=ВКЛ
-options.hideUndiscoveredItems=Скрытие неизвестных предметов
+options.hideUndiscoveredItems=Сокрытие неизвестных предметов
 options.dynamicCursor=Динамичный курсор
 options.musicToasts=Подсказки о музыке
 
@@ -218,7 +218,7 @@ options.particleRenderDistance.default=Стандартная
 options.entityRenderDistance=Дистанция сущностей
 options.entityRenderDistance.default=Стандартная
 options.entityShadows=Тени от сущностей
-options.cloudQuality=Качество облакоов
+options.cloudQuality=Качество облаков
 options.cloudQuality.fast=Быстрое
 options.cloudQuality.fancy=Красивое
 options.textOutlineQuality=Качество отрисовки текста
@@ -265,7 +265,7 @@ key.right=Вправо
 key.jump=Прыжок
 key.sneak=Красться
 key.fly=Полёт
-key.autoWalk=Авто ходьба
+key.autoWalk=Авто-ходьба
 key.easyBridge=Простая постройка мостов
 key.sprint=Бег (если доступен)
 
@@ -273,7 +273,7 @@ gui.options.page.controls.category.user_interface=Интерфейс
 options.forceOnscreenKeyboard=Экранная клавиатура
 key.inventory=Инвентарь
 key.chat=Чат
-key.command=Ввод комманды
+key.command=Ввод команды
 key.guidebook=Руководство
 key.showRecipe=Рецепты из руководства
 key.showUsage=Применения из руководства
@@ -327,7 +327,7 @@ key.photoMode=Фото-режим
 gui.options.page.controls.category.miscellaneous=Прочее
 key.fog=Туман
 key.gamma=Изменение гаммы
-key.lockRotation=Закрепление поворота блока
+key.lockRotation=Блокировка поворота блока
 key.screenshot=Снимок экрана
 key.showConsole=Консоль
 key.fullscreen=Полный экран
@@ -381,7 +381,7 @@ options.loadAllSounds=Загрузка всех звуков
 options.allowSoundOverrides=Перезапись звуков
 options.downloadSoundfiles=Установка звуковых файлов
 options.enableDevResourceLoading=Загрузка ресурсов разработчика
-options.enableThreadedChunkProvider=Поточная програзка чанков (эксперимент!)
+options.enableThreadedChunkProvider=Поточная прогрузка чанков (эксперимент!)
 options.enableThreadedChunkProvider.static=Статичный
 options.enableThreadedChunkProvider.dynamic=Динамичный
 options.enableThreadedChunkProvider.threaded=Поточный
@@ -424,12 +424,7 @@ gui.options.page.debug.button.wipestats=Удаление статистики
 gui.options.page.debug.button.unlockedall=Разблокировка всей статистики
 gui.options.page.debug.button.crash.soft=Мягкий вылет
 gui.options.page.debug.button.garbage_collect=Запуск сборщика мусора
-gui.options.page.debug.button.reload_commands=Перезагрузка комманд
+gui.options.page.debug.button.reload_commands=Перезагрузка команд
 
 ### Search ###
 gui.options.page.search.title=Поиск
-
-
-
-
-

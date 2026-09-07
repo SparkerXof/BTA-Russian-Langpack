@@ -164,17 +164,17 @@ tile.fluid.lava.flowing.desc=Лава. Течёт, если её размест�
 tile.fluid.lava.still.name=Стоячая лава
 tile.fluid.lava.still.desc=Лава. Не течёт, если её разместить.
 
-tile.wire.redstone.name=Редстоун провод
-tile.wire.redstone.desc=Линия редстоун пыли, лежащей на земле.
+tile.wire.redstone.name=Редстоун-провод
+tile.wire.redstone.desc=Линия редстоун-пыли, лежащей на земле.
 
 tile.stone.carved.name=Резной камень
-tile.stone.carved.desc=Полированный камень с высеченной линией по-середине.
+tile.stone.carved.desc=Полированный камень с высеченной линией посередине.
 tile.granite.carved.name=Резной гранит
-tile.granite.carved.desc=Полированный гранит с высеченной линией по-середине.
+tile.granite.carved.desc=Полированный гранит с высеченной линией посередине.
 tile.limestone.carved.name=Резной известняк
-tile.limestone.carved.desc=Полированный известняк с высеченной линией по-середине.
+tile.limestone.carved.desc=Полированный известняк с высеченной линией посередине.
 tile.basalt.carved.name=Резной базальт
-tile.basalt.carved.desc=Полированный базальт с высеченной линией по-середине.
+tile.basalt.carved.desc=Полированный базальт с высеченной линией посередине.
 
 tile.cake.name=Торт
 tile.cake.desc=Нет ничего вкуснее.

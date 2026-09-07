@@ -13,11 +13,11 @@ messages.sleep.more_required.singular=Ещё %s игрок требуется д
 messages.bed.occupied=Кровать занята.
 messages.bed.noSleep=Спать можно только ночью или во время грозы.
 messages.bed.setSpawn=Точка возрождения установлена.
-messages.bed.notValid=Точка возврождения пропала или недоступна.
+messages.bed.notValid=Точка возрождения пропала или недоступна.
 messages.bed.noAllowSleeping=Сон отключён.
 messages.bed.unsafeToSleep=Спать здесь небезопасно.
 
-messages.wand.wrongmode=Предмет доступен толлько в режиме творчества!
+messages.wand.wrongmode=Предмет доступен только в режиме творчества!
 
 messages.flag.full=На карте слишком много флагов!
 messages.flag.overwrite=Существующий узор невозможно перезаписать.
